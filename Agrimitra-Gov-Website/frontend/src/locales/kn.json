@@ -1,0 +1,1024 @@
+{
+  "app.name": "ಎಗ್ರಿಮಿತ್ರ",
+  "gov.name": "ಭಾರತ ಸರಕಾರ",
+  "dept.agri": "ಕೃಷಿ ಮತ್ತು ರೈತರ ಕಲ್ಯಾಣ ಇಲಾಖೆ",
+  "dept.agri.short": "ಕೃಷಿ ಇಲಾಖೆ",
+
+  "nav.dashboard": "ಡ್ಯಾಶ್‌ಬೋರ್ಡ್",
+  "nav.farmers": "ರೈತರ ನಿರ್ದೇಶಿಕೆ",
+  "nav.yield": "ಉತ್ಪಾದನೆ ಮತ್ತು ಬೆಳೆ ವಿಶ್ಲೇಷಣೆ",
+  "nav.pest": "ಕೀಟ ಮತ್ತು ರೋಗ ಟ್ರ್ಯಾಕಿಂಗ್",
+  "nav.market": "ಮಾರುಕಟ್ಟೆ ಬೆಲೆಗಳು",
+  "nav.alerts": "ಎಚ್ಚರಿಕೆಗಳು ಮತ್ತು ಸೂಚನೆಗಳು",
+  "nav.schemes": "ಯೋಜನೆಗಳು ಮತ್ತು ಸಬ್ಸಿಡಿಗಳು",
+  "nav.reports": "ವರದಿಗಳು ಮತ್ತು ಒಳನೋಟಗಳು",
+  "nav.settings": "ಸೆಟ್ಟಿಂಗ್ಸ್",
+
+  "footer.copyright": "© 2025 ಭಾರತ ಸರಕಾರ",
+  "footer.dept": "ಎಲೆಕ್ಟ್ರಾನಿಕ್ಸ್ ಮತ್ತು ಐಟಿ ಇಲಾಖೆ",
+
+  "login.title": "ಭಾರತ ಸರಕಾರ",
+  "login.subtitle": "ಕೃಷಿ ಇಲಾಖೆ",
+  "login.signin": "ಪೋರ್ಟಲ್‌ಗೆ ಸೈನ್ ಇನ್ ಮಾಡಿ",
+  "login.signin.description": "ಸಿಸ್ಟಮ್ ಅನ್ನು ಪ್ರವೇಶಿಸಲು ನಿಮ್ಮ ಪ್ರಮಾಣಪತ್ರಗಳನ್ನು ನಮೂದಿಸಿ",
+  "login.username": "ಬಳಕೆದಾರ ಹೆಸರು",
+  "login.password": "ಪಾಸ್‌ವರ್ಡ್",
+  "login.securityCode": "ಭದ್ರತಾ ಕೋಡ್",
+  "login.enterUsername": "ನಿಮ್ಮ ಬಳಕೆದಾರ ಹೆಸರನ್ನು ನಮೂದಿಸಿ",
+  "login.enterPassword": "ನಿಮ್ಮ ಪಾಸ್‌ವರ್ಡ್ ನಮೂದಿಸಿ",
+  "login.enterCaptcha": "ಕ್ಯಾಪ್ಚಾ ನಮೂದಿಸಿ",
+  "login.signingIn": "ಸೈನ್ ಇನ್ ಆಗುತ್ತಿದೆ...",
+  "login.signIn": "ಸೈನ್ ಇನ್",
+  "login.copyright": "© 2025 ಭಾರತ ಸರಕಾರ. ಎಲ್ಲ ಹಕ್ಕುಗಳು ಕಾಪಾಡಲಾಗಿವೆ.",
+
+  "header.notifications": "ಸೂಚನೆಗಳು",
+  "header.viewAll": "ಎಲ್ಲಾ ಸೂಚನೆಗಳನ್ನು ವೀಕ್ಷಿಸಿ",
+  "header.adminUser": "ನಿರ್ವಾಹಕ ಬಳಕೆದಾರ",
+  "header.deptOfficer": "ಇಲಾಖಾ ಅಧಿಕಾರಿ",
+  "header.settings": "ಸೆಟ್ಟಿಂಗ್ಸ್",
+  "header.signOut": "ಸೈನ್ ಔಟ್",
+  "header.signingOut": "ಸೈನ್ ಔಟ್ ಆಗುತ್ತಿದೆ...",
+
+  "dashboard.stats.totalFarmers": "ಒಟ್ಟು ನೋಂದಾಯಿತ ರೈತರು",
+  "dashboard.stats.activeMonitoring": "ಸಕ್ರಿಯ ಬೆಳೆ ಮೇಲ್ವಿಚಾರಣೆ",
+  "dashboard.stats.pestAlerts": "ಕೀಟ ಎಚ್ಚರಿಕೆಗಳು (ಸಕ್ರಿಯ)",
+  "dashboard.stats.marketUpdates": "ಮಾರುಕಟ್ಟೆ ಬೆಲೆ ನವೀಕರಣಗಳು",
+  "dashboard.fromLastMonth": "ಕಳೆದ ತಿಂಗಳಿಂದ",
+  "dashboard.recentActivities": "ಇತ್ತೀಚಿನ ಚಟುವಟಿಕೆಗಳು",
+  "dashboard.latestUpdates": "ಸಿಸ್ಟಮ್‌ನಿಂದ ಇತ್ತೀಚಿನ ನವೀಕರಣಗಳು",
+  "dashboard.schemeImplementation": "ಯೋಜನೆ ಅನುಷ್ಠಾನ",
+  "dashboard.dataCollection": "ಡೇಟಾ ಸಂಗ್ರಹಣೆ",
+  "dashboard.systemHealth": "ಸಿಸ್ಟಮ್ ಆರೋಗ್ಯ",
+  "dashboard.pmKisan": "ಪಿಎಂ-ಕಿಸಾನ್",
+  "dashboard.cropSurvey": "ಬೆಳೆ ಸಮೀಕ್ಷೆ",
+  "dashboard.serverStatus": "ಸರ್ವರ್ ಸ್ಥಿತಿ",
+
+  "settings.title": "ಸೆಟ್ಟಿಂಗ್ಸ್",
+  "settings.subtitle": "ನಿಮ್ಮ ಖಾತೆ ಮತ್ತು ಸಿಸ್ಟಮ್ ಆದ್ಯತೆಗಳನ್ನು ನಿರ್ವಹಿಸಿ",
+  "settings.profileInformation": "ಪ್ರೊಫೈಲ್ ಮಾಹಿತಿ",
+  "settings.updateDetails": "ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ವಿವರಗಳು ಮತ್ತು ಸಂಪರ್ಕ ಮಾಹಿತಿಯನ್ನು ನವೀಕರಿಸಿ",
+  "settings.firstName": "ಮೊದಲ ಹೆಸರು",
+  "settings.lastName": "ಕೊನೆಯ ಹೆಸರು",
+  "settings.email": "ಇಮೇಲ್",
+  "settings.phone": "ಫೋನ್",
+  "settings.saveChanges": "ಬದಲಾವಣೆಗಳನ್ನು ಉಳಿಸಿ",
+  "settings.languagePreferences": "ಭಾಷಾ ಆದ್ಯತೆಗಳು",
+  "settings.selectPreferredLanguage": "ಇಂಟರ್‌ಫೇಸ್‌ಗಾಗಿ ನಿಮ್ಮ ಆದ್ಯತೆಯ ಭಾಷೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ",
+  "settings.language": "ಭಾಷೆ",
+  "settings.notificationSettings": "ಸೂಚನೆ ಸೆಟ್ಟಿಂಗ್ಸ್",
+  "settings.manageNotifications": "ನೀವು ಸೂಚನೆಗಳು ಮತ್ತು ಎಚ್ಚರಿಕೆಗಳನ್ನು ಹೇಗೆ ಸ್ವೀಕರಿಸುತ್ತೀರಿ ಎಂಬುದನ್ನು ನಿರ್ವಹಿಸಿ",
+  "settings.emailNotifications": "ಇಮೇಲ್ ಸೂಚನೆಗಳು",
+  "settings.receiveEmailUpdates": "ಇಮೇಲ್ ಮೂಲಕ ನವೀಕರಣಗಳು ಮತ್ತು ಎಚ್ಚರಿಕೆಗಳನ್ನು ಸ್ವೀಕರಿಸಿ",
+  "settings.smsNotifications": "ಎಸ್‌ಎಂಎಸ್ ಸೂಚನೆಗಳು",
+  "settings.receiveSMSAlerts": "ಎಸ್‌ಎಂಎಸ್ ಮೂಲಕ ಪ್ರಮುಖ ಎಚ್ಚರಿಕೆಗಳನ್ನು ಸ್ವೀಕರಿಸಿ",
+  "settings.pushNotifications": "ಪುಷ್ ಸೂಚನೆಗಳು",
+  "settings.receivePushNotifications": "ಬ್ರೌಸರ್ ಪುಷ್ ಸೂಚನೆಗಳನ್ನು ಸ್ವೀಕರಿಸಿ",
+  "settings.enabled": "ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ",
+  "settings.disabled": "ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ",
+  "settings.securitySettings": "ಭದ್ರತಾ ಸೆಟ್ಟಿಂಗ್ಸ್",
+  "settings.manageSecurity": "ನಿಮ್ಮ ಖಾತೆಯ ಭದ್ರತೆ ಮತ್ತು ದೃಢೀಕರಣವನ್ನು ನಿರ್ವಹಿಸಿ",
+  "settings.currentPassword": "ಪ್ರಸ್ತುತ ಪಾಸ್‌ವರ್ಡ್",
+  "settings.enterCurrentPassword": "ನಿಮ್ಮ ಪ್ರಸ್ತುತ ಪಾಸ್‌ವರ್ಡ್ ನಮೂದಿಸಿ",
+  "settings.newPassword": "ಹೊಸ ಪಾಸ್‌ವರ್ಡ್",
+  "settings.enterNewPassword": "ನಿಮ್ಮ ಹೊಸ ಪಾಸ್‌ವರ್ಡ್ ನಮೂದಿಸಿ",
+  "settings.confirmPassword": "ಪಾಸ್‌ವರ್ಡ್ ದೃಢೀಕರಿಸಿ",
+  "settings.confirmNewPassword": "ನಿಮ್ಮ ಹೊಸ ಪಾಸ್‌ವರ್ಡ್ ದೃಢೀಕರಿಸಿ",
+  "settings.updatePassword": "ಪಾಸ್‌ವರ್ಡ್ ನವೀಕರಿಸಿ",
+  "common.clearFilters": "ಫಿಲ್ಟರ್‌ಗಳನ್ನು ತೆರವುಗೊಳಿಸಿ",
+  "common.pageOf": "ಪುಟ {{page}} / {{total}}",
+  "common.previous": "ಹಿಂದಿನ",
+  "common.next": "ಮುಂದಿನ",
+  "common.allDistricts": "ಎಲ್ಲಾ ಜಿಲ್ಲೆಗಳು",
+  "common.allStatus": "ಎಲ್ಲಾ ಸ್ಥಿತಿ",
+  "status.active": "ಸಕ್ರಿಯ",
+  "status.inactive": "ನಿಷ್ಕ್ರಿಯ",
+  "status.pending": "ಬಾಕಿಯಿದೆ",
+  "status.completed": "ಪೂರ್ಣಗೊಂಡಿದೆ",
+  "status.inProgress": "ಪ್ರಗತಿಯಲ್ಲಿದೆ",
+  "district.Angul": "ಆಂಗುಲ್",
+  "district.Balangir": "ಬಲಾಂಗೀರ್",
+  "district.Balasore": "ಬಾಲಸೋರ್",
+  "district.Bargarh": "ಬರ್ಗರ್",
+  "district.Bhadrak": "ಭದ್ರಕ್",
+  "district.Bhubaneswar": "ಭುವನೇಶ್ವರ",
+  "district.Boudh": "ಬೌದ್",
+  "district.Cuttack": "ಕಟಕ್",
+  "district.Deogarh": "ದೇವಗರ್",
+  "district.Dhenkanal": "ಢೆಂಕನಾಲ್",
+  "district.Gajapati": "ಗಜಪತಿ",
+  "district.Ganjam": "ಗಂಜಾಮ್",
+  "district.Jagatsinghpur": "ಜಗತ್ಸಿಂಗ್ಪುರ್",
+  "district.Jajpur": "ಜಾಜ್ಪುರ್",
+  "district.Jharsuguda": "ಝಾರಸುಗುಡಾ",
+  "district.Kalahandi": "ಕಾಲಹಾಂಡಿ",
+  "district.Kandhamal": "ಕಂಧಮಾಲ್",
+  "district.Kendrapara": "ಕೇಂದ್ರಪಾರಾ",
+  "district.Kendujhar": "ಕೆಂದುಝರ್",
+  "district.Khordha": "ಖೋರ್ಧಾ",
+  "district.Koraput": "ಕೋರಾಪುಟ್",
+  "district.Malkangiri": "ಮಲಕಾನಗಿರಿ",
+  "district.Mayurbhanj": "ಮಯೂರ್ಭಂಜ್",
+  "district.Nabarangpur": "ನಬರಂಗಪುರ್",
+  "district.Nayagarh": "ನಯಗರ್",
+  "district.Nuapada": "ನುವಾಪಾಡಾ",
+  "district.Puri": "ಪುರಿ",
+  "district.Rayagada": "ರಾಯಗಡಾ",
+  "district.Sambalpur": "ಸಂಬಲ್ಪುರ್",
+  "district.Subarnapur": "ಸುಬರ್ನಪುರ್",
+  "district.Sundargarh": "ಸುಂದರಗರ್",
+  "farmers.title": "ರೈತರ ನಿರ್ದೇಶಿಕೆ",
+  "farmers.subtitle": "ರೈತ ನೋಂದಣಿಗಳನ್ನು ನಿರ್ವಹಿಸಿ ಮತ್ತು ವೀಕ್ಷಿಸಿ",
+  "farmers.count": "{{count}} ರೈತರು",
+  "farmers.searchFilter": "ಹುಡುಕಿ ಮತ್ತು ಫಿಲ್ಟರ್ ಮಾಡಿ",
+  "farmers.searchHint": "ಹೆಸರು, ಐಡಿ, ಸ್ಥಳ ಅಥವಾ ಸ್ಥಿತಿಯಿಂದ ರೈತರನ್ನು ಹುಡುಕಿ",
+  "farmers.searchPlaceholder": "ರೈತರನ್ನು ಹುಡುಕಿ...",
+  "farmers.selectDistrict": "ಜಿಲ್ಲೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ",
+  "farmers.selectStatus": "ಸ್ಥಿತಿಯನ್ನು ಆಯ್ಕೆಮಾಡಿ",
+  "farmers.registeredFarmers": "ನೋಂದಾಯಿತ ರೈತರು",
+  "farmers.showing": "{{shown}} ರಲ್ಲಿ {{total}} ರೈತರನ್ನು ತೋರಿಸುತ್ತಿದೆ",
+  "farmers.columns.id": "ರೈತ ಐಡಿ",
+  "farmers.columns.name": "ಹೆಸರು",
+  "farmers.columns.location": "ಸ್ಥಳ",
+  "farmers.columns.contact": "ಸಂಪರ್ಕ",
+  "farmers.columns.landSize": "ಭೂಮಿ ಗಾತ್ರ",
+  "farmers.columns.crops": "ಬೆಳೆಗಳು",
+  "farmers.columns.status": "ಸ್ಥಿತಿ",
+  "farmers.columns.actions": "ಕ್ರಿಯೆಗಳು",
+  "farmers.kcc": "ಕೆಸಿಸಿ",
+  "farmers.viewProfile": "ರೈತರ ಪ್ರೊಫೈಲ್ ವೀಕ್ಷಿಸಿ",
+  "farmer.backToList": "ರೈತರಿಗೆ ಹಿಂತಿರುಗಿ",
+  "farmer.title": "ರೈತರ ವಿವರಗಳು",
+  "farmer.id": "ರೈತ ಐಡಿ",
+  "farmer.kcc": "ಕೆಸಿಸಿ ಸಂಖ್ಯೆ",
+  "farmer.location": "ಸ್ಥಳ",
+  "farmer.address": "ಬಾಂಕಿ ಕಟಕ್",
+  "farmer.contact": "ಸಂಪರ್ಕ",
+  "farmer.registrationDate": "ನೋಂದಣಿ ದಿನಾಂಕ",
+  "farmer.landSize": "ಭೂಮಿ ಗಾತ್ರ",
+  "farmer.crops": "ಬೆಳೆಗಳು",
+  "farmer.aadhar": "ಆಧಾರ್ ಸಂಖ್ಯೆ",
+  "farmer.bankAccount": "ಬ್ಯಾಂಕ್ ಖಾತೆ",
+  "farmer.cropHistory": "ಬೆಳೆ ಇತಿಹಾಸ",
+  "farmer.cropHistoryDesc": "ಇತ್ತೀಚಿನ ಬೆಳೆ ಸಾಗುವಳಿ ದಾಖಲೆಗಳು",
+  "farmer.govtSchemes": "ಸರಕಾರಿ ಯೋಜನೆಗಳು",
+  "farmer.govtSchemesDesc": "ನೋಂದಾಯಿತ ಯೋಜನೆಗಳು ಮತ್ತು ಲಾಭಗಳು",
+  "farmer.sample.riceKharif": "ಬತ್ತ (ಖರೀಫ್ 2024)",
+  "farmer.sample.wheatRabi": "ಗೋಧಿ (ರಬಿ 2024)",
+  "farmer.sample.acres1_2": "1.2 ಎಕರೆ",
+  "farmer.sample.acres1_3": "1.3 ಎಕರೆ",
+  "farmer.sample.pmKisanAmount": "₹6,000/ವರ್ಷ",
+  "farmer.sample.soilHealthCard": "ಮಣ್ಣಿನ ಆರೋಗ್ಯ ಕಾರ್ಡ್",
+  "farmer.sample.validUntil2025": "2025 ರವರೆಗೆ ಮಾನ್ಯ",
+  "common.months": {
+    "Jan": "ಜನವರಿ",
+    "Feb": "ಫೆಬ್ರುವರಿ",
+    "Mar": "ಮಾರ್ಚ್",
+    "Apr": "ಏಪ್ರಿಲ್",
+    "May": "ಮೇ",
+    "Jun": "ಜೂನ್",
+    "Jul": "ಜುಲೈ",
+    "Aug": "ಆಗಸ್ಟ್",
+    "Sep": "ಸೆಪ್ಟೆಂಬರ್",
+    "Oct": "ಅಕ್ಟೋಬರ್",
+    "Nov": "ನವೆಂಬರ್",
+    "Dec": "ಡಿಸೆಂಬರ್"
+  },
+  "dashboard.monthlyRegistrationTrends": "ಮಾಸಿಕ ನೋಂದಣಿ ಪ್ರವೃತ್ತಿಗಳು",
+  "dashboard.monthlyRegistrationDesc": "ಸಮಯದೊಂದಿಗೆ ರೈತರ ನೋಂದಣಿ ಮತ್ತು ಬೆಳೆ ಮೇಲ್ವಿಚಾರಣೆ",
+  "dashboard.yieldPerformance": "ಉತ್ಪಾದನೆ ಸಾಧನೆ",
+  "dashboard.yieldPerformanceDesc": "ತಿಂಗಳುಗಳಲ್ಲಿ ಸರಾಸರಿ ಬೆಳೆ ಉತ್ಪಾದನೆ ಶೇಕಡಾವಾರು",
+  "dashboard.datasets.farmers": "ರೈತರು",
+  "dashboard.datasets.crops": "ಬೆಳೆಗಳು",
+  "dashboard.datasets.yieldPct": "ಉತ್ಪಾದನೆ %",
+  "dashboard.heatmap.title": "ರೈತರ ನೋಂದಣಿ ಹೀಟ್‌ಮ್ಯಾಪ್",
+  "dashboard.heatmap.subtitle": "ಜಿಲ್ಲಾ-ವಾರ ರೈತರ ನೋಂದಣಿ ಸಾಂದ್ರತೆ",
+  "dashboard.heatmap.density": "ಸಾಂದ್ರತೆ",
+  "dashboard.heatmap.capacity": "ಸಾಮರ್ಥ್ಯ",
+  "dashboard.heatmap.legend": "ಸಾಂದ್ರತೆ ಲೆಜೆಂಡ್:",
+  "dashboard.heatmap.intensity": {
+    "veryHigh": "ಬಹು ಉನ್ನತ",
+    "high": "ಉನ್ನತ",
+    "medium": "ಮಧ್ಯಮ",
+    "low": "ಕಡಿಮೆ",
+    "veryLow": "ಬಹು ಕಡಿಮೆ"
+  },
+  "dashboard.heatmap.legendItems": {
+    "veryHigh": "ಬಹು ಉನ್ನತ (80%+)",
+    "high": "ಉನ್ನತ (60-79%)",
+    "medium": "ಮಧ್ಯಮ (40-59%)",
+    "low": "ಕಡಿಮೆ (20-39%)",
+    "veryLow": "ಬಹು ಕಡಿಮೆ (<20%)"
+  },
+  "dashboard.heatmap.districts": {
+    "bhubaneswar": "ಭುವನೇಶ್ವರ",
+    "cuttack": "ಕಟಕ್",
+    "puri": "ಪುರಿ",
+    "khordha": "ಖೋರ್ಧಾ",
+    "ganjam": "ಗಂಜಾಮ್",
+    "balasore": "ಬಾಲಸೋರ್",
+    "mayurbhanj": "ಮಯೂರ್ಭಂಜ್",
+    "kendrapara": "ಕೇಂದ್ರಪಾರಾ"
+  },
+  "dashboard.notifications.title": "ಇತ್ತೀಚಿನ ಸೂಚನೆಗಳು",
+  "dashboard.notifications.subtitle": "ಸಿಸ್ಟಮ್‌ನಿಂದ ಇತ್ತೀಚಿನ ಎಚ್ಚರಿಕೆಗಳು ಮತ್ತು ನವೀಕರಣಗಳು",
+  "dashboard.notifications.count": "{{count}} ಹೊಸ",
+  "dashboard.notifications.viewAll": "ಎಲ್ಲಾ ಸೂಚನೆಗಳನ್ನು ವೀಕ್ಷಿಸಿ",
+  "dashboard.notifications.priority": {
+    "high": "ಉನ್ನತ",
+    "medium": "ಮಧ್ಯಮ",
+    "low": "ಕಡಿಮೆ"
+  },
+  "dashboard.notifications.weather": {
+    "title": "ಹವಾಮಾನ ಎಚ್ಚರಿಕೆ: ಭಾರೀ ಮಳೆ ನಿರೀಕ್ಷೆಯಿದೆ",
+    "message": "ತೀರದ ಜಿಲ್ಲೆಗಳಿಗೆ ಮಾನ್ಸೂನ್ ಎಚ್ಚರಿಕೆ ನೀಡಲಾಗಿದೆ. ರೈತರಿಗೆ ಎಚ್ಚರಿಕೆಯಿಂದಿರಲು ಸಲಹೆ ನೀಡಲಾಗಿದೆ.",
+    "time": "5 ನಿಮಿಷಗಳ ಹಿಂದೆ"
+  },
+  "dashboard.notifications.scheme": {
+    "title": "ಹೊಸ ಸಬ್ಸಿಡಿ ಯೋಜನೆ ಪ್ರಾರಂಭ",
+    "message": "ಪಿಎಂ-ಕಿಸಾನ್ ಲಾಭಾರ್ಥಿ ನೋಂದಣಿ ಈಗ ತೆರೆದಿದೆ. ಕೊನೆಯ ದಿನಾಂಕದ ಮೊದಲು ಅರ್ಜಿ ಸಲ್ಲಿಸಿ.",
+    "time": "2 ಗಂಟೆಗಳ ಹಿಂದೆ"
+  },
+  "dashboard.notifications.pest": {
+    "title": "ಕೀಟ ನಿಯಂತ್ರಣ ಸಲಹೆ ಕಳುಹಿಸಲಾಗಿದೆ",
+    "message": "ಪ್ರಭಾವಿತ ಪ್ರದೇಶಗಳಲ್ಲಿ 15,000+ ರೈತರಿಗೆ ಕಂದು ಕೀಟ ನಿಯಂತ್ರಣ ಕ್ರಮಗಳು ಕಳುಹಿಸಲಾಗಿದೆ.",
+    "time": "1 ದಿನದ ಹಿಂದೆ"
+  },
+  "dashboard.notifications.market": {
+    "title": "ಮಾರುಕಟ್ಟೆ ಬೆಲೆ ನವೀಕರಣ",
+    "message": "ಭುವನೇಶ್ವರ ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ಬತ್ತದ ಬೆಲೆಗಳು 8% ಹೆಚ್ಚಾಗಿವೆ. ನವೀಕೃತ ದರಗಳು ಲಭ್ಯವಿವೆ.",
+    "time": "2 ದಿನಗಳ ಹಿಂದೆ"
+  },
+  "dashboard.activities": {
+    "registration": {
+      "title": "ಕಟಕ್ ಜಿಲ್ಲೆಯಲ್ಲಿ ಹೊಸ ರೈತರ ನೋಂದಣಿ",
+      "time": "2 ನಿಮಿಷಗಳ ಹಿಂದೆ"
+    },
+    "alert": {
+      "title": "ಭುವನೇಶ್ವರ ಪ್ರದೇಶಕ್ಕೆ ಕೀಟ ಎಚ್ಚರಿಕೆ ನೀಡಲಾಗಿದೆ",
+      "time": "15 ನಿಮಿಷಗಳ ಹಿಂದೆ"
+    },
+    "market": {
+      "title": "ಬತ್ತ (ಬಾಸ್ಮತಿ) ಗಾಗಿ ಮಾರುಕಟ್ಟೆ ಬೆಲೆ ನವೀಕರಿಸಲಾಗಿದೆ",
+      "time": "1 ಗಂಟೆ ಹಿಂದೆ"
+    },
+    "advisory": {
+      "title": "5,000+ ರೈತರಿಗೆ ಹವಾಮಾನ ಸಲಹೆ ಕಳುಹಿಸಲಾಗಿದೆ",
+      "time": "2 ಗಂಟೆಗಳ ಹಿಂದೆ"
+    }
+  },
+  "pie.title": "ಬೆಳೆ ವಿತರಣೆ",
+  "pie.subtitle": "ರಾಜ್ಯದಾದ್ಯಂತ ಬೆಳೆಗಳ ವಿತರಣೆ",
+  "crops.rice": "ಬತ್ತ",
+  "crops.wheat": "ಗೋಧಿ",
+  "crops.sugarcane": "ಕಬ್ಬು",
+  "crops.others": "ಇತರರು",
+
+  "farmers": {
+    "names": {
+      "F001": "ರಾಜೇಶ್ ಕುಮಾರ್ ಪಟೇಲ್",
+      "F002": "ಸುನೀತಾ ದೇವಿ",
+      "F003": "ಮನೋಜ್ ಸಿಂಗ್",
+      "F004": "ಪ್ರಿಯಾ ಶರ್ಮಾ",
+      "F005": "ರಮೇಶ್ ಚಂದ್ರ ದಾಸ್",
+      "F006": "ಕವಿತಾ ಮೊಹಂತಿ"
+    },
+    "districts": {
+      "cuttack": "ಕಟಕ್",
+      "bhubaneswar": "ಭುವನೇಶ್ವರ",
+      "puri": "ಪುರಿ",
+      "khordha": "ಖೋರ್ಧಾ",
+      "ganjam": "ಗಂಜಾಮ್",
+      "balasore": "ಬಾಲಸೋರ್"
+    },
+    "villages": {
+      "banki": "ಬಾಂಕಿ",
+      "patia": "ಪಟಿಯಾ",
+      "konark": "ಕೋಣಾರ್ಕ್",
+      "jatni": "ಜಾತ್ನಿ",
+      "berhampur": "ಬೆರಹಂಪುರ್",
+      "nilgiri": "ನೀಲಗಿರಿ"
+    },
+    "crops": {
+      "rice": "ಬತ್ತ",
+      "wheat": "ಗೋಧಿ",
+      "vegetables": "ತರಕಾರಿಗಳು",
+      "coconut": "ಕಬ್ಬು",
+      "flowers": "ಹೂವುಗಳು",
+      "sugarcane": "ಕಬ್ಬು",
+      "pulses": "ಪ್ರೋಟೀನ್ ಬೀಜಗಳು"
+    },
+    "status": {
+      "active": "ಸಕ್ರಿಯ",
+      "inactive": "ನಿಷ್ಕ್ರಿಯ",
+      "pending": "ಬಾಕಿಯಿದೆ"
+    }
+  },
+  "yieldPage": {
+    "header": {
+      "title": "ಉತ್ಪಾದನೆ ಮತ್ತು ಬೆಳೆ ವಿಶ್ಲೇಷಣೆ",
+      "subtitle": "ಸಮಗ್ರ ಬೆಳೆ ಕಾರ್ಯಕ್ಷಮತೆ ವಿಶ್ಲೇಷಣೆ",
+      "export": "ವರದಿ ರಫ್ತು"
+    },
+    "filters": {
+      "title": "ವಿಶ್ಲೇಷಣಾ ಫಿಲ್ಟರ್‌ಗಳು",
+      "year": "ವರ್ಷ ಆಯ್ಕೆಮಾಡಿ",
+      "crop": "ಬೆಳೆ ಆಯ್ಕೆಮಾಡಿ",
+      "district": "ಜಿಲ್ಲೆ ಆಯ್ಕೆಮಾಡಿ",
+      "reset": "ಫಿಲ್ಟರ್‌ಗಳನ್ನು ಮರುಹೊಂದಿಸಿ"
+    },
+    "metrics": {
+      "totalProduction": "ಒಟ್ಟು ಉತ್ಪಾದನೆ",
+      "averageYield": "ಸರಾಸರಿ ಉತ್ಪಾದನೆ",
+      "cultivatedArea": "ಕೈಗಾರಿಕೆ/ಕೃಷಿ ವಿಸ್ತೀರ್ಣ",
+      "efficiencyRate": "ದಕ್ಷತಾ ದರ",
+      "fromLastYear": "ಕಳೆದ ವರ್ಷದಿಂದ"
+    },
+    "tabs": {
+      "trends": "ಉತ್ಪಾದನೆ ಪ್ರವೃತ್ತಿಗಳು",
+      "seasonal": "ಋತು ವಿಶ್ಲೇಷಣೆ",
+      "comparison": "ಬೆಳೆ ಹೋಲಿಕೆ",
+      "districts": "ಜಿಲ್ಲಾ ಪ್ರದರ್ಶನ"
+    },
+    "charts": {
+      "yieldTrends": {
+        "title": "5 ವರ್ಷದ ಉತ್ಪಾದನೆ ಪ್ರವೃತ್ತಿಗಳು",
+        "description": "ಬೆಳೆ ಪ್ರಕಾರದ ಇತಿಹಾಸಿಕ ಪ್ರದರ್ಶನ"
+      },
+      "seasonal": {
+        "title": "ಋತುಪರ ಉತ್ಪಾದನಾ ವಿಶ್ಲೇಷಣೆ",
+        "description": "ಋತುವಾರು ಉತ್ಪಾದನೆ vs ಗುರಿಗಳು"
+      },
+      "comparison": {
+        "area": "ಬೆಳೆ ವಿಸ್ತೀರ್ಣ ವಿತರಣೆ",
+        "yield": "ಬೆಳೆ ಪ್ರಕಾರದ ದಕ್ಷತೆ"
+      },
+      "district": {
+        "title": "ಜಿಲ್ಲಾವಾರು ಪ್ರದರ್ಶನ",
+        "description": "ಪ್ರಮುಖ ಜಿಲ್ಲೆಗಳಲ್ಲಿನ ಉತ್ಪಾದನೆ ಹೋಲಿಕೆ"
+      },
+      "monthly": {
+        "title": "ತಿಂಗಳವಾರು ಬೆಳೆ ಪ್ರಗತಿ",
+        "description": "ವರ್ಷಪೂರ್ತಿ ಬಿತ್ತನೆ, ಬೆಳವಣಿಗೆ ಮತ್ತು ಕೊಯ್ಲು ಪ್ರಗತಿ"
+      }
+    },
+    "crops": {
+      "all": "ಎಲ್ಲಾ ಬೆಳೆಗಳು",
+      "rice": "ಬತ್ತ",
+      "wheat": "ಗೋಧಿ",
+      "sugarcane": "ಕಬ್ಬು",
+      "vegetables": "ತರಕಾರಿಗಳು",
+      "pulses": "ಪಲ್ಸ್‌ಗಳು"
+    },
+    "districts": {
+      "all": "ಎಲ್ಲಾ ಜಿಲ್ಲೆಗಳು",
+      "cuttack": "ಕಟಕ್",
+      "bhubaneswar": "ಭುವನೇಶ್ವರ",
+      "puri": "ಪುರಿ",
+      "khordha": "ಖೋರ್ಧಾ",
+      "ganjam": "ಗಂಜಾಮ್"
+    },
+    "months": {
+      "jan": "ಜನ",
+      "feb": "ಫೆಬ್ರ",
+      "mar": "ಮಾರ್ಚ್",
+      "apr": "ಏಪ್ರಿ",
+      "may": "ಮೇ",
+      "jun": "ಜೂನ್"
+    }
+  },
+  "pestTracking": {
+    "header": {
+      "title": "ಕೀಟ ಮತ್ತು ರೋಗ ಟ್ರ್ಯಾಕಿಂಗ್",
+      "subtitle": "ಬೆಳೆ ಆರೋಗ್ಯದ ಭೀತಿಗಳನ್ನು ಮോണಿಟರ್ ಮಾಡಿ ಮತ್ತು ನಿರ್ವಹಿಸಿ",
+      "activeOutbreaks": "{{count}} ಸಕ್ರಿಯ ಉಭೇದನೆಗಳು"
+    },
+    "alerts": {
+      "critical": "ತೀವ್ರ ಎಚ್ಚರಿಕೆ",
+      "description": "ಕಟಕ್ ಜಿಲ್ಲೆಯಲ್ಲಿ ಬ್ರೌನ್ ಪ್ಲಾಂಟ್ ಹಾಪರ್ ಉಭೇದನೆ ಪತ್ತೆ; 2,500 ಹೆಕ್ಟೇರ್ ಪ್ರಭಾವಿತ. ತಕ್ಷಣದ ಕ್ರಮ ಅಗತ್ಯ."
+    },
+    "metrics": {
+      "activeOutbreaks": "ಸಕ್ರಿಯ ಉಭೇದನೆಗಳು",
+      "affectedArea": "ಪರಿಣಾಮಿತ ಪ್ರದೇಶ",
+      "farmersImpacted": "ಪರಿಣಾಮಿತ ರೈತರು",
+      "controlRate": "ನಿಯಂತ್ರಣ ದರ",
+      "change": {
+        "activeOutbreaks": "ಈ ವಾರ +2",
+        "affectedArea": "ಕಳೆದ ತಿಂಗಳಿಂದ +15%",
+        "farmersImpacted": "ಈ ವಾರ +8%",
+        "controlRate": "+12% ಸುಧಾರಣೆ"
+      }
+    },
+    "filters": {
+      "title": "ಉಭೇದನೆಗಳನ್ನು ಫಿಲ್ಟರ್ ಮಾಡಿ",
+      "district": "ಜಿಲ್ಲೆ ಆಯ್ಕೆಮಾಡಿ",
+      "severity": "ತೀವ್ರತೆ ಆಯ್ಕೆಮಾಡಿ",
+      "allDistricts": "ಎಲ್ಲಾ ಜಿಲ್ಲೆಗಳು",
+      "allSeverity": "ಎಲ್ಲಾ ತೀವ್ರತೆ",
+      "reset": "ಫಿಲ್ಟರ್‌ಗಳನ್ನು ಮರುಹೊಂದಿಸಿ"
+    },
+    "tabs": {
+      "heatmap": "ಕೀಟ ಹೀಟ್‌ಮ್ಯಾಪ್",
+      "outbreaks": "ಸಕ್ರಿಯ ಉಭೇದನೆಗಳು",
+      "diseases": "ರೋಗ ಎಚ್ಚರಿಕೆಗಳು",
+      "treatment": "ಚಿಕಿತ್ಸೆ ಮಾರ್ಗದರ್ಶಿ"
+    },
+    "outbreaks": {
+      "crop": "ಬೆಳೆ",
+      "district": "ಜಿಲ್ಲೆ",
+      "area": "ಪರಿಣಾಮಿತ ಪ್ರದೇಶ",
+      "farmers": "ರೈತರು",
+      "view": "ವಿವರಗಳು",
+      "alert": "ಎಚ್ಚರಿಕೆ ಕಳುಹಿಸಿ"
+    },
+    "disease": {
+      "risk": "{{severity}} ಅಪಾಯ",
+      "affecting": "{{crop}} ಬೆಳೆಗಳಿಗೆ ಪರಿಣಾಮ",
+      "symptoms": "ಲಕ್ಷಣಗಳು",
+      "prevention": "ತಡೆ",
+      "treatment": "ಚಿಕಿತ್ಸೆ"
+    },
+    "heatmap": {
+      "title": "ಬೆಳೆ ಆರೋಗ್ಯ ಹೀಟ್‌ಮ್ಯಾಪ್"
+    },
+    "treatment": {
+      "header": "{{pest}} ಚಿಕಿತ್ಸೆ",
+      "chemical": "ಶಿಫಾರಸು ಮಾಡಿದ ರಾಸಾಯನಿಕ",
+      "dosage": "ಮಾತ್ರೆ",
+      "application": "ಅನ್ವಯ ವಿಧಾನ",
+      "frequency": "ಆವೃತ್ತಿ"
+    },
+    "severity": {
+      "high": "ಉನ್ನತ",
+      "medium": "ಮಧ್ಯಮ",
+      "low": "ಕಡಿಮೆ"
+    },
+    "status": {
+      "active": "ಸಕ್ರಿಯ",
+      "controlled": "ನಿಯಂತ್ರಿತ",
+      "monitoring": "ಮೋನಿಟರಿಂಗ್",
+      "treatment": "ಚಿಕಿತ್ಸೆ"
+    },
+    "data": {
+      "pests": {
+        "brownPlantHopper": "ಬ್ರೌನ್ ಪ್ಲಾಂಟ್ ಹಾಪರ್",
+        "stemBorer": "ತೊಡೆ ತುರಿಕೆ",
+        "aphids": "ಎಫಿಡ್ಸ್",
+        "leafCurlVirus": "ಎಲೆ ಮಡಕು ವೈರಸ್"
+      },
+      "crops": {
+        "rice": "ಬತ್ತ",
+        "wheat": "ಗೋಧಿ",
+        "tomato": "ಟೊಮಾಟೊ"
+      },
+      "districts": {
+        "cuttack": "ಕಟಕ್",
+        "puri": "ಪುರಿ",
+        "bhubaneswar": "ಭುವನೇಶ್ವರ",
+        "khordha": "ಖೋರ್ಧಾ",
+        "balasore": "ಬಾಲಸೋರ್",
+        "bhadrak": "ಭದ್ರಕ್",
+        "nayagarh": "ನಯಗರ್"
+      },
+      "diseases": {
+        "blastDisease": "ಬ್ಲಾಸ್ಟ್ ರೋಗ",
+        "powderyMildew": "ಪೌಡರಿ ಮಿಲ್ಡ್ಯೂ",
+        "bacterialWilt": "ಬ್ಯಾಕ್ಟೀರಿಯಲ್ ವಿಲ್ಟ್"
+      },
+      "symptoms": {
+        "blastDisease": "ಎಲೆಗಳಲ್ಲಿ ಕಂದು ಕಲೆಗಳು, ಕುತ್ತಿಗೆ ಕುಲುಮೆ",
+        "powderyMildew": "ಎಲೆಗಳಲ್ಲಿ ಬಿಳಿ ಪುಡಿ ತರ ಬೆಳವಣಿಗೆ",
+        "bacterialWilt": "ಎಲೆ ಬಾಡುವುದು, ಹಳದಿ ಬಣ್ಣ"
+      },
+      "prevention": {
+        "blastDisease": "ಪ್ರತಿರೋಧಕ ತಳಿಗಳು, ಸರಿಯಾದ ಡ್ರೈನೇಜ್",
+        "powderyMildew": "ಅತಿಯಾದ ಸಾಂದ್ರತೆ ತಪ್ಪಿಸಿ, ಸರಿಯಾದ ಗಾಳಿ ಪ್ರವಹ",
+        "bacterialWilt": "ಬೆಳೆ ಫಿರಾಯಿತಿ, ಮಣ್ಣಿನ ಶುದ್ಧೀಕರಣ"
+      },
+      "treatment": {
+        "blastDisease": "ಫಂಗಿಸೈಡ್ ಸ್ಪ್ರೆ (ಟ್ರೈಸೈಕ್ಲೋಜೋಲ್)",
+        "powderyMildew": "ಸಲ್ಫರ್ ಆಧಾರಿತ ಫಂಗಿಸೈಡ್",
+        "bacterialWilt": "ಕಾಪರ್ ಆಧಾರಿತ ಬ್ಯಾಕ್ಟೀರಿ ನಾಶಕ"
+      },
+      "weatherAdvisories": {
+        "heavyRainfall": {
+          "title": "ಭಾರೀ ಮಳೆಯ ಎಚ್ಚರಿಕೆ",
+          "description": "ತೀರ ಜಿಲ್ಲೆಗಳಲ್ಲಿ ಭಾರೀ ಮಳೆ ಸಾಧ್ಯತೆ; ಫಂಗಲ್ ರೋಗದ ಅಪಾಯ ಹೆಚ್ಚಾಗಬಹುದು"
+        },
+        "temperatureRise": {
+          "title": "ತಾಪಮಾನ ಏರಿಕೆ ಎಚ್ಚರಿಕೆ",
+          "description": "ತಾಪಮಾನ ಏರಿಕೆ ಕೀಟಗಳ ಹೆಚ್ಚಳಕ್ಕೆ ಅನುಕೂಲ"
+        }
+      },
+      "treatments": {
+        "brownPlantHopper": {
+          "chemical": "ಇಮಿಡಾಕ್ಲೋಪ್ರಿಡ್ 17.8% SL",
+          "dosage": "0.3 ಮಿ.ಲಿ/ಲೀಟರ್ ನೀರು",
+          "application": "ಸಂಜೆ ಎಲೆಗಳ ಮೇಲೆ ಫವಾರಣೆ",
+          "frequency": "10 ದಿನಗಳ ಅಂತರದಲ್ಲಿ 2-3 ಬಾರಿ"
+        },
+        "stemBorer": {
+          "chemical": "ಕ್ಲೋರಾಂಟ್ರಾನಿಲಿಪ್ರೋಲ್ 18.5% SC",
+          "dosage": "0.4 ಮಿ.ಲಿ/ಲೀಟರ್ ನೀರು",
+          "application": "ಮುಟ್ಟಿನಲ್ಲೂ ಮತ್ತು ತೊಡೆಲ್ಲೂ ಫವಾರಣೆ",
+          "frequency": "ಆರಂಭಿಕ ಹಂತದಲ್ಲೇ ಅನ್ವಯಿಸಿ"
+        }
+      }
+    }
+  },
+  "marketPage": {
+    "header": {
+      "title": "ಮಾರುಕಟ್ಟೆ ಬೆಲೆಗಳು",
+      "subtitle": "ರಿಯಲ್-ಟೈಮ್ ಬೆಳೆ ಬೆಲೆ ಮೋಟರಿಂಗ್ ಮತ್ತು ವಿಶ್ಲೇಷಣೆ",
+      "refresh": "ಬೆಲೆಗಳನ್ನು ರಿಫ್ರೆಶ್ ಮಾಡಿ"
+    },
+    "crops": {
+      "riceCommon": "ಬತ್ತ (ಸಾಮಾನ್ಯ)",
+      "riceBasmati": "ಬತ್ತ (ಬಾಸ್ಮತಿ)",
+      "wheat": "ಗೋಧಿ",
+      "sugarcane": "ಕಬ್ಬು",
+      "onion": "ಈರುಳ್ಳಿ",
+      "potato": "ಆಲೂಗೆಡ್ಡೆ"
+    },
+    "units": {
+      "perQuintal": "ಪ್ರತಿ ಕ್ವಿಂಟಲ್"
+    },
+    "districts": {
+      "bhubaneswar": "ಭುವನೇಶ್ವರ",
+      "cuttack": "ಕಟಕ್",
+      "puri": "ಪುರಿ",
+      "khordha": "ಖೋರ್ಧಾ",
+      "balasore": "ಬಾಲಸೋರ್",
+      "ganjam": "ಗಂಜಾಮ್"
+    },
+    "updated": {
+      "1h": "1 ಗಂಟೆ ಹಿಂದೆ",
+      "2h": "2 ಗಂಟೆಗಳು ಹಿಂದೆ",
+      "3h": "3 ಗಂಟೆಗಳು ಹಿಂದೆ",
+      "4h": "4 ಗಂಟೆಗಳು ಹಿಂದೆ"
+    },
+    "alerts": {
+      "onion": "ಕಳೆದ 24 ಗಂಟೆಗಳಲ್ಲಿ ಈರುಳ್ಳಿ ಬೆಲೆ 8.5% ಹೆಚ್ಚಾಗಿದೆ",
+      "riceCommon": "ಬತ್ತ ಬೆಲೆ ₹2,850/ಕ್ವಿಂಟಲ್ ತಿಂಗಳ ಗರಿಷ್ಠಕ್ಕೆ ತಲುಪಿದೆ",
+      "potato": "ಆಲೂಗೆಡ್ಡೆ ಬೆಲೆ ಬೆಂಬಲ ಮಟ್ಟಕ್ಕಿಂತ ಕಡಿಮೆ"
+    },
+    "charts": {
+      "rice": "ಬತ್ತ (₹/ಕ್ವಿಂಟಲ್)",
+      "wheat": "ಗೋಧಿ (₹/ಕ್ವಿಂಟಲ್)",
+      "onion": "ಈರುಳ್ಳಿ (₹/ಕ್ವಿಂಟಲ್)",
+      "potato": "ಆಲೂಗೆಡ್ಡೆ (₹/ಕ್ವಿಂಟಲ್)"
+    },
+    "metrics": {
+      "averagePriceIndex": "ಸರಾಸರಿ ಬೆಲೆ ಸೂಚ್ಯಂಕ",
+      "priceVolatility": "ಬೆಲೆ ಅಸ್ಥಿರತೆ",
+      "activeMarkets": "ಸಕ್ರಿಯ ಮಾರುಕಟ್ಟೆಗಳು",
+      "dailyUpdates": "ದೈನಂದಿನ ನವೀಕರಣಗಳು",
+      "newMarkets": "+{{count}} ಹೊಸ",
+      "todayUpdates": "+{{count}} ಇಂದು"
+    },
+    "tabs": {
+      "current": "ಪ್ರಸ್ತುತ ಬೆಲೆಗಳು",
+      "trends": "ಬೆಲೆ ಪ್ರವೃತ್ತಿಗಳು",
+      "comparison": "ಮಾರುಕಟ್ಟೆ ಹೋಲಿಕೆ"
+    },
+    "filters": {
+      "title": "ಬೆಲೆಗಳನ್ನು ಫಿಲ್ಟರ್ ಮಾಡಿ",
+      "selectMarket": "ಮಾರುಕಟ್ಟೆ ಆಯ್ಕೆಮಾಡಿ",
+      "selectCrop": "ಬೆಳೆ ಆಯ್ಕೆಮಾಡಿ",
+      "allMarkets": "ಎಲ್ಲಾ ಮಾರುಕಟ್ಟೆಗಳು",
+      "allCrops": "ಎಲ್ಲಾ ಬೆಳೆಗಳು",
+      "rice": "ಬತ್ತ",
+      "wheat": "ಗೋಧಿ",
+      "vegetables": "ತರಕಾರಿಗಳು",
+      "reset": "ಫಿಲ್ಟರ್‌ಗಳನ್ನು ಮರುಹೊಂದಿಸಿ"
+    },
+    "alerts2": {
+      "title": "ಬೆಲೆ ಎಚ್ಚರಿಕೆಗಳು",
+      "description": "ಇತ್ತೀಚಿನ ಪ್ರಮುಖ ಬೆಲೆ ಚಲನೆಗಳು"
+    },
+    "trends": {
+      "title": "ಬೆಲೆ ಪ್ರವೃತ್ತಿಗಳು (ಕಳೆದ 20 ದಿನಗಳು)",
+      "description": "ಪ್ರಮುಖ ಬೆಳೆಗಳ ಇತಿಹಾಸಿಕ ಬೆಲೆ ಚಲನೆಗಳು"
+    },
+    "comparison": {
+      "title": "ಮಾರುಕಟ್ಟೆವಾರು ಬೆಲೆ ಹೋಲಿಕೆ",
+      "description": "ವಿವಿಧ ಮಾರುಕಟ್ಟೆಗಳಲ್ಲಿ ಬೆಲೆಗಳನ್ನು ಹೋಲಿಸಿ"
+    },
+    "previous": "ಹಿಂದಿನ"
+  },
+  "alertsPage": {
+    "header": {
+      "title": "ಎಚ್ಚರಿಕೆಗಳು ಮತ್ತು ಸೂಚನೆಗಳು",
+      "subtitle": "ರೈತರಿಗೆ ಸೂಚನೆಗಳನ್ನು ನಿರ್ವಹಿಸಿ ಮತ್ತು ಕಳುಹಿಸಿ",
+      "composeAlert": "ಹೊಸ ಎಚ್ಚರಿಕೆ ರಚಿಸಿ"
+    },
+    "compose": {
+      "title": "ಹೊಸ ಎಚ್ಚರಿಕೆ ರಚಿಸಿ",
+      "description": "ಆಯ್ದ ಪ್ರದೇಶಗಳ ರೈತರಿಗೆ ಸೂಚನೆಗಳನ್ನು ಸೃಷ್ಟಿಸಿ ಮತ್ತು ಕಳುಹಿಸಿ",
+      "alertType": "ಎಚ್ಚರಿಕೆ ಪ್ರಕಾರ",
+      "selectAlertType": "ಎಚ್ಚರಿಕೆ ಪ್ರಕಾರ ಆಯ್ಕೆಮಾಡಿ",
+      "priority": "ಪ್ರಾಮುಖ್ಯತೆ",
+      "alertTitle": "ಎಚ್ಚರಿಕೆ ಶೀರ್ಷಿಕೆ",
+      "enterAlertTitle": "ಎಚ್ಚರಿಕೆ ಶೀರ್ಷಿಕೆ ನಮೂದಿಸಿ",
+      "message": "ಸಂದೇಶ",
+      "enterAlertMessage": "ಎಚ್ಚರಿಕೆ ಸಂದೇಶ ನಮೂದಿಸಿ",
+      "targetDistricts": "ಗುರಿ ಜಿಲ್ಲೆಗಳು",
+      "districtsSelected": "ಜಿಲ್ಲೆಗಳು ಆಯ್ಕೆಯಾಗಿದೆ",
+      "cancel": "ರದ್ದುಗೊಳಿಸಿ",
+      "sendAlert": "ಎಚ್ಚರಿಕೆ ಕಳುಹಿಸಿ"
+    },
+    "metrics": {
+      "totalAlerts": "ಒಟ್ಟು ಕಳುಹಿಸಿದ ಎಚ್ಚರಿಕೆಗಳು",
+      "thisWeek": "ಈ ವಾರ +{{count}}",
+      "activeRecipients": "ಸಕ್ರಿಯ ಸ್ವೀಕರಿಸುವವರು",
+      "newRecipients": "+{{count}} ಹೊಸ",
+      "deliveryRate": "ವಿತರಣೆ ದರ",
+      "improvement": "+{{percent}}% ಸುಧಾರಣೆ",
+      "responseRate": "ಪ್ರತಿಕ್ರಿಯೆ ದರ",
+      "increase": "+{{percent}}% ಹೆಚ್ಚಳ"
+    },
+    "tabs": {
+      "sent": "ಕಳುಹಿಸಿದವು",
+      "templates": "ಟೆಂಪ್ಲೇಟ್‌ಗಳು",
+      "analytics": "ವಿಶ್ಲೇಷಣೆ"
+    },
+    "filters": {
+      "title": "ಎಚ್ಚರಿಕೆಗಳನ್ನು ಫಿಲ್ಟರ್ ಮಾಡಿ",
+      "filterByType": "ಪ್ರಕಾರದಿಂದ ಫಿಲ್ಟರ್ ಮಾಡಿ",
+      "filterByStatus": "ಸ್ಥಿತಿಯಿಂದ ಫಿಲ್ಟರ್ ಮಾಡಿ",
+      "allTypes": "ಎಲ್ಲಾ ಪ್ರಕಾರಗಳು",
+      "allStatus": "ಎಲ್ಲಾ ಸ್ಥಿತಿ",
+      "reset": "ಫಿಲ್ಟರ್‌ಗಳನ್ನು ಮರುಹೊಂದಿಸಿ"
+    },
+    "priority": {
+      "critical": "ತೀವ್ರ",
+      "high": "ಉನ್ನತ",
+      "medium": "ಮಧ್ಯಮ",
+      "low": "ಕಡಿಮೆ"
+    },
+    "status": {
+      "delivered": "ವಿತರಿಸಲಾಗಿದೆ",
+      "pending": "ಬಾಕಿಯಿದೆ",
+      "failed": "ವಿಫಲವಾಗಿದೆ"
+    },
+    "sentAlerts": {
+      "weather": {
+        "title": "ಭಾರೀ ಮಳೆಯ ಎಚ್ಚರಿಕೆ",
+        "message": "ತೀರ ಜಿಲ್ಲೆಗಳಲ್ಲಿ ಭಾರೀ മുതൽ ಅತಿಭಾರೀ ಮಳೆಯವರೆಗೆ ಸಾಧ್ಯತೆ. ನಿಂತಿರುವ ಬೆಳೆಗಳಿಗೆ ಮುನ್ನೆಚ್ಚರಿಕೆ ಕ್ರಮಗಳನ್ನು ಕೈಗೊಳ್ಳಿ."
+      },
+      "pest": {
+        "title": "ಬ್ರೌನ್ ಪ್ಲಾಂಟ್ ಹಾಪರ್ ಎಚ್ಚರಿಕೆ",
+        "message": "ಬತ್ತದ ಹೊಲಗಳಲ್ಲಿ ಬ್ರೌನ್ ಪ್ಲಾಂಟ್ ಹಾಪರ್ ಉಭೇದನೆ ಕಂಡುಬಂದಿದೆ. ಶಿಫಾರಸು ಮಾಡಿದ ಕೀಟನಾಶಕಗಳನ್ನು ತಕ್ಷಣ ಫವಾರಣೆ ಮಾಡಿ."
+      },
+      "scheme": {
+        "title": "ಪಿಎಂ-ಕಿಸಾನ್ ನೋಂದಣಿ ಜ್ಞಾಪನೆ",
+        "message": "ಪಿಎಂ-ಕಿಸಾನ್ ಯೋಜನೆಯ ನೋಂದಣಿಯ ಅಂತಿಮ ದಿನಾಂಕ ಸಮೀಪಿಸುತ್ತಿದೆ. ಕೊನೆಯ ದಿನಾಂಕಕ್ಕಿಂತ ಮೊದಲು ಅರ್ಜಿ ಪೂರ್ಣಗೊಳಿಸಿ."
+      },
+      "market": {
+        "title": "ಬತ್ತ ಬೆಲೆ ನವೀಕರಣ",
+        "message": "ಪ್ರಮುಖ ಮಾರುಕಟ್ಟೆಗಳಲ್ಲಿ ಬತ್ತದ ಬೆಲೆ 8% ಹೆಚ್ಚಿದೆ. ಪ್ರಸ್ತುತ ದರ: ಭುವನೇಶ್ವರ ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ₹2,850/ಕ್ವಿಂಟಲ್."
+      }
+    },
+    "templates": {
+      "weather": {
+        "name": "ಹವಾಮಾನ ಎಚ್ಚರಿಕೆ ಟೆಂಪ್ಲೇಟ್",
+        "subject": "ಹವಾಮಾನ ಎಚ್ಚರಿಕೆ: {weather_type} ಸಾಧ್ಯತೆ",
+        "message": "ಪ್ರಿಯ ರೈತರೆ,\n\nನಿಮ್ಮ ಪ್ರದೇಶದಲ್ಲಿ {start_date} ರಿಂದ {end_date} ರವರೆಗೆ {weather_type} ಸಾಧ್ಯತೆ ಇದೆ. ದಯವಿಟ್ಟು ಅಗತ್ಯ ಮುನ್ನೆಚ್ಚರಿಕೆಗಳನ್ನು ಕೈಗೊಳ್ಳಿ:\n\n• {precaution_1}\n• {precaution_2}\n• {precaution_3}\n\nಹೆಚ್ಚಿನ ಮಾಹಿತಿಗೆ ನಿಮ್ಮ ಸ್ಥಳೀಯ ಕೃಷಿ ಅಧಿಕಾರಿಯನ್ನು ಸಂಪರ್ಕಿಸಿ.\n\nಧನ್ಯವಾದಗಳು,\nಎಲೆಕ್ಟ್ರಾನಿಕ್ಸ್ & ಐಟಿ ಇಲಾಖೆ, ಒಡಿಶಾ"
+      },
+      "pest": {
+        "name": "ಕೀಟ ಎಚ್ಚರಿಕೆ ಟೆಂಪ್ಲೇಟ್",
+        "subject": "ತುರ್ತು: {pest_name} ಎಚ್ಚರಿಕೆ",
+        "message": "ಪ್ರಿಯ ರೈತರೆ,\n\nನಿಮ್ಮ ಪ್ರದೇಶದ {crop_name} ಹೊಲಗಳಲ್ಲಿ {pest_name} ಪತ್ತೆಯಾಗಿದೆ. ತಕ್ಷಣದ ಕ್ರಮ ಅಗತ್ಯ:\n\n• {chemical_name} ಅನ್ನು {dosage} ನಲ್ಲಿ ಫವಾರಣೆ ಮಾಡಿ\n• {application_time} ಸಮಯದಲ್ಲಿ ಅನ್ವಯಿಸಿ\n• ಅಗತ್ಯವಿದ್ದರೆ {repeat_interval} ನಂತರ ಪುನರಾವರ್ತಿಸಿ\n\nಸಹಾಯಕ್ಕಾಗಿ ಹೆಲ್ಪ್‌ಲೈನ್: 1800-XXX-XXXX.\n\nಧನ್ಯವಾದಗಳು,\nಎಲೆಕ್ಟ್ರಾನಿಕ್ಸ್ & ಐಟಿ ಇಲಾಖೆ, ಒಡಿಶಾ"
+      },
+      "subject": "ವಿಷಯ",
+      "messageTemplate": "ಸಂದೇಶ ಟೆಂಪ್ಲೇಟ್",
+      "edit": "ಟೆಂಪ್ಲೇಟ್ ಸಂಪಾದಿಸಿ",
+      "use": "ಟೆಂಪ್ಲೇಟ್ ಬಳಸಿ"
+    },
+    "analytics": {
+      "distributionByType": "ಪ್ರಕಾರವಾರು ಎಚ್ಚರಿಕೆ ವಿತರಣೆ",
+      "deliveryPerformance": "ವಿತರಣೆ ಕಾರ್ಯಕ್ಷಮತೆ",
+      "smsDelivery": "SMS ವಿತರಣೆ",
+      "appNotifications": "ಆಪ್ ಸೂಚನೆಗಳು",
+      "voiceCalls": "ವಾಯ್ಸ್ ಕಾಲ್‌ಗಳು",
+      "emailDelivery": "ಇಮೇಲ್ ವಿತರಣೆ"
+    },
+    "recipients": "ಸ್ವೀಕರಿಸುವವರು",
+    "delivered": "ವಿತರಿಸಲಾಗಿದೆ",
+    "districts": {
+      "puri": "ಪುರಿ",
+      "balasore": "ಬಾಲಸೋರ್",
+      "bhadrak": "ಭದ್ರಕ್",
+      "cuttack": "ಕಟಕ್",
+      "khordha": "ಖೋರ್ಧಾ",
+      "bhubaneswar": "ಭುವನೇಶ್ವರ",
+      "allDistricts": "ಎಲ್ಲಾ ಜಿಲ್ಲೆಗಳು"
+    },
+    "notifications": {
+      "weather": "ಹವಾಮಾನ ಎಚ್ಚರಿಕೆ",
+      "pest": "ಕೀಟ ಎಚ್ಚರಿಕೆ",
+      "market": "ಮಾರುಕಟ್ಟೆ ನವೀಕರಣ",
+      "scheme": "ಯೋಜನೆ ಸೂಚನೆ",
+      "advisory": "ಸಲಹೆ"
+    }
+  },
+  "schemes": {
+    "dialog": {
+    "addTitle": "ಹೊಸ ಯೋಜನೆಯನ್ನು ಸೇರಿಸಿ",
+    "addDescription": "ಸರ್ಕಾರದ ಯೋಜನೆಗಳು ಮತ್ತು ಅನುದಾನ"
+  },
+  "form": {
+    "beneficiaries": "ಹಿತಾಧೀಶರು",
+    "targetBeneficiaries": "ಗುರಿ ಹಿತಾಧೀಶರು",
+    "totalBudget": "ಒಟ್ಟು ಬಜೆಟ್",
+    "name": "ಹೆಸರು",
+    "description": "ವಿವರಣೆ",
+    "category": "ವರ್ಗ",
+    "status": "ಸ್ಥಿತಿ"
+  },
+    "header": {
+      "title": "ಯೋಜನೆಗಳು ಮತ್ತು ಸಬ್ಸಿಡಿಗಳು",
+      "subtitle": "ಸರ್ಕಾರಿ ಯೋಜನೆಗಳು ಮತ್ತು ಸಬ್ಸಿಡಿ ನಿರ್ವಹಣೆ"
+    },
+    "metrics": {
+      "totalSchemes": "ಒಟ್ಟು ಯೋಜನೆಗಳು",
+      "totalBeneficiaries": "ಒಟ್ಟು ಫಲಾನುಭವಿಗಳು",
+      "budgetUtilized": "ಬಳಸಿದ ಬಜೆಟ್",
+      "avgEnrollment": "ಸರಾಸರಿ ನೋಂದಣಿ ದರ",
+      "changes": {
+        "totalSchemes": "ಈ ವರ್ಷ +1 ಹೊಸ",
+        "totalBeneficiaries": "ಈ ತಿಂಗಳು +2,340",
+        "budgetUtilized": "ಒಟ್ಟು ಬಜೆಟ್‌ನ {{percentage}}%",
+        "avgEnrollment": "+5.3% ಸುಧಾರಣೆ"
+      },
+      "values": {
+        "budgetUtilized": "₹{{amount}} ಕೋಟಿ",
+        "budget": "₹{{amount}} ಕೋಟಿ"
+      }
+    },
+    "filters": {
+      "title": "ಯೋಜನೆಗಳನ್ನು ಫಿಲ್ಟರ್ ಮಾಡಿ",
+      "selectCategory": "ವರ್ಗ ಆಯ್ಕೆಮಾಡಿ",
+      "selectStatus": "ಸ್ಥಿತಿ ಆಯ್ಕೆಮಾಡಿ",
+      "allCategories": "ಎಲ್ಲಾ ವರ್ಗಗಳು",
+      "allStatus": "ಎಲ್ಲಾ ಸ್ಥಿತಿ"
+    },
+    "tabs": {
+      "activeSchemes": "ಸಕ್ರಿಯ ಯೋಜನೆಗಳು",
+      "analytics": "ವಿಶ್ಲೇಷಣೆ",
+      "performance": "ಪ್ರದರ್ಶನ"
+    },
+    "buttons": {
+      "export": "ವರದಿ ರಫ್ತು",
+      "addScheme": "ಯೋಜನೆ ಸೇರಿಸಿ",
+      "reset": "ಫಿಲ್ಟರ್‌ಗಳನ್ನು ಮರುಹೊಂದಿಸಿ",
+      "viewDetails": "ವಿವರಗಳನ್ನು ವೀಕ್ಷಿಸಿ"
+    },
+    "labels": {
+      "budgetUtilization": "ಬಜೆಟ್ ಬಳಕೆ",
+      "beneficiaries": "ಫಲಾನುಭವಿಗಳು",
+      "launchDate": "ಆರಂಭ ದಿನಾಂಕ",
+      "totalBudget": "ಒಟ್ಟು ಬಜೆಟ್",
+      "eligibility": "ಅರ್ಹತೆ",
+      "benefits": "ಲಾಭಗಳು"
+    },
+    "status": {
+      "active": "ಸಕ್ರಿಯ",
+      "new": "ಹೊಸ",
+      "completed": "ಪೂರ್ಣಗೊಂಡಿದೆ"
+    },
+    "charts": {
+      "schemeDistribution": "ವರ್ಗವಾರು ಯೋಜನೆ ವಿತರಣೆ",
+      "monthlyEnrollment": "ಮಾಸಿಕ ನೋಂದಣಿ ಪ್ರವೃತ್ತಿಗಳು",
+      "enrolled": "ನೋಂದಣಿಯಾಯಿತು",
+      "target": "ಲಕ್ಷ್ಯ"
+    },
+    "performance": {
+      "title": "ಜಿಲ್ಲಾವಾರು ಪ್ರದರ್ಶನ",
+      "description": "ಜಿಲ್ಲಾವಾರು ಫಲಾನುಭವಿಗಳು ಮತ್ತು ಬಳಕೆ ದರಗಳು",
+      "beneficiaries": "{{count}} ಫಲಾನುಭವಿಗಳು",
+      "utilization": "{{percentage}}% ಬಳಕೆ"
+    },
+    "data": {
+      "categories": {
+        "incomeSupport": "ಆದಾಯ ಬೆಂಬಲ",
+        "insurance": "ವಿಮಾ",
+        "credit": "ಸಾಲ",
+        "soilHealth": "ಮಣ್ಣಿನ ಆರೋಗ್ಯ",
+        "sustainableAgriculture": "ಸಸ್ತನೀಯ ಕೃಷಿ"
+      },
+      "schemes": {
+        "pmKisan": {
+          "name": "ಪಿಎಂ-ಕಿಸಾನ್",
+          "description": "ರೈತರಿಗೆ ನೇರ ಆದಾಯ ಬೆಂಬಲ",
+          "eligibility": "ಕೃಷಿ ಭೂಮಿ ಹೊಂದಿರುವ ಸಣ್ಣ/ಅಂಚಿನ ರೈತರು",
+          "benefits": "ವರ್ಷಕ್ಕೆ ₹6,000 (3 ಹಂತಗಳಲ್ಲಿ)"
+        },
+        "pmfby": {
+          "name": "ಪ್ರಧಾನಮಂತ್ರಿ ಫಸಲ್ ಬೀಮಾ ಯೋಜನೆ",
+          "description": "ರೈತರಿಗೆ ಬೆಳೆ ವಿಮಾ",
+          "eligibility": "ಅಧಿಸೂಚಿತ ಬೆಳೆ ಬೆಳೆಸುವ ಎಲ್ಲಾ ರೈತರು",
+          "benefits": "ಬೆಳೆಗಳಿಗೆ ಸಮಗ್ರ ಅಪಾಯ ಕವರ್"
+        },
+        "soilHealth": {
+          "name": "ಮಣ್ಣಿನ ಆರೋಗ್ಯ ಕಾರ್ಡ್ ಯೋಜನೆ",
+          "description": "ಮಣ್ಣಿನ ಪರೀಕ್ಷೆ ಮತ್ತು ಆರೋಗ್ಯ ಮಾನಿಟರಿಂಗ್",
+          "eligibility": "ಕೃಷಿ ಭೂಮಿ ಹೊಂದಿರುವ ಎಲ್ಲರೂ",
+          "benefits": "ಉಚಿತ ಮಣ್ಣಿನ ಪರೀಕ್ಷೆ ಮತ್ತು ಪೋಷಕ ಶಿಫಾರಸುಗಳು"
+        },
+        "kisanCredit": {
+          "name": "ಕಿಸಾನ್ ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್",
+          "description": "ಕೃಷಿ ಚಟುವಟಿಕೆಗಳಿಗೆ ಸಾಲ ಬೆಂಬಲ",
+          "eligibility": "ಮಾನ್ಯ ಭೂ ದಾಖಲೆಗಳಿರುವ ರೈತರು",
+          "benefits": "ಕೃಷಿ ಅಗತ್ಯಗಳಿಗೆ ಸುಲಭ ಸಾಲ"
+        },
+        "organicFarming": {
+          "name": "ಸೇಂದ್ರೀಯ ಕೃಷಿ ಪ್ರೋತ್ಸಾಹ",
+          "description": "ಸೇಂದ್ರೀಯ ಕೃಷಿ ಪದ್ಧತಿಗಳಿಗೆ ಬೆಂಬಲ",
+          "eligibility": "ಸೇಂದ್ರೀಯ ಪದ್ಧತಿಗಳನ್ನು ಸ್ವೀಕರಿಸಲು ಸಿದ್ಧ",
+          "benefits": "ಸೇಂದ್ರೀಯ ಇನ್‌ಪುಟ್ ಮತ್ತು ಪ್ರಮಾಣೀಕರಣಕ್ಕೆ ಸಬ್ಸಿಡಿ"
+        }
+      },
+      "months": {
+        "jan": "ಜನ",
+        "feb": "ಫೆಬ್ರ",
+        "mar": "ಮಾರ್ಚ್",
+        "apr": "ಏಪ್ರಿ",
+        "may": "ಮೇ",
+        "jun": "ಜೂನ್",
+        "jul": "ಜುಲೈ",
+        "aug": "ಆಗ",
+        "sep": "ಸೆಪ್",
+        "oct": "ಅಕ್ಟೋ",
+        "nov": "ನವೆ",
+        "dec": "ಡಿಸೆ"
+      },
+      "districts": {
+        "cuttack": "ಕಟಕ್",
+        "bhubaneswar": "ಭುವನೇಶ್ವರ",
+        "puri": "ಪುರಿ",
+        "khordha": "ಖೋರ್ಧಾ",
+        "ganjam": "ಗಂಜಾಮ್"
+      }
+    }
+  },
+  "common": {
+    "cancel": "ರದ್ದುಗೊಳಿಸಿ"
+  },
+  "reports": {
+    "pageTitle": "ವರದಿಗಳು ಮತ್ತು ಒಳನೋಟಗಳು",
+    "pageDescription": "ವಿಶ್ಲೇಷಣಾತ್ಮಕ ವರದಿಗಳನ್ನು ರಚಿಸಿ ಮತ್ತು ನಿರ್ವಹಿಸಿ",
+    "generateReport": "ವರದಿ ರಚಿಸಿ",
+    "generateNewReport": "ಹೊಸ ವರದಿ ರಚಿಸಿ",
+    "generateReportDescription": "ನಿರ್ದಿಷ್ಟ ಪರಾಮಿತಿಗಳೊಂದಿಗೆ ಕಸ್ಟಮ್ ವರದಿ",
+    "reportTitle": "ವರದಿ ಶೀರ್ಷಿಕೆ",
+    "enterReportTitle": "ವರದಿ ಶೀರ್ಷಿಕೆ ನಮೂದಿಸಿ",
+    "reportType": "ವರದಿ ಪ್ರಕಾರ",
+    "selectReportType": "ವರದಿ ಪ್ರಕಾರ ಆಯ್ಕೆಮಾಡಿ",
+    "dateRange": "ದಿನಾಂಕ ಶ್ರೇಣಿ",
+    "selectDate": "ದಿನಾಂಕ ಆಯ್ಕೆಮಾಡಿ",
+    "fromDate": "ಇಂದಿನ ದಿನಾಂಕದಿಂದ",
+    "toDate": "ವರೆಗೆ ದಿನಾಂಕ",
+    "generating": "ರಚಿಸಲಾಗುತ್ತಿದೆ...",
+    "filterReports": "ವರದಿಗಳನ್ನು ಫಿಲ್ಟರ್ ಮಾಡಿ",
+    "filterByType": "ಪ್ರಕಾರದಿಂದ",
+    "filterByStatus": "ಸ್ಥಿತಿಯಿಂದ",
+    "resetFilters": "ಫಿಲ್ಟರ್‌ಗಳನ್ನು ಮರುಹೊಂದಿಸಿ",
+    "generated": "ರಚಿಸಲಾಗಿದೆ",
+    "by": "ಇವರಿಂದ",
+    "size": "ಗಾತ್ರ",
+    "downloads": "ಡೌನ್‌ಲೋಡ್‌ಗಳು",
+    "format": "ಫಾರ್ಮಾಟ್",
+    "preview": "ಪೂರ್ವವೀಕ್ಷಣೆ",
+    "download": "ಡೌನ್‌ಲೋಡ್",
+    "viewDetails": "ವಿವರಗಳನ್ನು ವೀಕ್ಷಿಸಿ",
+    "recommendation": "ಶಿಫಾರಸು",
+    "impact2": "ಪರಿಣಾಮ",
+    "tabs": {
+      "generatedReports": "ರಚಿಸಿದ ವರದಿಗಳು",
+      "keyInsights": "ಮುಖ್ಯ ಒಳನೋಟಗಳು",
+      "reportAnalytics": "ವರದಿ ವಿಶ್ಲೇಷಣೆ"
+    },
+    "filters": {
+      "allTypes": "ಎಲ್ಲಾ ಪ್ರಕಾರಗಳು",
+      "allStatus": "ಎಲ್ಲಾ ಸ್ಥಿತಿ"
+    },
+    "types": {
+      "registration": "ನೋಂದಣಿ",
+      "analytics": "ವಿಶ್ಲೇಷಣೆ",
+      "pestControl": "ಕೀಟ ನಿಯಂತ್ರಣ",
+      "market": "ಮಾರುಕಟ್ಟೆ",
+      "schemes": "ಯೋಜನೆಗಳು",
+      "registrationReport": "ನೋಂದಣಿ ವರದಿ",
+      "analyticsReport": "ವಿಶ್ಲೇಷಣಾ ವರದಿ",
+      "pestControlReport": "ಕೀಟ ನಿಯಂತ್ರಣ ವರದಿ",
+      "marketAnalysis": "ಮಾರುಕಟ್ಟೆ ವಿಶ್ಲೇಷಣೆ",
+      "schemesReport": "ಯೋಜನೆ ವರದಿ"
+    },
+    "status": {
+      "completed": "ಪೂರ್ಣಗೊಂಡಿದೆ",
+      "processing": "ಸಂಸ್ಕರಣೆ",
+      "failed": "ವಿಫಲವಾಗಿದೆ"
+    },
+    "impact": {
+      "high": "ಉನ್ನತ",
+      "medium": "ಮಧ್ಯಮ",
+      "low": "ಕಡಿಮೆ"
+    },
+    "categories": {
+      "registration": "ನೋಂದಣಿ",
+      "yield": "ಉತ್ಪಾದನೆ",
+      "pestControl": "ಕೀಟ ನಿಯಂತ್ರಣ",
+      "market": "ಮಾರುಕಟ್ಟೆ"
+    },
+    "generatedBy": {
+      "systemAdmin": "ಸಿಸ್ಟಮ್ ನಿರ್ವಾಹಕ",
+      "dataAnalyst": "ಡೇಟಾ ವಿಶ್ಲೇಷಕ",
+      "fieldOfficer": "ಕ್ಷೇತ್ರ ಅಧಿಕಾರಿ",
+      "marketAnalyst": "ಮಾರುಕಟ್ಟೆ ವಿಶ್ಲೇಷಕ",
+      "programManager": "ಕಾರ್ಯಕ್ರಮ ವ್ಯವಸ್ಥಾಪಕ"
+    },
+    "metrics": {
+      "totalReports": "ಒಟ್ಟು ವರದಿಗಳು",
+      "thisMonth": "ಈ ತಿಂಗಳು +{{count}}",
+      "downloads": "ಡೌನ್‌ಲೋಡ್‌ಗಳು",
+      "thisWeek": "ಈ ವಾರ +{{count}}",
+      "activeUsers": "ಸಕ್ರಿಯ ಬಳಕೆದಾರರು",
+      "newUsers": "+{{count}} ಹೊಸ ಬಳಕೆದಾರರು",
+      "insightsGenerated": "ರಚಿಸಿದ ಒಳನೋಟಗಳು",
+      "newInsights": "+{{count}} ಹೊಸ ಒಳನೋಟಗಳು"
+    },
+    "months": {
+      "jan": "ಜನ",
+      "feb": "ಫೆಬ್ರ",
+      "mar": "ಮಾರ್ಚ್",
+      "apr": "ಏಪ್ರಿ",
+      "may": "ಮೇ",
+      "jun": "ಜೂನ್",
+      "jul": "ಜುಲೈ",
+      "aug": "ಆಗ",
+      "sep": "ಸೆಪ್",
+      "oct": "ಅಕ್ಟೋ",
+      "nov": "ನವೆ",
+      "dec": "ಡಿಸೆ"
+    },
+    "chart": {
+      "title": "ವರದಿ ರಚನೆ ಮತ್ತು ಡೌನ್‌ಲೋಡ್ ಪ್ರವೃತ್ತಿಗಳು",
+      "description": "ವಾರ್ಷಿಕ ವರದಿ ರಚನೆ ಮತ್ತು ಡೌನ್‌ಲೋಡ್ ಅಂಕಿ-ಅಂಶಗಳು",
+      "reportsGenerated": "ರಚಿಸಿದ ವರದಿಗಳು",
+      "downloads": "ಡೌನ್‌ಲೋಡ್‌ಗಳು"
+    },
+    "list": {
+      "monthlyFarmerRegistration": {
+        "title": "ಮಾಸಿಕ ರೈತ ನೋಂದಣಿ ವರದಿ",
+        "description": "ಎಲ್ಲಾ ಜಿಲ್ಲೆಗಳಲ್ಲಿನ ಹೊಸ ನೋಂದಣಿಗಳ ವಿಶ್ಲೇಷಣೆ"
+      },
+      "cropYieldPerformance": {
+        "title": "ಬೆಳೆ ಉತ್ಪಾದನೆ ಕಾರ್ಯಕ್ಷಮತೆ",
+        "description": "ಪ್ರಸಕ್ತ ಋತುವನ್ನು ಇತಿಹಾಸಿಕ ಡೇಟಾವೊಂದಿಗಿನ ಹೋಲಿಕೆ"
+      },
+      "pestOutbreakSummary": {
+        "title": "ಕೀಟ ಉಭೇದನೆ ಸಂಕ್ಷಿಪ್ತ ವರದಿ",
+        "description": "ಉಭೇದನೆಗಳು ಮತ್ತು ನಿಯಂತ್ರಣ ಕ್ರಮಗಳ ಸಂಕ್ಷಿಪ್ತ ವಿವರಣೆ"
+      },
+      "marketPriceTrends": {
+        "title": "ಮಾರುಕಟ್ಟೆ ಬೆಲೆ ಪ್ರವೃತ್ತಿಗಳ ವಿಶ್ಲೇಷಣೆ",
+        "description": "ಬೆಲೆ ಚಲನೆಗಳು ಮತ್ತು ಮಾರುಕಟ್ಟೆ ಪ್ರವೃತ್ತಿಗಳು"
+      },
+      "schemeImplementation": {
+        "title": "ಯೋಜನೆ ಅನುಷ್ಠಾನ ಪ್ರಗತಿ",
+        "description": "ಯೋಜನೆ ಅನುಷ್ಠಾನ ಮತ್ತು ಫಲಾನುಭವಿಗಳ ವ್ಯಾಪ್ತಿಯ ಪ್ರಗತಿ"
+      }
+    },
+    "insights": {
+      "farmerRegistrationSurge": {
+        "title": "ರೈತ ನೋಂದಣಿಯಲ್ಲಿ ಏರಿಕೆ",
+        "description": "ಕಳೆದ ತಿಂಗಳಿಗಿಂತ 25% ಏರಿಕೆ",
+        "recommendation": "ವೇಗವನ್ನು ಉಳಿಸಲು ಜಾಗೃತಿ ವಿಸ್ತರಿಸಿ"
+      },
+      "cropYieldImprovement": {
+        "title": "ಉತ್ಪಾದನೆ ಸುಧಾರಣೆ",
+        "description": "ಪ್ರಮುಖ ಬೆಳೆಗಳಲ್ಲಿ ಸರಾಸರಿ ಉತ್ಪಾದನೆ 12% ಹೆಚ್ಚಳ",
+        "recommendation": "ಕಡಿಮೆ ಪ್ರದರ್ಶನದ ಜಿಲ್ಲೆಗಳೊಂದಿಗೆ ಉತ್ತಮ ಕ್ರಮಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಿ"
+      },
+      "pestControlEffectiveness": {
+        "title": "ಕೀಟ ನಿಯಂತ್ರಣ ಪರಿಣಾಮಕಾರಿತ್ವ",
+        "description": "ನಿಯಂತ್ರಣ ಕ್ರಮಗಳು 18% ನಷ್ಟವನ್ನು ಕಡಿತಗೊಳಿಸಿವೆ",
+        "recommendation": "ಪ್ರಸ್ತುತ ತಂತ್ರಗಳನ್ನು ಮುಂದುವರಿಸಿ"
+      },
+      "marketPriceVolatility": {
+        "title": "ಮಾರುಕಟ್ಟೆ ಬೆಲೆ ಅಸ್ಥಿರತೆ",
+        "description": "ಸಾಮಾನ್ಯಕ್ಕಿಂತ ಹೆಚ್ಚಿನ ಬೆಲೆ ಅಸ್ಥಿರತೆ ಕಂಡುಬಂದಿದೆ",
+        "recommendation": "ಬೆಲೆ ಸ್ಥಿರೀಕರಣ ಕ್ರಮಗಳನ್ನು ಜಾರಿಗೊಳಿಸಿ"
+      }
+    }
+  },
+  "month2": {
+    "Jan": "ಜನವರಿ",
+    "Feb": "ಫೆಬ್ರವರಿ",
+    "Mar": "ಮಾರ್ಚ್",
+    "Apr": "ಏಪ್ರಿಲ್",
+    "May": "ಮೇ",
+    "Jun": "ಜೂನ್"
+  },
+  "common.save": "ಉಳಿಸಿ"
+}

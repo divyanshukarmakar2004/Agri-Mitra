@@ -1,0 +1,1024 @@
+{
+  "app.name": "ஏக்ரிமித்ரா",
+  "gov.name": "இந்திய அரசு",
+  "dept.agri": "விவசாய மற்றும் விவசாயிகள் நலத்துறை",
+  "dept.agri.short": "விவசாய துறை",
+
+  "nav.dashboard": "டாஷ்போர்டு",
+  "nav.farmers": "விவசாயிகள் கணினி",
+  "nav.yield": "விளைச்சல் மற்றும் பயிர் பகுப்பாய்வு",
+  "nav.pest": "பூச்சி மற்றும் நோய் கண்காணிப்பு",
+  "nav.market": "சந்தை விலைகள்",
+  "nav.alerts": "எச்சரிக்கைகள் மற்றும் அறிவிப்புகள்",
+  "nav.schemes": "திட்டங்கள் மற்றும் மானியங்கள்",
+  "nav.reports": "அறிக்கைகள் மற்றும் நுண்ணறிவுகள்",
+  "nav.settings": "அமைப்புகள்",
+
+  "footer.copyright": "© 2025 இந்திய அரசு",
+  "footer.dept": "மின்னணு மற்றும் ஐடி துறை",
+
+  "login.title": "இந்திய அரசு",
+  "login.subtitle": "விவசாய துறை",
+  "login.signin": "போர்ட்டலில் உள்நுழையவும்",
+  "login.signin.description": "கணினியை அணுக உங்கள் அங்கீகாரங்களை உள்ளிடவும்",
+  "login.username": "பயனர் பெயர்",
+  "login.password": "கடவுச்சொல்",
+  "login.securityCode": "பாதுகாப்பு குறியீடு",
+  "login.enterUsername": "உங்கள் பயனர் பெயரை உள்ளிடவும்",
+  "login.enterPassword": "உங்கள் கடவுச்சொல்லை உள்ளிடவும்",
+  "login.enterCaptcha": "கேப்ச்சா உள்ளிடவும்",
+  "login.signingIn": "உள்நுழைகிறது...",
+  "login.signIn": "உள்நுழையவும்",
+  "login.copyright": "© 2025 இந்திய அரசு. அனைத்து உரிமைகளும் பாதுகாக்கப்பட்டவை.",
+
+  "header.notifications": "அறிவிப்புகள்",
+  "header.viewAll": "அனைத்து அறிவிப்புகளையும் பார்க்கவும்",
+  "header.adminUser": "நிர்வாக பயனர்",
+  "header.deptOfficer": "துறை அதிகாரி",
+  "header.settings": "அமைப்புகள்",
+  "header.signOut": "வெளியேறவும்",
+  "header.signingOut": "வெளியேறுகிறது...",
+
+  "dashboard.stats.totalFarmers": "மொத்த பதிவு செய்யப்பட்ட விவசாயிகள்",
+  "dashboard.stats.activeMonitoring": "செயலில் உள்ள பயிர் கண்காணிப்பு",
+  "dashboard.stats.pestAlerts": "பூச்சி எச்சரிக்கைகள் (செயலில்)",
+  "dashboard.stats.marketUpdates": "சந்தை விலை புதுப்பிப்புகள்",
+  "dashboard.fromLastMonth": "கடந்த மாதத்திலிருந்து",
+  "dashboard.recentActivities": "சமீபத்திய செயல்பாடுகள்",
+  "dashboard.latestUpdates": "கணினியிலிருந்து சமீபத்திய புதுப்பிப்புகள்",
+  "dashboard.schemeImplementation": "திட்ட செயல்படுத்தல்",
+  "dashboard.dataCollection": "தரவு சேகரிப்பு",
+  "dashboard.systemHealth": "கணினி ஆரோக்கியம்",
+  "dashboard.pmKisan": "பிஎம்-கிசான்",
+  "dashboard.cropSurvey": "பயிர் ஆய்வு",
+  "dashboard.serverStatus": "சர்வர் நிலை",
+
+  "settings.title": "அமைப்புகள்",
+  "settings.subtitle": "உங்கள் கணக்கு மற்றும் கணினி விருப்பத்தேர்வுகளை நிர்வகிக்கவும்",
+  "settings.profileInformation": "சுயவிவர தகவல்",
+  "settings.updateDetails": "உங்கள் தனிப்பட்ட விவரங்கள் மற்றும் தொடர்பு தகவலை புதுப்பிக்கவும்",
+  "settings.firstName": "முதல் பெயர்",
+  "settings.lastName": "கடைசி பெயர்",
+  "settings.email": "மின்னஞ்சல்",
+  "settings.phone": "தொலைபேசி",
+  "settings.saveChanges": "மாற்றங்களை சேமிக்கவும்",
+  "settings.languagePreferences": "மொழி விருப்பத்தேர்வுகள்",
+  "settings.selectPreferredLanguage": "இடைமுகத்திற்கு உங்கள் விருப்பமான மொழியை தேர்ந்தெடுக்கவும்",
+  "settings.language": "மொழி",
+  "settings.notificationSettings": "அறிவிப்பு அமைப்புகள்",
+  "settings.manageNotifications": "நீங்கள் அறிவிப்புகள் மற்றும் எச்சரிக்கைகளை எவ்வாறு பெறுகிறீர்கள் என்பதை நிர்வகிக்கவும்",
+  "settings.emailNotifications": "மின்னஞ்சல் அறிவிப்புகள்",
+  "settings.receiveEmailUpdates": "மின்னஞ்சல் மூலம் புதுப்பிப்புகள் மற்றும் எச்சரிக்கைகளை பெறவும்",
+  "settings.smsNotifications": "எஸ்எம்எஸ் அறிவிப்புகள்",
+  "settings.receiveSMSAlerts": "எஸ்எம்எஸ் மூலம் முக்கியமான எச்சரிக்கைகளை பெறவும்",
+  "settings.pushNotifications": "புஷ் அறிவிப்புகள்",
+  "settings.receivePushNotifications": "உலாவி புஷ் அறிவிப்புகளை பெறவும்",
+  "settings.enabled": "இயக்கப்பட்டது",
+  "settings.disabled": "முடக்கப்பட்டது",
+  "settings.securitySettings": "பாதுகாப்பு அமைப்புகள்",
+  "settings.manageSecurity": "உங்கள் கணக்கின் பாதுகாப்பு மற்றும் அங்கீகாரத்தை நிர்வகிக்கவும்",
+  "settings.currentPassword": "தற்போதைய கடவுச்சொல்",
+  "settings.enterCurrentPassword": "உங்கள் தற்போதைய கடவுச்சொல்லை உள்ளிடவும்",
+  "settings.newPassword": "புதிய கடவுச்சொல்",
+  "settings.enterNewPassword": "உங்கள் புதிய கடவுச்சொல்லை உள்ளிடவும்",
+  "settings.confirmPassword": "கடவுச்சொல்லை உறுதிப்படுத்தவும்",
+  "settings.confirmNewPassword": "உங்கள் புதிய கடவுச்சொல்லை உறுதிப்படுத்தவும்",
+  "settings.updatePassword": "கடவுச்சொல்லை புதுப்பிக்கவும்",
+  "common.clearFilters": "வடிகட்டிகளை அழிக்கவும்",
+  "common.pageOf": "பக்கம் {{page}} / {{total}}",
+  "common.previous": "முந்தைய",
+  "common.next": "அடுத்து",
+  "common.allDistricts": "அனைத்து மாவட்டங்கள்",
+  "common.allStatus": "அனைத்து நிலை",
+  "status.active": "செயலில்",
+  "status.inactive": "செயலற்றது",
+  "status.pending": "நிலுவையில்",
+  "status.completed": "முடிந்தது",
+  "status.inProgress": "முன்னேற்றத்தில்",
+  "district.Angul": "அங்குல்",
+  "district.Balangir": "பலாங்கிர்",
+  "district.Balasore": "பாலசோர்",
+  "district.Bargarh": "பர்கர்",
+  "district.Bhadrak": "பத்ரக்",
+  "district.Bhubaneswar": "புவனேஸ்வர்",
+  "district.Boudh": "பௌத்",
+  "district.Cuttack": "கட்டக்",
+  "district.Deogarh": "தேவ்கர்",
+  "district.Dhenkanal": "டெங்கனால்",
+  "district.Gajapati": "கஜபதி",
+  "district.Ganjam": "கஞ்சம்",
+  "district.Jagatsinghpur": "ஜகத்சிங்பூர்",
+  "district.Jajpur": "ஜாஜ்பூர்",
+  "district.Jharsuguda": "ஜார்சுகுடா",
+  "district.Kalahandi": "காலாஹண்டி",
+  "district.Kandhamal": "கந்தமால்",
+  "district.Kendrapara": "கேந்திரபாரா",
+  "district.Kendujhar": "கேந்துஜர்",
+  "district.Khordha": "கோர்தா",
+  "district.Koraput": "கோராபுட்",
+  "district.Malkangiri": "மல்காங்கிரி",
+  "district.Mayurbhanj": "மயூர்பஞ்ச்",
+  "district.Nabarangpur": "நபரங்க்பூர்",
+  "district.Nayagarh": "நயாகர்",
+  "district.Nuapada": "நுவாபாடா",
+  "district.Puri": "புரி",
+  "district.Rayagada": "ராயகாடா",
+  "district.Sambalpur": "சம்பல்பூர்",
+  "district.Subarnapur": "சுபர்ணபூர்",
+  "district.Sundargarh": "சுந்தர்கர்",
+  "farmers.title": "விவசாயிகள் கணினி",
+  "farmers.subtitle": "விவசாயி பதிவுகளை நிர்வகித்து பார்க்கவும்",
+  "farmers.count": "{{count}} விவசாயிகள்",
+  "farmers.searchFilter": "தேடவும் மற்றும் வடிகட்டவும்",
+  "farmers.searchHint": "பெயர், ஐடி, இடம் அல்லது நிலையின்படி விவசாயிகளை தேடவும்",
+  "farmers.searchPlaceholder": "விவசாயிகளை தேடவும்...",
+  "farmers.selectDistrict": "மாவட்டத்தை தேர்ந்தெடுக்கவும்",
+  "farmers.selectStatus": "நிலையை தேர்ந்தெடுக்கவும்",
+  "farmers.registeredFarmers": "பதிவு செய்யப்பட்ட விவசாயிகள்",
+  "farmers.showing": "{{shown}} இல் {{total}} விவசாயிகளை காட்டுகிறது",
+  "farmers.columns.id": "விவசாயி ஐடி",
+  "farmers.columns.name": "பெயர்",
+  "farmers.columns.location": "இடம்",
+  "farmers.columns.contact": "தொடர்பு",
+  "farmers.columns.landSize": "நிலம் அளவு",
+  "farmers.columns.crops": "பயிர்கள்",
+  "farmers.columns.status": "நிலை",
+  "farmers.columns.actions": "செயல்கள்",
+  "farmers.kcc": "கேசிசி",
+  "farmers.viewProfile": "விவசாயி சுயவிவரத்தை பார்க்கவும்",
+  "farmer.backToList": "விவசாயிகளுக்கு திரும்பவும்",
+  "farmer.title": "விவசாயி விவரங்கள்",
+  "farmer.id": "விவசாயி ஐடி",
+  "farmer.kcc": "கேசிசி எண்",
+  "farmer.location": "இடம்",
+  "farmer.address": "பாங்கி கட்டக்",
+  "farmer.contact": "தொடர்பு",
+  "farmer.registrationDate": "பதிவு தேதி",
+  "farmer.landSize": "நிலம் அளவு",
+  "farmer.crops": "பயிர்கள்",
+  "farmer.aadhar": "ஆதார் எண்",
+  "farmer.bankAccount": "வங்கி கணக்கு",
+  "farmer.cropHistory": "பயிர் வரலாறு",
+  "farmer.cropHistoryDesc": "சமீபத்திய பயிர் சாகுபடி பதிவுகள்",
+  "farmer.govtSchemes": "அரசு திட்டங்கள்",
+  "farmer.govtSchemesDesc": "பதிவு செய்யப்பட்ட திட்டங்கள் மற்றும் நன்மைகள்",
+  "farmer.sample.riceKharif": "அரிசி (காரிப் 2024)",
+  "farmer.sample.wheatRabi": "கோதுமை (ரபி 2024)",
+  "farmer.sample.acres1_2": "1.2 ஏக்கர்",
+  "farmer.sample.acres1_3": "1.3 ஏக்கர்",
+  "farmer.sample.pmKisanAmount": "₹6,000/வருடம்",
+  "farmer.sample.soilHealthCard": "மண் ஆரோக்கிய அட்டை",
+  "farmer.sample.validUntil2025": "2025 வரை செல்லுபடியாகும்",
+  "common.months": {
+    "Jan": "ஜனவரி",
+    "Feb": "பிப்ரவரி",
+    "Mar": "மார்ச்",
+    "Apr": "ஏப்ரல்",
+    "May": "மே",
+    "Jun": "ஜூன்",
+    "Jul": "ஜூலை",
+    "Aug": "ஆகஸ்ட்",
+    "Sep": "செப்டம்பர்",
+    "Oct": "அக்டோபர்",
+    "Nov": "நவம்பர்",
+    "Dec": "டிசம்பர்"
+  },
+  "dashboard.monthlyRegistrationTrends": "மாதாந்திர பதிவு போக்குகள்",
+  "dashboard.monthlyRegistrationDesc": "காலத்தின் அடிப்படையில் விவசாயி பதிவுகள் மற்றும் பயிர் கண்காணிப்பு",
+  "dashboard.yieldPerformance": "விளைச்சல் செயல்திறன்",
+  "dashboard.yieldPerformanceDesc": "மாதங்களில் சராசரி பயிர் விளைச்சல் சதவீதம்",
+  "dashboard.datasets.farmers": "விவசாயிகள்",
+  "dashboard.datasets.crops": "பயிர்கள்",
+  "dashboard.datasets.yieldPct": "விளைச்சல் %",
+  "dashboard.heatmap.title": "விவசாயி பதிவு ஹீட்மேப்",
+  "dashboard.heatmap.subtitle": "மாவட்டவாரி விவசாயி பதிவு அடர்த்தி",
+  "dashboard.heatmap.density": "அடர்த்தி",
+  "dashboard.heatmap.capacity": "திறன்",
+  "dashboard.heatmap.legend": "அடர்த்தி லெஜெண்ட்:",
+  "dashboard.heatmap.intensity": {
+    "veryHigh": "மிக அதிகம்",
+    "high": "அதிகம்",
+    "medium": "நடுத்தரம்",
+    "low": "குறைவு",
+    "veryLow": "மிக குறைவு"
+  },
+  "dashboard.heatmap.legendItems": {
+    "veryHigh": "மிக அதிகம் (80%+)",
+    "high": "அதிகம் (60-79%)",
+    "medium": "நடுத்தரம் (40-59%)",
+    "low": "குறைவு (20-39%)",
+    "veryLow": "மிக குறைவு (<20%)"
+  },
+  "dashboard.heatmap.districts": {
+    "bhubaneswar": "புவனேஸ்வர்",
+    "cuttack": "கட்டக்",
+    "puri": "புரி",
+    "khordha": "கோர்தா",
+    "ganjam": "கஞ்சம்",
+    "balasore": "பாலசோர்",
+    "mayurbhanj": "மயூர்பஞ்ச்",
+    "kendrapara": "கேந்திரபாரா"
+  },
+  "dashboard.notifications.title": "சமீபத்திய அறிவிப்புகள்",
+  "dashboard.notifications.subtitle": "கணினியிலிருந்து சமீபத்திய எச்சரிக்கைகள் மற்றும் புதுப்பிப்புகள்",
+  "dashboard.notifications.count": "{{count}} புதியவை",
+  "dashboard.notifications.viewAll": "அனைத்து அறிவிப்புகளையும் பார்க்கவும்",
+  "dashboard.notifications.priority": {
+    "high": "அதிகம்",
+    "medium": "நடுத்தரம்",
+    "low": "குறைவு"
+  },
+  "dashboard.notifications.weather": {
+    "title": "வானிலை எச்சரிக்கை: கனமழை எதிர்பார்க்கப்படுகிறது",
+    "message": "கடற்கரை மாவட்டங்களுக்கு பருவமழை எச்சரிக்கை விடுக்கப்பட்டது. விவசாயிகளுக்கு எச்சரிக்கையுடன் இருக்க அறிவுறுத்தப்பட்டது.",
+    "time": "5 நிமிடங்களுக்கு முன்"
+  },
+  "dashboard.notifications.scheme": {
+    "title": "புதிய மானிய திட்டம் தொடங்கப்பட்டது",
+    "message": "பிஎம்-கிசான் பலனாளி பதிவு இப்போது திறக்கப்பட்டுள்ளது. கடைசி தேதிக்கு முன் விண்ணப்பிக்கவும்.",
+    "time": "2 மணிநேரங்களுக்கு முன்"
+  },
+  "dashboard.notifications.pest": {
+    "title": "பூச்சி கட்டுப்பாடு ஆலோசனை அனுப்பப்பட்டது",
+    "message": "பாதிக்கப்பட்ட பகுதிகளில் 15,000+ விவசாயிகளுக்கு பழுப்பு தாவர ஹாபர் கட்டுப்பாட்டு நடவடிக்கைகள் அனுப்பப்பட்டன.",
+    "time": "1 நாளுக்கு முன்"
+  },
+  "dashboard.notifications.market": {
+    "title": "சந்தை விலை புதுப்பிப்பு",
+    "message": "புவனேஸ்வர் சந்தையில் அரிசி விலைகள் 8% அதிகரித்துள்ளன. புதுப்பிக்கப்பட்ட விகிதங்கள் கிடைக்கின்றன.",
+    "time": "2 நாட்களுக்கு முன்"
+  },
+  "dashboard.activities": {
+    "registration": {
+      "title": "கட்டக் மாவட்டத்தில் புதிய விவசாயி பதிவு",
+      "time": "2 நிமிடங்களுக்கு முன்"
+    },
+    "alert": {
+      "title": "புவனேஸ்வர் பகுதிக்கு பூச்சி எச்சரிக்கை விடுக்கப்பட்டது",
+      "time": "15 நிமிடங்களுக்கு முன்"
+    },
+    "market": {
+      "title": "அரிசி (பாஸ்மதி) சந்தை விலை புதுப்பிக்கப்பட்டது",
+      "time": "1 மணிநேரத்திற்கு முன்"
+    },
+    "advisory": {
+      "title": "5,000+ விவசாயிகளுக்கு வானிலை ஆலோசனை அனுப்பப்பட்டது",
+      "time": "2 மணிநேரங்களுக்கு முன்"
+    }
+  },
+  "pie.title": "பயிர் விநியோகம்",
+  "pie.subtitle": "மாநிலம் முழுவதும் பயிர்களின் விநியோகம்",
+  "crops.rice": "அரிசி",
+  "crops.wheat": "கோதுமை",
+  "crops.sugarcane": "கரும்பு",
+  "crops.others": "மற்றவை",
+
+  "farmers": {
+    "names": {
+      "F001": "ராஜேஷ் குமார் படேல்",
+      "F002": "சுனீதா தேவி",
+      "F003": "மனோஜ் சிங்",
+      "F004": "பிரியா ஷர்மா",
+      "F005": "ரமேஷ் சந்திர தாஸ்",
+      "F006": "கவிதா மோஹன்டி"
+    },
+    "districts": {
+      "cuttack": "கட்டக்",
+      "bhubaneswar": "புவனேஸ்வர்",
+      "puri": "புரி",
+      "khordha": "கோர்தா",
+      "ganjam": "கஞ்சம்",
+      "balasore": "பாலசோர்"
+    },
+    "villages": {
+      "banki": "பாங்கி",
+      "patia": "படியா",
+      "konark": "கோணார்க்",
+      "jatni": "ஜாத்னி",
+      "berhampur": "பேராம்பூர்",
+      "nilgiri": "நீலகிரி"
+    },
+    "crops": {
+      "rice": "அரிசி",
+      "wheat": "கோதுமை",
+      "vegetables": "காய்கறிகள்",
+      "coconut": "தேங்காய்",
+      "flowers": "மலர்கள்",
+      "sugarcane": "கரும்பு",
+      "pulses": "பருப்பு வகைகள்"
+    },
+    "status": {
+      "active": "செயலில்",
+      "inactive": "செயலற்றது",
+      "pending": "நிலுவையில்"
+    }
+  },
+  "yieldPage": {
+    "header": {
+      "title": "விளைச்சல் மற்றும் பயிர் பகுப்பாய்வு",
+      "subtitle": "முழுமையான பயிர் செயல்திறன் பகுப்பாய்வு",
+      "export": "அறிக்கையை ஏற்றுமதி செய்யவும்"
+    },
+    "filters": {
+      "title": "பகுப்பாய்வு வடிகட்டிகள்",
+      "year": "ஆண்டு தேர்வு",
+      "crop": "பயிர் தேர்வு",
+      "district": "மாவட்டம் தேர்வு",
+      "reset": "வடிகட்டிகளை மீட்டமை"
+    },
+    "metrics": {
+      "totalProduction": "மொத்த உற்பத்தி",
+      "averageYield": "சராசரி விளைச்சல்",
+      "cultivatedArea": "சாகுபடி பகுதி",
+      "efficiencyRate": "திறன் விகிதம்",
+      "fromLastYear": "கடந்த ஆண்டிலிருந்து"
+    },
+    "tabs": {
+      "trends": "விளைச்சல் போக்குகள்",
+      "seasonal": "மௌசம் பகுப்பாய்வு",
+      "comparison": "பயிர் ஒப்பீடு",
+      "districts": "மாவட்ட செயல்திறன்"
+    },
+    "charts": {
+      "yieldTrends": {
+        "title": "5-ஆண்டு விளைச்சல் போக்குகள்",
+        "description": "பயிர் வகை வாரியாக வரலாற்று விளைச்சல்"
+      },
+      "seasonal": {
+        "title": "மௌசம் உற்பத்தி பகுப்பாய்வு",
+        "description": "மௌசங்களுக்கு இடையில் உற்பத்தி vs இலக்குகள்"
+      },
+      "comparison": {
+        "area": "பயிர் பரப்பளவு பகிர்வு",
+        "yield": "பயிர்படி விளைச்சல் திறன்"
+      },
+      "district": {
+        "title": "மாவட்ட வார செயல்திறன்",
+        "description": "முக்கிய மாவட்டங்களில் விளைச்சல் ஒப்பீடு"
+      },
+      "monthly": {
+        "title": "மாதாந்திர பயிர் முன்னேற்றம்",
+        "description": "ஆண்டு முழுவதும் விதைப்பு, வளர்ச்சி மற்றும் அறுவடை முன்னேற்றம்"
+      }
+    },
+    "crops": {
+      "all": "அனைத்து பயிர்கள்",
+      "rice": "அரிசி",
+      "wheat": "கோதுமை",
+      "sugarcane": "கரும்பு",
+      "vegetables": "காய்கறிகள்",
+      "pulses": "பருப்பு வகைகள்"
+    },
+    "districts": {
+      "all": "அனைத்து மாவட்டங்கள்",
+      "cuttack": "கட்டக்",
+      "bhubaneswar": "புவனேஸ்வர்",
+      "puri": "புரி",
+      "khordha": "கோர்தா",
+      "ganjam": "கஞ்சம்"
+    },
+    "months": {
+      "jan": "ஜன",
+      "feb": "பிப்",
+      "mar": "மார்",
+      "apr": "ஏப்",
+      "may": "மே",
+      "jun": "ஜூன்"
+    }
+  },
+  "pestTracking": {
+    "header": {
+      "title": "பூச்சி & நோய் கண்காணிப்பு",
+      "subtitle": "பயிர் ஆரோக்கிய அச்சுறுத்தல்களை கண்காணித்து நிர்வகிக்க",
+      "activeOutbreaks": "{{count}} செயல்பாட்டு பரவல்கள்"
+    },
+    "alerts": {
+      "critical": "மிக முக்கிய எச்சரிக்கை",
+      "description": "கட்டக் மாவட்டத்தில் பிரவுன் பிளாண்ட் ஹாப்பர் பரவல் கண்டறியப்பட்டது; 2,500 ஹெக்டேர் பாதிப்பு. உடனடி நடவடிக்கை அவசியம்."
+    },
+    "metrics": {
+      "activeOutbreaks": "செயல்பாட்டு பரவல்கள்",
+      "affectedArea": "பாதிக்கப்பட்ட பகுதி",
+      "farmersImpacted": "பாதிக்கப்பட்ட விவசாயிகள்",
+      "controlRate": "கட்டுப்பாட்டு விகிதம்",
+      "change": {
+        "activeOutbreaks": "இந்த வாரம் +2",
+        "affectedArea": "கடந்த மாதத்திலிருந்து +15%",
+        "farmersImpacted": "இந்த வாரம் +8%",
+        "controlRate": "+12% முன்னேற்றம்"
+      }
+    },
+    "filters": {
+      "title": "பரவல்களை வடிகட்டுங்கள்",
+      "district": "மாவட்டம் தேர்வு",
+      "severity": "தீவிரம் தேர்வு",
+      "allDistricts": "அனைத்து மாவட்டங்கள்",
+      "allSeverity": "அனைத்து தீவிரம்",
+      "reset": "வடிகட்டிகளை மீட்டமை"
+    },
+    "tabs": {
+      "heatmap": "பூச்சி ஹீட்மேப்",
+      "outbreaks": "செயல்பாட்டு பரவல்கள்",
+      "diseases": "நோய் எச்சரிக்கைகள்",
+      "treatment": "சிகிச்சை வழிகாட்டி"
+    },
+    "outbreaks": {
+      "crop": "பயிர்",
+      "district": "மாவட்டம்",
+      "area": "பாதிக்கப்பட்ட பகுதி",
+      "farmers": "விவசாயிகள்",
+      "view": "விவரங்கள்",
+      "alert": "எச்சரிக்கை அனுப்பு"
+    },
+    "disease": {
+      "risk": "{{severity}} அபாயம்",
+      "affecting": "{{crop}} பயிரை பாதிக்கிறது",
+      "symptoms": "அறிகுறிகள்",
+      "prevention": "தடுப்பு",
+      "treatment": "சிகிச்சை"
+    },
+    "heatmap": {
+      "title": "பயிர் ஆரோக்கிய ஹீட்மேப்"
+    },
+    "treatment": {
+      "header": "{{pest}} சிகிச்சை",
+      "chemical": "பரிந்துரைக்கப்பட்ட இரசாயனம்",
+      "dosage": "அளவு",
+      "application": "பயன்பாட்டு முறை",
+      "frequency": "அடிக்கடி"
+    },
+    "severity": {
+      "high": "உயர்",
+      "medium": "மத்திய",
+      "low": "குறைவு"
+    },
+    "status": {
+      "active": "செயலில்",
+      "controlled": "கட்டுப்படுத்தப்பட்டது",
+      "monitoring": "கண்காணிப்பு",
+      "treatment": "சிகிச்சை"
+    },
+    "data": {
+      "pests": {
+        "brownPlantHopper": "பிரவுன் பிளாண்ட் ஹாப்பர்",
+        "stemBorer": "தண்டு துளையான்",
+        "aphids": "அஃபிட்கள்",
+        "leafCurlVirus": "இலை சுருக்கு வைரஸ்"
+      },
+      "crops": {
+        "rice": "அரிசி",
+        "wheat": "கோதுமை",
+        "tomato": "தக்காளி"
+      },
+      "districts": {
+        "cuttack": "கட்டக்",
+        "puri": "புரி",
+        "bhubaneswar": "புவனேஸ்வர்",
+        "khordha": "கோர்தா",
+        "balasore": "பாலசோர்",
+        "bhadrak": "பத்ரக்",
+        "nayagarh": "நயாகர்"
+      },
+      "diseases": {
+        "blastDisease": "பிளாஸ்ட் நோய்",
+        "powderyMildew": "பவுடரி மில்டியூ",
+        "bacterialWilt": "பாக்டீரியல் வில்ட்"
+      },
+      "symptoms": {
+        "blastDisease": "இலைகளில் பழுப்பு புள்ளிகள், கழுத்து அழுகல்",
+        "powderyMildew": "இலைகளில் வெள்ளை தூள் போன்ற வளர்ச்சி",
+        "bacterialWilt": "இலைகள் வாடுதல், மஞ்சள் நிறமாவுதல்"
+      },
+      "prevention": {
+        "blastDisease": "எதிர்ப்பு வகைகள் பயன்படுத்தவும், சரியான வடிகால்",
+        "powderyMildew": "அடர்த்தி தவிர்க்கவும், சரியான காற்றோட்டம்",
+        "bacterialWilt": "பயிர்ச்சுழற்சி, மண் கிருமிநாசினி"
+      },
+      "treatment": {
+        "blastDisease": "பூஞ்சைநாசினி தெளிப்பு (ட்ரைசைக்ளஜோல்)",
+        "powderyMildew": "சல்பர் அடிப்படையிலான பூஞ்சைநாசினி",
+        "bacterialWilt": "காப்பர் அடிப்படையிலான நாசினி"
+      },
+      "weatherAdvisories": {
+        "heavyRainfall": {
+          "title": "கனமழை எச்சரிக்கை",
+          "description": "கடற்கரை மாவட்டங்களில் கனமழை எதிர்பார்ப்பு; பூஞ்சை நோய் அபாயம் அதிகரிக்கலாம்"
+        },
+        "temperatureRise": {
+          "title": "வெப்பநிலை உயர்வு எச்சரிக்கை",
+          "description": "வெப்பநிலை உயர்வு பூச்சி பெருக்கத்திற்கு ஏதுவாகும்"
+        }
+      },
+      "treatments": {
+        "brownPlantHopper": {
+          "chemical": "இமிடாக்ளோப்ரிட் 17.8% SL",
+          "dosage": "0.3 மில்லி/லிட்டர் தண்ணீர்",
+          "application": "மாலை நேரத்தில் இலை தெளிப்பு",
+          "frequency": "10 நாள் இடைவெளியில் 2-3 தடவைகள்"
+        },
+        "stemBorer": {
+          "chemical": "குளோரான்ட்ரானிலிப்ரோல் 18.5% SC",
+          "dosage": "0.4 மில்லி/லிட்டர் தண்ணீர்",
+          "application": "மர்மத்திலும் தண்டிலும் தெளிக்கவும்",
+          "frequency": "ஆரம்பத் தாக்கத்தில் பயன்படுத்தவும்"
+        }
+      }
+    }
+  },
+  "marketPage": {
+    "header": {
+      "title": "சந்தை விலைகள்",
+      "subtitle": "உடனடி பயிர் விலை கண்காணிப்பு மற்றும் பகுப்பாய்வு",
+      "refresh": "விலைகளை புதுப்பிக்க"
+    },
+    "crops": {
+      "riceCommon": "அரிசி (சாதாரண)",
+      "riceBasmati": "அரிசி (பாசுமதி)",
+      "wheat": "கோதுமை",
+      "sugarcane": "கரும்பு",
+      "onion": "வெங்காயம்",
+      "potato": "உருளைக்கிழங்கு"
+    },
+    "units": {
+      "perQuintal": "கின்டலுக்கு"
+    },
+    "districts": {
+      "bhubaneswar": "புவனேஸ்வர்",
+      "cuttack": "கட்டக்",
+      "puri": "புரி",
+      "khordha": "கோர்தா",
+      "balasore": "பாலசோர்",
+      "ganjam": "கஞ்சம்"
+    },
+    "updated": {
+      "1h": "1 மணி நேரம் முன்பு",
+      "2h": "2 மணி நேரம் முன்பு",
+      "3h": "3 மணி நேரம் முன்பு",
+      "4h": "4 மணி நேரம் முன்பு"
+    },
+    "alerts": {
+      "onion": "கடந்த 24 மணி நேரத்தில் வெங்காய விலை 8.5% உயர்ந்தது",
+      "riceCommon": "அரிசி விலை ₹2,850/கின்டல் மாத அதிகத்தை எட்டியது",
+      "potato": "உருளைக்கிழங்கு விலை ஆதரவு அளவை விட குறைந்தது"
+    },
+    "charts": {
+      "rice": "அரிசி (₹/கின்டல்)",
+      "wheat": "கோதுமை (₹/கின்டல்)",
+      "onion": "வெங்காயம் (₹/கின்டல்)",
+      "potato": "உருளைக்கிழங்கு (₹/கின்டல்)"
+    },
+    "metrics": {
+      "averagePriceIndex": "சராசரி விலை குறியீடு",
+      "priceVolatility": "விலை மாற்றம்",
+      "activeMarkets": "செயலில் உள்ள சந்தைகள்",
+      "dailyUpdates": "தினசரி புதுப்பிப்புகள்",
+      "newMarkets": "+{{count}} புதிய",
+      "todayUpdates": "+{{count}} இன்று"
+    },
+    "tabs": {
+      "current": "நடப்பு விலை",
+      "trends": "விலை போக்குகள்",
+      "comparison": "சந்தை ஒப்பீடு"
+    },
+    "filters": {
+      "title": "விலைகளை வடிகட்டவும்",
+      "selectMarket": "சந்தையை தேர்வு செய்யவும்",
+      "selectCrop": "பயிரை தேர்வு செய்யவும்",
+      "allMarkets": "அனைத்து சந்தைகள்",
+      "allCrops": "அனைத்து பயிர்கள்",
+      "rice": "அரிசி",
+      "wheat": "கோதுமை",
+      "vegetables": "காய்கறிகள்",
+      "reset": "வடிகட்டிகளை மீட்டமை"
+    },
+    "alerts2": {
+      "title": "விலை எச்சரிக்கைகள்",
+      "description": "சமீபத்திய முக்கிய விலை மாற்றங்கள்"
+    },
+    "trends": {
+      "title": "விலை போக்குகள் (கடந்த 20 நாள்)",
+      "description": "முக்கிய பயிர்களின் வரலாற்று விலை மாற்றங்கள்"
+    },
+    "comparison": {
+      "title": "சந்தை வாரியாக விலை ஒப்பீடு",
+      "description": "விவித சந்தைகளில் விலைகளை ஒப்பிடுங்கள்"
+    },
+    "previous": "முந்தைய"
+  },
+  "alertsPage": {
+    "header": {
+      "title": "எச்சரிக்கைகள் & அறிவிப்புகள்",
+      "subtitle": "விவசாயிகளுக்கு அறிவிப்புகளை நிர்வகித்து அனுப்பவும்",
+      "composeAlert": "புதிய எச்சரிக்கையை உருவாக்கவும்"
+    },
+    "compose": {
+      "title": "புதிய எச்சரிக்கை எழுதவும்",
+      "description": "தேர்ந்தெடுக்கப்பட்ட பகுதிகளில் விவசாயிகளுக்கு அறிவிப்புகளை உருவாக்கி அனுப்பவும்",
+      "alertType": "எச்சரிக்கை வகை",
+      "selectAlertType": "எச்சரிக்கை வகையை தேர்வு செய்யவும்",
+      "priority": "முன்னுரிமை",
+      "alertTitle": "எச்சரிக்கை தலைப்பு",
+      "enterAlertTitle": "எச்சரிக்கை தலைப்பை உள்ளிடவும்",
+      "message": "செய்தி",
+      "enterAlertMessage": "எச்சரிக்கை செய்தியை உள்ளிடவும்",
+      "targetDistricts": "இலக்கு மாவட்டங்கள்",
+      "districtsSelected": "மாவட்டங்கள் தேர்வு செய்யப்பட்டன",
+      "cancel": "ரத்து",
+      "sendAlert": "எச்சரிக்கையை அனுப்பவும்"
+    },
+    "metrics": {
+      "totalAlerts": "மொத்தம் அனுப்பிய எச்சரிக்கைகள்",
+      "thisWeek": "இந்த வாரம் +{{count}}",
+      "activeRecipients": "செயலில் உள்ள பெறுநர்கள்",
+      "newRecipients": "+{{count}} புதிய",
+      "deliveryRate": "டெலிவரி விகிதம்",
+      "improvement": "+{{percent}}% முன்னேற்றம்",
+      "responseRate": "பதில் விகிதம்",
+      "increase": "+{{percent}}% அதிகரிப்பு"
+    },
+    "tabs": {
+      "sent": "அனுப்பியவை",
+      "templates": "வார்ப்புருக்கள்",
+      "analytics": "பகுப்பாய்வு"
+    },
+    "filters": {
+      "title": "எச்சரிக்கைகளை வடிகட்டவும்",
+      "filterByType": "வகையால் வடிகட்டவும்",
+      "filterByStatus": "நிலையால் வடிகட்டவும்",
+      "allTypes": "அனைத்து வகைகள்",
+      "allStatus": "அனைத்து நிலை",
+      "reset": "வடிகட்டிகளை மீட்டமை"
+    },
+    "priority": {
+      "critical": "மிக முக்கிய",
+      "high": "உயர்",
+      "medium": "மத்திய",
+      "low": "குறைவு"
+    },
+    "status": {
+      "delivered": "வழங்கப்பட்டது",
+      "pending": "நிலுவையில்",
+      "failed": "தோல்வி"
+    },
+    "sentAlerts": {
+      "weather": {
+        "title": "கனமழை எச்சரிக்கை",
+        "message": "கடற்கரை மாவட்டங்களில் கனமழை ஏற்படும் வாய்ப்பு உள்ளது. நின்றுள்ள பயிர்களுக்கு தேவையான முன்னெச்சரிக்கைகள் மேற்கொள்ளவும்."
+      },
+      "pest": {
+        "title": "பிரவுன் பிளாண்ட் ஹாப்பர் எச்சரிக்கை",
+        "message": "நெற்பயிர்களில் பிரவுன் பிளாண்ட் ஹாப்பர் தாக்கம் கண்டறியப்பட்டது. பரிந்துரைக்கப்பட்ட பூச்சிக்கொல்லிகளை உடனடியாக தெளிக்கவும்."
+      },
+      "scheme": {
+        "title": "பிஎம்-கிசான் பதிவு நினைவூட்டல்",
+        "message": "பிஎம்-கிசான் திட்ட பதிவு கடைசி தேதி நெருங்குகிறது. கடைசித் தேதிக்குள் விண்ணப்பத்தை முடிக்கவும்."
+      },
+      "market": {
+        "title": "அரிசி விலை புதுப்பிப்பு",
+        "message": "முக்கிய சந்தைகளில் அரிசி விலை 8% உயர்ந்துள்ளது. நடப்பு விகிதம்: புவனேஸ்வர் சந்தையில் ₹2,850/கின்டல்."
+      }
+    },
+    "templates": {
+      "weather": {
+        "name": "வானிலை எச்சரிக்கை வார்ப்புரு",
+        "subject": "வானிலை எச்சரிக்கை: {weather_type} எதிர்பார்க்கப்படுகிறது",
+        "message": "அன்புள்ள விவசாயி,\n\nஉங்கள் பகுதியில் {start_date} முதல் {end_date} வரை {weather_type} எதிர்பார்க்கப்படுகிறது. தயவுசெய்து தேவையான முன்னெச்சரிக்கைகளை மேற்கொள்ளவும்:\n\n• {precaution_1}\n• {precaution_2}\n• {precaution_3}\n\nமேலும் தகவலுக்கு உங்கள் உள்ளூர் வேளாண்மை அலுவலருடன் தொடர்பு கொள்ளவும்.\n\nமரியாதையுடன்,\nமின்மய மற்றும் ஐடி துறை, ஒடிஷா"
+      },
+      "pest": {
+        "name": "பூச்சி எச்சரிக்கை வார்ப்புரு",
+        "subject": "அவசரம்: {pest_name} எச்சரிக்கை",
+        "message": "அன்புள்ள விவசாயி,\n\nஉங்கள் பகுதியில் உள்ள {crop_name} வயல்களில் {pest_name} கண்டறியப்பட்டுள்ளது. உடனடி நடவடிக்கை அவசியம்:\n\n• {chemical_name} ஐ {dosage} அளவில் தெளிக்கவும்\n• {application_time} போது பயன்படுத்தவும்\n• தேவையானால் {repeat_interval} கழித்து மறுபடியும் செய்யவும்\n\nஉதவிக்கு: 1800-XXX-XXXX என்பதற்கு அழைக்கவும்.\n\nமரியாதையுடன்,\nமின்மய மற்றும் ஐடி துறை, ஒடிஷா"
+      },
+      "subject": "பொருள்",
+      "messageTemplate": "செய்தி வார்ப்புரு",
+      "edit": "வார்ப்புருவை திருத்தவும்",
+      "use": "வார்ப்புருவைப் பயன்படுத்தவும்"
+    },
+    "analytics": {
+      "distributionByType": "வகை வாரியான எச்சரிக்கை விநியோகம்",
+      "deliveryPerformance": "விநியோக செயல்திறன்",
+      "smsDelivery": "SMS விநியோகம்",
+      "appNotifications": "ஆப் அறிவிப்புகள்",
+      "voiceCalls": "குரல் அழைப்புகள்",
+      "emailDelivery": "மின்னஞ்சல் விநியோகம்"
+    },
+    "recipients": "பெறுநர்கள்",
+    "delivered": "வழங்கப்பட்டது",
+    "districts": {
+      "puri": "புரி",
+      "balasore": "பாலசோர்",
+      "bhadrak": "பத்ரக்",
+      "cuttack": "கட்டக்",
+      "khordha": "கோர்தா",
+      "bhubaneswar": "புவனேஸ்வர்",
+      "allDistricts": "அனைத்து மாவட்டங்கள்"
+    },
+    "notifications": {
+      "weather": "வானிலை எச்சரிக்கை",
+      "pest": "பூச்சி எச்சரிக்கை",
+      "market": "சந்தை புதுப்பிப்பு",
+      "scheme": "திட்ட அறிவிப்பு",
+      "advisory": "ஆலோசனை"
+    }
+  },
+  "schemes": {
+    "dialog": {
+    "addTitle": "புதிய திட்டத்தைச் சேர்க்கவும்",
+    "addDescription": "அரசுத் திட்டங்கள் மற்றும் மானியம்"
+  },
+  "form": {
+    "beneficiaries": "பலனாளிகள்",
+    "targetBeneficiaries": "இலக்கு பலனாளிகள்",
+    "totalBudget": "மொத்த செலவுத்திட்டம்",
+    "name": "பெயர்",
+    "description": "விளக்கம்",
+    "category": "வகை",
+    "status": "நிலை"
+  },
+    "header": {
+      "title": "திட்டங்கள் & மானியங்கள்",
+      "subtitle": "அரசுத் திட்டங்கள் மற்றும் மானிய மேலாண்மை"
+    },
+    "metrics": {
+      "totalSchemes": "மொத்த திட்டங்கள்",
+      "totalBeneficiaries": "மொத்த பயனாளர்கள்",
+      "budgetUtilized": "பயன்படுத்திய பட்ஜெட்",
+      "avgEnrollment": "சராசரி பதிவு விகிதம்",
+      "changes": {
+        "totalSchemes": "இந்த வருடம் +1 புதிய",
+        "totalBeneficiaries": "இந்த மாதம் +2,340",
+        "budgetUtilized": "மொத்த பட்ஜெட்டின் {{percentage}}%",
+        "avgEnrollment": "+5.3% முன்னேற்றம்"
+      },
+      "values": {
+        "budgetUtilized": "₹{{amount}} கோடி",
+        "budget": "₹{{amount}} கோடி"
+      }
+    },
+    "filters": {
+      "title": "திட்டங்களை வடிகட்டவும்",
+      "selectCategory": "வகையை தேர்வு செய்யவும்",
+      "selectStatus": "நிலையை தேர்வு செய்யவும்",
+      "allCategories": "அனைத்து வகைகள்",
+      "allStatus": "அனைத்து நிலை"
+    },
+    "tabs": {
+      "activeSchemes": "செயலில் உள்ள திட்டங்கள்",
+      "analytics": "பகுப்பாய்வு",
+      "performance": "செயல்திறன்"
+    },
+    "buttons": {
+      "export": "அறிக்கையை ஏற்றுமதி செய்யவும்",
+      "addScheme": "திட்டத்தைச் சேர்",
+      "reset": "வடிகட்டிகளை மீட்டமை",
+      "viewDetails": "விவரங்களை காண்க"
+    },
+    "labels": {
+      "budgetUtilization": "பட்ஜெட் பயன்பாடு",
+      "beneficiaries": "பயனாளர்கள்",
+      "launchDate": "தொடக்க தேதி",
+      "totalBudget": "மொத்த பட்ஜெட்",
+      "eligibility": "தகுதி",
+      "benefits": "உதவிகள்"
+    },
+    "status": {
+      "active": "செயலில்",
+      "new": "புதிய",
+      "completed": "முடிந்தது"
+    },
+    "charts": {
+      "schemeDistribution": "வகை வாரியான திட்ட விநியோகம்",
+      "monthlyEnrollment": "மாதாந்திர பதிவு போக்குகள்",
+      "enrolled": "பதிவு செய்யப்பட்டார்",
+      "target": "இலக்கு"
+    },
+    "performance": {
+      "title": "மாவட்ட வார செயல்திறன்",
+      "description": "மாவட்ட வாரியாக பயனாளர்கள் மற்றும் பயன்பாட்டு விகிதங்கள்",
+      "beneficiaries": "{{count}} பயனாளர்கள்",
+      "utilization": "{{percentage}}% பயன்பாடு"
+    },
+    "data": {
+      "categories": {
+        "incomeSupport": "வருமான ஆதரவு",
+        "insurance": "காப்பீடு",
+        "credit": "கடன்",
+        "soilHealth": "மண் ஆரோக்கியம்",
+        "sustainableAgriculture": "நிலைத்துறைக் कृषि"
+      },
+      "schemes": {
+        "pmKisan": {
+          "name": "பிஎம்-கிசான்",
+          "description": "விவசாயிகளுக்கு நேரடி வருமான ஆதரவு",
+          "eligibility": "சாகுபடி நிலம் கொண்ட சிறு/அயல் விவசாயிகள்",
+          "benefits": "ஒரு ஆண்டுக்கு ₹6,000 (மூன்று தவணை)"
+        },
+        "pmfby": {
+          "name": "பிரதான் மந்த்ரி பசல் பீமா யோஜனா",
+          "description": "விவசாயிகளுக்கான பயிர் காப்பீடு",
+          "eligibility": "அறிவிக்கப்பட்ட பயிர்கள் வளர்ப்போர் அனைவரும்",
+          "benefits": "பயிர்களுக்கு விரிவான அபாய பாதுகாப்பு"
+        },
+        "soilHealth": {
+          "name": "மண் ஆரோக்கிய அட்டை திட்டம்",
+          "description": "மண் பரிசோதனை மற்றும் ஆரோக்கிய கண்காணிப்பு",
+          "eligibility": "வேளாண்மை நிலம் கொண்ட அனைவரும்",
+          "benefits": "இலவச மண் பரிசோதனை மற்றும் ஊட்டச்சத்து பரிந்துரைகள்"
+        },
+        "kisanCredit": {
+          "name": "விவசாயி கடன் அட்டை",
+          "description": "வேளாண்மை நடவடிக்கைகளுக்கான கடன் ஆதரவு",
+          "eligibility": "செல்லுபடியாகும் நிலப் பதிவுகள் கொண்ட விவசாயிகள்",
+          "benefits": "வேளாண்மை தேவைகளுக்கான எளிய கடன் அணுகல்"
+        },
+        "organicFarming": {
+          "name": "உயிரியல் விவசாய ஊக்குதல்",
+          "description": "உயிரியல் விவசாய நடைமுறைகளுக்கு ஆதரவு",
+          "eligibility": "உயிரியல் முறைகளை ஏற்க தயார் விவசாயிகள்",
+          "benefits": "உயிரியல் உள்ளீடுகள் மற்றும் சான்றிதழுக்கு மானியம்"
+        }
+      },
+      "months": {
+        "jan": "ஜன",
+        "feb": "பிப்",
+        "mar": "மார்",
+        "apr": "ஏப்",
+        "may": "மே",
+        "jun": "ஜூன்",
+        "jul": "ஜூலை",
+        "aug": "ஆக",
+        "sep": "செப்",
+        "oct": "அக்",
+        "nov": "நவ",
+        "dec": "டிச"
+      },
+      "districts": {
+        "cuttack": "கட்டக்",
+        "bhubaneswar": "புவனேஸ்வர்",
+        "puri": "புரி",
+        "khordha": "கோர்தா",
+        "ganjam": "கஞ்சம்"
+      }
+    }
+  },
+  "common": {
+    "cancel": "ரத்து"
+  },
+  "reports": {
+    "pageTitle": "அறிக்கைகள் & உள்ளடக்கங்கள்",
+    "pageDescription": "பகுப்பாய்வு அறிக்கைகளை உருவாக்கி நிர்வகிக்கவும்",
+    "generateReport": "அறிக்கையை உருவாக்கவும்",
+    "generateNewReport": "புதிய அறிக்கை உருவாக்கவும்",
+    "generateReportDescription": "குறிப்பிட்ட அளவுருக்களுடன் தனிப்பயன் அறிக்கை",
+    "reportTitle": "அறிக்கை தலைப்பு",
+    "enterReportTitle": "அறிக்கை தலைப்பை உள்ளிடவும்",
+    "reportType": "அறிக்கை வகை",
+    "selectReportType": "அறிக்கை வகையைத் தேர்ந்தெடுக்கவும்",
+    "dateRange": "தேதி வரம்பு",
+    "selectDate": "தேதியைத் தேர்ந்தெடுக்கவும்",
+    "fromDate": "இருந்த தேதியிலிருந்து",
+    "toDate": "தேதிவரை",
+    "generating": "உருவாக்கப்படுகிறது...",
+    "filterReports": "அறிக்கைகளை வடிகட்டவும்",
+    "filterByType": "வகையால் வடிகட்டவும்",
+    "filterByStatus": "நிலையால் வடிகட்டவும்",
+    "resetFilters": "வடிகட்டிகளை மீட்டமை",
+    "generated": "உருவாக்கப்பட்டது",
+    "by": "மூலம்",
+    "size": "அளவு",
+    "downloads": "பதிவிறக்கங்கள்",
+    "format": "வடிவம்",
+    "preview": "முன்னோட்டம்",
+    "download": "பதிவிறக்கு",
+    "viewDetails": "விவரங்கள்",
+    "recommendation": "பரிந்துரை",
+    "impact2": "தாக்கம்",
+    "tabs": {
+      "generatedReports": "உருவாக்கப்பட்ட அறிக்கைகள்",
+      "keyInsights": "முக்கிய உள்ளடக்கங்கள்",
+      "reportAnalytics": "அறிக்கை பகுப்பாய்வு"
+    },
+    "filters": {
+      "allTypes": "அனைத்து வகைகள்",
+      "allStatus": "அனைத்து நிலை"
+    },
+    "types": {
+      "registration": "பதிவு",
+      "analytics": "பகுப்பாய்வு",
+      "pestControl": "பூச்சி கட்டுப்பாடு",
+      "market": "சந்தை",
+      "schemes": "திட்டங்கள்",
+      "registrationReport": "பதிவு அறிக்கை",
+      "analyticsReport": "பகுப்பாய்வு அறிக்கை",
+      "pestControlReport": "பூச்சி கட்டுப்பாடு அறிக்கை",
+      "marketAnalysis": "சந்தை பகுப்பாய்வு",
+      "schemesReport": "திட்ட அறிக்கை"
+    },
+    "status": {
+      "completed": "முடிந்தது",
+      "processing": "செயலாக்கப்படுகிறது",
+      "failed": "தோல்வி"
+    },
+    "impact": {
+      "high": "உயர்",
+      "medium": "மத்திய",
+      "low": "குறைவு"
+    },
+    "categories": {
+      "registration": "பதிவு",
+      "yield": "விளைச்சல்",
+      "pestControl": "பூச்சி கட்டுப்பாடு",
+      "market": "சந்தை"
+    },
+    "generatedBy": {
+      "systemAdmin": "சிஸ்டம் நிர்வாகி",
+      "dataAnalyst": "தரவு பகுப்பாய்வாளர்",
+      "fieldOfficer": "கள அலுவலர்",
+      "marketAnalyst": "சந்தை பகுப்பாய்வாளர்",
+      "programManager": "திட்ட மேலாளர்"
+    },
+    "metrics": {
+      "totalReports": "மொத்த அறிக்கைகள்",
+      "thisMonth": "இந்த மாதம் +{{count}}",
+      "downloads": "பதிவிறக்கங்கள்",
+      "thisWeek": "இந்த வாரம் +{{count}}",
+      "activeUsers": "செயலில் உள்ள பயனர்கள்",
+      "newUsers": "+{{count}} புதிய பயனர்கள்",
+      "insightsGenerated": "உருவாக்கப்பட்ட உள்ளடக்கங்கள்",
+      "newInsights": "+{{count}} புதிய உள்ளடக்கங்கள்"
+    },
+    "months": {
+      "jan": "ஜன்",
+      "feb": "பிப்",
+      "mar": "மார்",
+      "apr": "ஏப்",
+      "may": "மே",
+      "jun": "ஜூன்",
+      "jul": "ஜூலை",
+      "aug": "ஆக",
+      "sep": "செப்",
+      "oct": "அக்",
+      "nov": "நவ",
+      "dec": "டிச"
+    },
+    "chart": {
+      "title": "அறிக்கை உருவாக்கம் & பதிவிறக்க போக்குகள்",
+      "description": "மாதாந்திர அறிக்கை உருவாக்கம் மற்றும் பதிவிறக்க புள்ளிவிவரங்கள்",
+      "reportsGenerated": "உருவாக்கப்பட்ட அறிக்கைகள்",
+      "downloads": "பதிவிறக்கங்கள்"
+    },
+    "list": {
+      "monthlyFarmerRegistration": {
+        "title": "மாதாந்திர விவசாயி பதிவு அறிக்கை",
+        "description": "அனைத்து மாவட்டங்களிலும் புதிய விவசாயி பதிவுகளின் பகுப்பாய்வு"
+      },
+      "cropYieldPerformance": {
+        "title": "பயிர் விளைச்சல் செயல்திறன்",
+        "description": "தற்போதைய பருவத்தையும் வரலாற்று தரவையும் ஒப்பிட்ட விரிவான பகுப்பாய்வு"
+      },
+      "pestOutbreakSummary": {
+        "title": "பூச்சி பரவல் சுருக்க அறிக்கை",
+        "description": "பரவல்கள் மற்றும் மேற்கொண்ட கட்டுப்பாட்டு நடவடிக்கைகளின் சுருக்கம்"
+      },
+      "marketPriceTrends": {
+        "title": "சந்தை விலை போக்குகள்",
+        "description": "பயிர் விலை மாற்றங்கள் மற்றும் சந்தை போக்குகள்"
+      },
+      "schemeImplementation": {
+        "title": "திட்ட அமலாக்க முன்னேற்றம்",
+        "description": "அரசுத் திட்ட அமலாக்கம் மற்றும் பயனாளி கவரேஜ் முன்னேற்றம்"
+      }
+    },
+    "insights": {
+      "farmerRegistrationSurge": {
+        "title": "விவசாயி பதிவு அதிகரிப்பு",
+        "description": "கடந்த மாதத்துடன் ஒப்பிடும் போது 25% அதிகரிப்பு",
+        "recommendation": "உத்வேகத்தை தொடர வெளிப்படுதல்களை விரிவாக்கவும்"
+      },
+      "cropYieldImprovement": {
+        "title": "விளைச்சல் மேம்பாடு",
+        "description": "முக்கிய பயிர்களில் சராசரி விளைச்சல் 12% உயர்வு",
+        "recommendation": "குறைவாக செயல்படும் மாவட்டங்களுடன் சிறந்த நடைமுறைகளைப் பகிரவும்"
+      },
+      "pestControlEffectiveness": {
+        "title": "பூச்சி கட்டுப்பாடு பலன்",
+        "description": "கட்டுப்பாட்டு நடவடிக்கைகள் 18% சேதத்தை குறைத்தன",
+        "recommendation": "தற்போதைய மேலாண்மை வழிகளைத் தொடரவும்"
+      },
+      "marketPriceVolatility": {
+        "title": "சந்தை விலை மாற்றம்",
+        "description": "இயல்பை விட அதிக மாற்றங்கள் காணப்பட்டன",
+        "recommendation": "விலை நிலைநிறுத்துதல் நடவடிக்கைகள் மேற்கொள்ளவும்"
+      }
+    }
+  },
+  "month2": {
+    "Jan": "ஜனவரி",
+    "Feb": "பிப்ரவரி",
+    "Mar": "மார்ச்",
+    "Apr": "ஏப்ரல்",
+    "May": "மே",
+    "Jun": "ஜூன்"
+  },
+  "common.save": "சேமிக்க"
+}

@@ -1,0 +1,1024 @@
+{
+  "app.name": "ఏగ్రిమిత్ర",
+  "gov.name": "భారత ప్రభుత్వం",
+  "dept.agri": "వ్యవసాయ మరియు రైతు సంక్షేమ శాఖ",
+  "dept.agri.short": "వ్యవసాయ శాఖ",
+
+  "nav.dashboard": "డాష్‌బోర్డ్",
+  "nav.farmers": "రైతులు డైరెక్టరీ",
+  "nav.yield": "ఉత్పాదకత మరియు పంట విశ్లేషణ",
+  "nav.pest": "కీటక మరియు వ్యాధి ట్రాకింగ్",
+  "nav.market": "మార్కెట్ ధరలు",
+  "nav.alerts": "అలెర్ట్‌లు మరియు నోటిఫికేషన్‌లు",
+  "nav.schemes": "స్కీములు మరియు సబ్సిడీలు",
+  "nav.reports": "రిపోర్టులు మరియు అంతర్దృష్టులు",
+  "nav.settings": "సెట్టింగ్‌లు",
+
+  "footer.copyright": "© 2025 భారత ప్రభుత్వం",
+  "footer.dept": "ఎలక్ట్రానిక్స్ మరియు ఐటి శాఖ",
+
+  "login.title": "భారత ప్రభుత్వం",
+  "login.subtitle": "వ్యవసాయ శాఖ",
+  "login.signin": "పోర్టల్‌లో సైన్ ఇన్ చేయండి",
+  "login.signin.description": "సిస్టమ్‌ను యాక్సెస్ చేయడానికి మీ ధృవీకరణలను నమోదు చేయండి",
+  "login.username": "వినియోగదారు పేరు",
+  "login.password": "పాస్‌వర్డ్",
+  "login.securityCode": "భద్రతా కోడ్",
+  "login.enterUsername": "మీ వినియోగదారు పేరును నమోదు చేయండి",
+  "login.enterPassword": "మీ పాస్‌వర్డ్‌ను నమోదు చేయండి",
+  "login.enterCaptcha": "క్యాప్చా నమోదు చేయండి",
+  "login.signingIn": "సైన్ ఇన్ చేస్తోంది...",
+  "login.signIn": "సైన్ ఇన్",
+  "login.copyright": "© 2025 భారత ప్రభుత్వం. అన్ని హక్కులు ప్రత్యేకించబడ్డాయి.",
+
+  "header.notifications": "నోటిఫికేషన్‌లు",
+  "header.viewAll": "అన్ని నోటిఫికేషన్‌లను చూడండి",
+  "header.adminUser": "అడ్మిన్ వినియోగదారు",
+  "header.deptOfficer": "శాఖ అధికారి",
+  "header.settings": "సెట్టింగ్‌లు",
+  "header.signOut": "సైన్ అవుట్",
+  "header.signingOut": "సైన్ అవుట్ చేస్తోంది...",
+
+  "dashboard.stats.totalFarmers": "మొత్తం నమోదైన రైతులు",
+  "dashboard.stats.activeMonitoring": "సక్రియ పంట పర్యవేక్షణ",
+  "dashboard.stats.pestAlerts": "కీటక అలెర్ట్‌లు (సక్రియ)",
+  "dashboard.stats.marketUpdates": "మార్కెట్ ధర నవీకరణలు",
+  "dashboard.fromLastMonth": "గత నెల నుండి",
+  "dashboard.recentActivities": "ఇటీవలి కార్యకలాపాలు",
+  "dashboard.latestUpdates": "సిస్టమ్‌నుండి తాజా నవీకరణలు",
+  "dashboard.schemeImplementation": "స్కీమ్ అమలు",
+  "dashboard.dataCollection": "డేటా సేకరణ",
+  "dashboard.systemHealth": "సిస్టమ్ ఆరోగ్యం",
+  "dashboard.pmKisan": "పిఎమ్-కిసాన్",
+  "dashboard.cropSurvey": "పంట సర్వే",
+  "dashboard.serverStatus": "సర్వర్ స్థితి",
+
+  "settings.title": "సెట్టింగ్‌లు",
+  "settings.subtitle": "మీ ఖాతా మరియు సిస్టమ్ ప్రాధాన్యతలను నిర్వహించండి",
+  "settings.profileInformation": "ప్రొఫైల్ సమాచారం",
+  "settings.updateDetails": "మీ వ్యక్తిగత వివరాలు మరియు సంప్రదింపు సమాచారాన్ని నవీకరించండి",
+  "settings.firstName": "మొదటి పేరు",
+  "settings.lastName": "చివరి పేరు",
+  "settings.email": "ఇమెయిల్",
+  "settings.phone": "ఫోన్",
+  "settings.saveChanges": "మార్పులను సేవ్ చేయండి",
+  "settings.languagePreferences": "భాషా ప్రాధాన్యతలు",
+  "settings.selectPreferredLanguage": "ఇంటర్‌ఫేస్‌కు మీ ప్రాధాన్య భాషను ఎంచుకోండి",
+  "settings.language": "భాష",
+  "settings.notificationSettings": "నోటిఫికేషన్ సెట్టింగ్‌లు",
+  "settings.manageNotifications": "మీరు నోటిఫికేషన్‌లు మరియు అలెర్ట్‌లను ఎలా స్వీకరిస్తారో నిర్వహించండి",
+  "settings.emailNotifications": "ఇమెయిల్ నోటిఫికేషన్‌లు",
+  "settings.receiveEmailUpdates": "ఇమెయిల్ ద్వారా నవీకరణలు మరియు అలెర్ట్‌లను స్వీకరించండి",
+  "settings.smsNotifications": "ఎస్‌ఎమ్‌ఎస్ నోటిఫికేషన్‌లు",
+  "settings.receiveSMSAlerts": "ఎస్‌ఎమ్‌ఎస్ ద్వారా ముఖ్యమైన అలెర్ట్‌లను స్వీకరించండి",
+  "settings.pushNotifications": "పుష్ నోటిఫికేషన్‌లు",
+  "settings.receivePushNotifications": "బ్రౌజర్ పుష్ నోటిఫికేషన్‌లను స్వీకరించండి",
+  "settings.enabled": "ప్రారంభించబడింది",
+  "settings.disabled": "నిలిపివేయబడింది",
+  "settings.securitySettings": "భద్రతా సెట్టింగ్‌లు",
+  "settings.manageSecurity": "మీ ఖాతా భద్రత మరియు ప్రమాణీకరణను నిర్వహించండి",
+  "settings.currentPassword": "ప్రస్తుత పాస్‌వర్డ్",
+  "settings.enterCurrentPassword": "మీ ప్రస్తుత పాస్‌వర్డ్‌ను నమోదు చేయండి",
+  "settings.newPassword": "కొత్త పాస్‌వర్డ్",
+  "settings.enterNewPassword": "మీ కొత్త పాస్‌వర్డ్‌ను నమోదు చేయండి",
+  "settings.confirmPassword": "పాస్‌వర్డ్‌ను నిర్ధారించండి",
+  "settings.confirmNewPassword": "మీ కొత్త పాస్‌వర్డ్‌ను నిర్ధారించండి",
+  "settings.updatePassword": "పాస్‌వర్డ్‌ను నవీకరించండి",
+  "common.clearFilters": "ఫిల్టర్‌లను క్లియర్ చేయండి",
+  "common.pageOf": "పేజీ {{page}} / {{total}}",
+  "common.previous": "మునుపటి",
+  "common.next": "తదుపరి",
+  "common.allDistricts": "అన్ని జిల్లాలు",
+  "common.allStatus": "అన్ని స్థితి",
+  "status.active": "సక్రియ",
+  "status.inactive": "నిష్క్రియ",
+  "status.pending": "వేచి ఉంది",
+  "status.completed": "పూర్తయింది",
+  "status.inProgress": "పురోగతిలో",
+  "district.Angul": "అంగుల్",
+  "district.Balangir": "బలాంగిర్",
+  "district.Balasore": "బాలసోర్",
+  "district.Bargarh": "బర్గర్",
+  "district.Bhadrak": "భద్రక్",
+  "district.Bhubaneswar": "భువనేశ్వర్",
+  "district.Boudh": "బౌద్",
+  "district.Cuttack": "కటక్",
+  "district.Deogarh": "దేవగర్",
+  "district.Dhenkanal": "ఢెంకనాల్",
+  "district.Gajapati": "గజపతి",
+  "district.Ganjam": "గంజామ్",
+  "district.Jagatsinghpur": "జగత్సింగ్‌పూర్",
+  "district.Jajpur": "జాజ్‌పూర్",
+  "district.Jharsuguda": "ఝార్సుగుడా",
+  "district.Kalahandi": "కలాహండి",
+  "district.Kandhamal": "కందమాల్",
+  "district.Kendrapara": "కేంద్రపారా",
+  "district.Kendujhar": "కేందుఝర్",
+  "district.Khordha": "ఖోర్ధా",
+  "district.Koraput": "కోరాపుట్",
+  "district.Malkangiri": "మల్కాంగిరి",
+  "district.Mayurbhanj": "మయూర్భంజ్",
+  "district.Nabarangpur": "నబరంగ్‌పూర్",
+  "district.Nayagarh": "నయగర్",
+  "district.Nuapada": "నువాపాడా",
+  "district.Puri": "పురి",
+  "district.Rayagada": "రాయగడా",
+  "district.Sambalpur": "సంబల్‌పూర్",
+  "district.Subarnapur": "సుబర్నపూర్",
+  "district.Sundargarh": "సుందర్‌గర్",
+  "farmers.title": "రైతులు డైరెక్టరీ",
+  "farmers.subtitle": "రైతు నమోదులను నిర్వహించండి మరియు చూడండి",
+  "farmers.count": "{{count}} రైతులు",
+  "farmers.searchFilter": "వెతకండి మరియు ఫిల్టర్ చేయండి",
+  "farmers.searchHint": "పేరు, ఐడి, స్థానం లేదా స్థితి ద్వారా రైతులను వెతకండి",
+  "farmers.searchPlaceholder": "రైతులను వెతకండి...",
+  "farmers.selectDistrict": "జిల్లాను ఎంచుకోండి",
+  "farmers.selectStatus": "స్థితిని ఎంచుకోండి",
+  "farmers.registeredFarmers": "నమోదైన రైతులు",
+  "farmers.showing": "{{shown}} లో {{total}} రైతులను చూపిస్తోంది",
+  "farmers.columns.id": "రైతు ఐడి",
+  "farmers.columns.name": "పేరు",
+  "farmers.columns.location": "స్థానం",
+  "farmers.columns.contact": "సంప్రదింపు",
+  "farmers.columns.landSize": "భూమి పరిమాణం",
+  "farmers.columns.crops": "పంటలు",
+  "farmers.columns.status": "స్థితి",
+  "farmers.columns.actions": "చర్యలు",
+  "farmers.kcc": "కెసిసి",
+  "farmers.viewProfile": "రైతు ప్రొఫైల్‌ను చూడండి",
+  "farmer.backToList": "రైతులకు తిరిగి వెళ్ళండి",
+  "farmer.title": "రైతు వివరాలు",
+  "farmer.id": "రైతు ఐడి",
+  "farmer.kcc": "కెసిసి నంబర్",
+  "farmer.location": "స్థానం",
+  "farmer.address": "బాంకి కటక్",
+  "farmer.contact": "సంప్రదింపు",
+  "farmer.registrationDate": "నమోదు తేదీ",
+  "farmer.landSize": "భూమి పరిమాణం",
+  "farmer.crops": "పంటలు",
+  "farmer.aadhar": "ఆధార్ నంబర్",
+  "farmer.bankAccount": "బ్యాంక్ ఖాతా",
+  "farmer.cropHistory": "పంట చరిత్ర",
+  "farmer.cropHistoryDesc": "ఇటీవలి పంట సాగు రికార్‌డులు",
+  "farmer.govtSchemes": "ప్రభుత్వ స్కీములు",
+  "farmer.govtSchemesDesc": "నమోదైన స్కీములు మరియు ప్రయోజనాలు",
+  "farmer.sample.riceKharif": "వరి (ఖరీఫ్ 2024)",
+  "farmer.sample.wheatRabi": "గోధుమ (రబీ 2024)",
+  "farmer.sample.acres1_2": "1.2 ఎకరాలు",
+  "farmer.sample.acres1_3": "1.3 ఎకరాలు",
+  "farmer.sample.pmKisanAmount": "₹6,000/సంవత్సరం",
+  "farmer.sample.soilHealthCard": "నేల ఆరోగ్య కార్డ్",
+  "farmer.sample.validUntil2025": "2025 వరకు చెల్లుబాటు",
+  "common.months": {
+    "Jan": "జనవరి",
+    "Feb": "ఫిబ్రవరి",
+    "Mar": "మార్చి",
+    "Apr": "ఏప్రిల్",
+    "May": "మే",
+    "Jun": "జూన్",
+    "Jul": "జులై",
+    "Aug": "ఆగస్ట్",
+    "Sep": "సెప్టెంబర్",
+    "Oct": "అక్టోబర్",
+    "Nov": "నవంబర్",
+    "Dec": "డిసెంబర్"
+  },
+  "dashboard.monthlyRegistrationTrends": "నెలవారీ నమోదు ధోరణులు",
+  "dashboard.monthlyRegistrationDesc": "సమయానికి అనుగుణంగా రైతు నమోదులు మరియు పంట పర్యవేక్షణ",
+  "dashboard.yieldPerformance": "ఉత్పాదకత పనితీరు",
+  "dashboard.yieldPerformanceDesc": "నెలలలో సగటు పంట ఉత్పాదకత శాతం",
+  "dashboard.datasets.farmers": "రైతులు",
+  "dashboard.datasets.crops": "పంటలు",
+  "dashboard.datasets.yieldPct": "ఉత్పాదకత %",
+  "dashboard.heatmap.title": "రైతు నమోదు హీట్‌మ్యాప్",
+  "dashboard.heatmap.subtitle": "జిల్లా వారీ రైతు నమోదు సాంద్రత",
+  "dashboard.heatmap.density": "సాంద్రత",
+  "dashboard.heatmap.capacity": "సామర్థ్యం",
+  "dashboard.heatmap.legend": "సాంద్రత లెజెండ్:",
+  "dashboard.heatmap.intensity": {
+    "veryHigh": "చాలా ఎక్కువ",
+    "high": "ఎక్కువ",
+    "medium": "మధ్యస్థ",
+    "low": "తక్కువ",
+    "veryLow": "చాలా తక్కువ"
+  },
+  "dashboard.heatmap.legendItems": {
+    "veryHigh": "చాలా ఎక్కువ (80%+)",
+    "high": "ఎక్కువ (60-79%)",
+    "medium": "మధ్యస్థ (40-59%)",
+    "low": "తక్కువ (20-39%)",
+    "veryLow": "చాలా తక్కువ (<20%)"
+  },
+  "dashboard.heatmap.districts": {
+    "bhubaneswar": "భువనేశ్వర్",
+    "cuttack": "కటక్",
+    "puri": "పురి",
+    "khordha": "ఖోర్ధా",
+    "ganjam": "గంజామ్",
+    "balasore": "బాలసోర్",
+    "mayurbhanj": "మయూర్భంజ్",
+    "kendrapara": "కేంద్రపారా"
+  },
+  "dashboard.notifications.title": "ఇటీవలి నోటిఫికేషన్‌లు",
+  "dashboard.notifications.subtitle": "సిస్టమ్‌నుండి తాజా అలెర్ట్‌లు మరియు నవీకరణలు",
+  "dashboard.notifications.count": "{{count}} కొత్తవి",
+  "dashboard.notifications.viewAll": "అన్ని నోటిఫికేషన్‌లను చూడండి",
+  "dashboard.notifications.priority": {
+    "high": "ఎక్కువ",
+    "medium": "మధ్యస్థ",
+    "low": "తక్కువ"
+  },
+  "dashboard.notifications.weather": {
+    "title": "వాతావరణ అలెర్ట్: భారీ వర్షం ఆశించబడుతోంది",
+    "message": "తీర ప్రాంత జిల్లాలకు వర్షాకాల అలెర్ట్ జారీ చేయబడింది. రైతులకు జాగ్రత్తగా ఉండమని సలహా ఇవ్వబడింది.",
+    "time": "5 నిమిషాల క్రితం"
+  },
+  "dashboard.notifications.scheme": {
+    "title": "కొత్త సబ్సిడీ స్కీమ్ ప్రారంభం",
+    "message": "పిఎమ్-కిసాన్ లబ్ధిదారు నమోదు ఇప్పుడు తెరవబడింది. గడువుకు ముందే దరఖాస్తు చేయండి.",
+    "time": "2 గంటల క్రితం"
+  },
+  "dashboard.notifications.pest": {
+    "title": "కీటక నియంత్రణ సలహా పంపబడింది",
+    "message": "ప్రభావిత ప్రాంతాలలో 15,000+ రైతులకు బ్రౌన్ ప్లాంట్ హాపర్ నియంత్రణ చర్యలు పంపబడ్డాయి.",
+    "time": "1 రోజు క్రితం"
+  },
+  "dashboard.notifications.market": {
+    "title": "మార్కెట్ ధర నవీకరణ",
+    "message": "భువనేశ్వర్ మార్కెట్‌లో వరి ధరలు 8% పెరిగాయి. నవీకరించబడిన రేట్లు అందుబాటులో ఉన్నాయి.",
+    "time": "2 రోజులు క్రితం"
+  },
+  "dashboard.activities": {
+    "registration": {
+      "title": "కటక్ జిల్లాలో కొత్త రైతు నమోదు",
+      "time": "2 నిమిషాల క్రితం"
+    },
+    "alert": {
+      "title": "భువనేశ్వర్ ప్రాంతానికి కీటక అలెర్ట్ జారీ చేయబడింది",
+      "time": "15 నిమిషాల క్రితం"
+    },
+    "market": {
+      "title": "వరి (బాస్మతి) కోసం మార్కెట్ ధర నవీకరించబడింది",
+      "time": "1 గంట క్రితం"
+    },
+    "advisory": {
+      "title": "5,000+ రైతులకు వాతావరణ సలహా పంపబడింది",
+      "time": "2 గంటల క్రితం"
+    }
+  },
+  "pie.title": "పంట పంపిణీ",
+  "pie.subtitle": "రాష్ట్రం అంతటా పంటల పంపిణీ",
+  "crops.rice": "వరి",
+  "crops.wheat": "గోధుమ",
+  "crops.sugarcane": "చెరకు",
+  "crops.others": "ఇతరులు",
+
+  "farmers": {
+    "names": {
+      "F001": "రాజేష్ కుమార్ పటేల్",
+      "F002": "సునీతా దేవి",
+      "F003": "మనోజ్ సింగ్",
+      "F004": "ప్రియా శర్మ",
+      "F005": "రమేష్ చంద్ర దాస్",
+      "F006": "కవితా మోహంతి"
+    },
+    "districts": {
+      "cuttack": "కటక్",
+      "bhubaneswar": "భువనేశ్వర్",
+      "puri": "పురి",
+      "khordha": "ఖోర్ధా",
+      "ganjam": "గంజామ్",
+      "balasore": "బాలసోర్"
+    },
+    "villages": {
+      "banki": "బాంకి",
+      "patia": "పటియా",
+      "konark": "కోణార్క్",
+      "jatni": "జాత్ని",
+      "berhampur": "బెర్హాంపూర్",
+      "nilgiri": "నీలగిరి"
+    },
+    "crops": {
+      "rice": "వరి",
+      "wheat": "గోధుమ",
+      "vegetables": "కూరగాయలు",
+      "coconut": "కొబ్బరి",
+      "flowers": "పూలు",
+      "sugarcane": "చెరకు",
+      "pulses": "పప్పులు"
+    },
+    "status": {
+      "active": "సక్రియ",
+      "inactive": "నిష్క్రియ",
+      "pending": "వేచి ఉంది"
+    }
+  },
+  "yieldPage": {
+    "header": {
+      "title": "ఉత్పాదకత మరియు పంట విశ్లేషణ",
+      "subtitle": "సమగ్ర పంట పనితీరు విశ్లేషణ",
+      "export": "రిపోర్ట్ ఎగుమతి"
+    },
+    "filters": {
+      "title": "విశ్లేషణ ఫిల్టర్‌లు",
+      "year": "సంవత్సరం ఎంచుకోండి",
+      "crop": "పంట ఎంచుకోండి",
+      "district": "జిల్లా ఎంచుకోండి",
+      "reset": "ఫిల్టర్‌లను రీసెట్ చేయండి"
+    },
+    "metrics": {
+      "totalProduction": "మొత్తం ఉత్పత్తి",
+      "averageYield": "సగటు ఉత్పాదకత",
+      "cultivatedArea": "వ్యవసాయ విస్తీర్ణం",
+      "efficiencyRate": "దక్షత రేటు",
+      "fromLastYear": "గత సంవత్సరం నుండి"
+    },
+    "tabs": {
+      "trends": "ఉత్పాదకత ధోరణులు",
+      "seasonal": "ఋతు విశ్లేషణ",
+      "comparison": "పంట పోలిక",
+      "districts": "జిల్లా పనితీరు"
+    },
+    "charts": {
+      "yieldTrends": {
+        "title": "5-సంవత్సరాల ఉత్పాదకత ధోరణులు",
+        "description": "పంట రకానుసారం చారిత్రక పనితీరు"
+      },
+      "seasonal": {
+        "title": "ఋతువారీ ఉత్పత్తి విశ్లేషణ",
+        "description": "ఋతువులలో ఉత్పత్తి vs లక్ష్యాలు"
+      },
+      "comparison": {
+        "area": "పంట విస్తీర్ణ పంపిణీ",
+        "yield": "పంట వారీ ఉత్పాదకత దక్షత"
+      },
+      "district": {
+        "title": "జిల్లా-వారీ పనితీరు",
+        "description": "ప్రధాన జిల్లాల మధ్య ఉత్పాదకత పోలిక"
+      },
+      "monthly": {
+        "title": "నెలవారీ పంట పురోగతి",
+        "description": "ఏడాదిలో విత్తడం, పెరుగుదల, కోత పురోగతి"
+      }
+    },
+    "crops": {
+      "all": "అన్ని పంటలు",
+      "rice": "వరి",
+      "wheat": "గోధుమ",
+      "sugarcane": "చెరకు",
+      "vegetables": "కూరగాయలు",
+      "pulses": "పప్పులు"
+    },
+    "districts": {
+      "all": "అన్ని జిల్లాలు",
+      "cuttack": "కటక్",
+      "bhubaneswar": "భువనేశ్వర్",
+      "puri": "పురి",
+      "khordha": "ఖోర్ధా",
+      "ganjam": "గంజామ్"
+    },
+    "months": {
+      "jan": "జన్",
+      "feb": "ఫిబ్",
+      "mar": "మార్",
+      "apr": "ఏప్",
+      "may": "మే",
+      "jun": "జూన్"
+    }
+  },
+  "pestTracking": {
+    "header": {
+      "title": "కీటక & వ్యాధి ట్రాకింగ్",
+      "subtitle": "పంట ఆరోగ్య ముప్పులను పర్యవేక్షించి నిర్వహించండి",
+      "activeOutbreaks": "{{count}} సక్రియ ప్రబలాలు"
+    },
+    "alerts": {
+      "critical": "సంక్లిష్ట అలెర్ట్",
+      "description": "కటక్ జిల్లాలో బ్రౌన్ ప్లాంట్ హాపర్ ప్రబలం గుర్తించబడింది; 2,500 హెక్టార్లు ప్రభావితం. తక్షణ చర్య అవసరం."
+    },
+    "metrics": {
+      "activeOutbreaks": "సక్రియ ప్రబలాలు",
+      "affectedArea": "ప్రభావిత విస్తీర్ణం",
+      "farmersImpacted": "ప్రభావిత రైతులు",
+      "controlRate": "నియంత్రణ రేటు",
+      "change": {
+        "activeOutbreaks": "ఈ వారం +2",
+        "affectedArea": "గత నెల నుండి +15%",
+        "farmersImpacted": "ఈ వారం +8%",
+        "controlRate": "+12% మెరుగుదల"
+      }
+    },
+    "filters": {
+      "title": "ప్రబలాలను ఫిల్టర్ చేయండి",
+      "district": "జిల్లా ఎంచుకోండి",
+      "severity": "తీవ్రత ఎంచుకోండి",
+      "allDistricts": "అన్ని జిల్లాలు",
+      "allSeverity": "అన్ని తీవ్రత",
+      "reset": "ఫిల్టర్‌లను రీసెట్ చేయండి"
+    },
+    "tabs": {
+      "heatmap": "కీటక హీట్‌మ్యాప్",
+      "outbreaks": "సక్రియ ప్రబలాలు",
+      "diseases": "వ్యాధి అలెర్ట్‌లు",
+      "treatment": "చికిత్స మార్గదర్శకం"
+    },
+    "outbreaks": {
+      "crop": "పంట",
+      "district": "జిల్లా",
+      "area": "ప్రభావిత విస్తీర్ణం",
+      "farmers": "రైతులు",
+      "view": "వివరాలు",
+      "alert": "అలెర్ట్ పంపండి"
+    },
+    "disease": {
+      "risk": "{{severity}} ప్రమాదం",
+      "affecting": "{{crop}} పంటలను ప్రభావితం చేస్తోంది",
+      "symptoms": "లక్షణాలు",
+      "prevention": "నిరోధం",
+      "treatment": "చికిత్స"
+    },
+    "heatmap": {
+      "title": "పంట ఆరోగ్య హీట్‌మ్యాప్"
+    },
+    "treatment": {
+      "header": "{{pest}} చికిత్స",
+      "chemical": "సిఫార్సు చేసిన రసాయనం",
+      "dosage": "మోతాదు",
+      "application": "వర్తింపు విధానం",
+      "frequency": "పరిమాణం"
+    },
+    "severity": {
+      "high": "అధిక",
+      "medium": "మధ్యస్థ",
+      "low": "తక్కువ"
+    },
+    "status": {
+      "active": "సక్రియ",
+      "controlled": "నియంత్రిత",
+      "monitoring": "పర్యవేక్షణ",
+      "treatment": "చికిత్స"
+    },
+    "data": {
+      "pests": {
+        "brownPlantHopper": "బ్రౌన్ ప్లాంట్ హాపర్",
+        "stemBorer": "తాడు బోరర్",
+        "aphids": "ఆఫిడ్స్",
+        "leafCurlVirus": "ఆకు ముడత వైరస్"
+      },
+      "crops": {
+        "rice": "వరి",
+        "wheat": "గోధుమ",
+        "tomato": "టమాటా"
+      },
+      "districts": {
+        "cuttack": "కటక్",
+        "puri": "పురి",
+        "bhubaneswar": "భువనేశ్వర్",
+        "khordha": "ఖోర్ధా",
+        "balasore": "బాలసోర్",
+        "bhadrak": "భద్రక్",
+        "nayagarh": "నయగర్"
+      },
+      "diseases": {
+        "blastDisease": "బ్లాస్ట్ వ్యాధి",
+        "powderyMildew": "పౌడరీ మిల్డ్యూ",
+        "bacterialWilt": "బాక్టీరియల్ విల్ట్"
+      },
+      "symptoms": {
+        "blastDisease": "ఆకులపై గోధుమ మచ్చలు, మెడ కుళ్ళు",
+        "powderyMildew": "ఆకులపై తెల్లటి పొడి పెరుగుదల",
+        "bacterialWilt": "ఆకులు వాడిపోవడం, పసుపు పడటం"
+      },
+      "prevention": {
+        "blastDisease": "నిరోధక రకాలు వాడండి, సరైన డ్రైనేజ్",
+        "powderyMildew": "అధిక సాంద్రత నివారించండి, సరైన వెంటిలేషన్",
+        "bacterialWilt": "పంటల మార్పిడి, నేల శుద్ధి"
+      },
+      "treatment": {
+        "blastDisease": "ఫంగిసైడ్ స్ప్రే (ట్రైసైక్లోజోల్)",
+        "powderyMildew": "సల్ఫర్ ఆధారిత ఫంగిసైడ్‌లు",
+        "bacterialWilt": "కాపర్ ఆధారిత బ్యాక్టీరిసైడ్‌లు"
+      },
+      "weatherAdvisories": {
+        "heavyRainfall": {
+          "title": "భారీ వర్షం అలెర్ట్",
+          "description": "తీర జిల్లాలలో భారీ వర్షం అవకాశం; ఫంగల్ వ్యాధి ప్రమాదం పెరగవచ్చు"
+        },
+        "temperatureRise": {
+          "title": "ఉష్ణోగ్రత పెరుగుదల హెచ్చరిక",
+          "description": "ఉష్ణోగ్రత పెరుగుదల కీటకాల పెరుగుదలకు అనుకూలం"
+        }
+      },
+      "treatments": {
+        "brownPlantHopper": {
+          "chemical": "ఇమిడాక్లోప్రిడ్ 17.8% SL",
+          "dosage": "0.3 మి.లీ/లీటరు నీరు",
+          "application": "సాయంత్రం ఆకులపై పిచికారీ",
+          "frequency": "10 రోజుల వ్యవధిలో 2-3 సార్లు"
+        },
+        "stemBorer": {
+          "chemical": "క్లోరాంట్రానిలిప్రోల్ 18.5% SC",
+          "dosage": "0.4 మి.లీ/లీటరు నీరు",
+          "application": "మూడుపై మరియు తాడుపై పిచికారీ చేయండి",
+          "frequency": "ప్రారంభ దశలో వర్తించండి"
+        }
+      }
+    }
+  },
+  "marketPage": {
+    "header": {
+      "title": "మార్కెట్ ధరలు",
+      "subtitle": "రియల్-టైమ్ పంట ధర మానిటరింగ్ మరియు విశ్లేషణ",
+      "refresh": "ధరలను రిఫ్రెష్ చేయండి"
+    },
+    "crops": {
+      "riceCommon": "వరి (సాధారణ)",
+      "riceBasmati": "వరి (బాస్మతి)",
+      "wheat": "గోధుమ",
+      "sugarcane": "చెరకు",
+      "onion": "ఉల్లిపాయ",
+      "potato": "బంగాళాదుంప"
+    },
+    "units": {
+      "perQuintal": "ప్రతి క్వింటాల్"
+    },
+    "districts": {
+      "bhubaneswar": "భువనేశ్వర్",
+      "cuttack": "కటక్",
+      "puri": "పురి",
+      "khordha": "ఖోర్ధా",
+      "balasore": "బాలసోర్",
+      "ganjam": "గంజామ్"
+    },
+    "updated": {
+      "1h": "1 గంట క్రితం",
+      "2h": "2 గంటల క్రితం",
+      "3h": "3 గంటల క్రితం",
+      "4h": "4 గంటల క్రితం"
+    },
+    "alerts": {
+      "onion": "గత 24 గంటలలో ఉల్లిపాయ ధర 8.5% పెరిగింది",
+      "riceCommon": "వరి ధర ₹2,850/క్వింటాల్ నెల గరిష్టాన్ని చేరుకుంది",
+      "potato": "బంగాళాదుంప ధర మద్దతు స్థాయి కంటే తక్కువ"
+    },
+    "charts": {
+      "rice": "వరి (₹/క్వింటాల్)",
+      "wheat": "గోధుమ (₹/క్వింటాల్)",
+      "onion": "ఉల్లిపాయ (₹/క్వింటాల్)",
+      "potato": "బంగాళాదుంప (₹/క్వింటాల్)"
+    },
+    "metrics": {
+      "averagePriceIndex": "సగటు ధర సూచీ",
+      "priceVolatility": "ధర అస్థిరత్వం",
+      "activeMarkets": "సక్రియ మార్కెట్లు",
+      "dailyUpdates": "రోజువారీ నవీకరణలు",
+      "newMarkets": "+{{count}} కొత్త",
+      "todayUpdates": "+{{count}} ఈరోజు"
+    },
+    "tabs": {
+      "current": "ప్రస్తుత ధరలు",
+      "trends": "ధర ధోరణులు",
+      "comparison": "మార్కెట్ పోలిక"
+    },
+    "filters": {
+      "title": "ధరలను ఫిల్టర్ చేయండి",
+      "selectMarket": "మార్కెట్ ఎంచుకోండి",
+      "selectCrop": "పంట ఎంచుకోండి",
+      "allMarkets": "అన్ని మార్కెట్లు",
+      "allCrops": "అన్ని పంటలు",
+      "rice": "వరి",
+      "wheat": "గోధుమ",
+      "vegetables": "కూరగాయలు",
+      "reset": "ఫిల్టర్‌లను రీసెట్ చేయండి"
+    },
+    "alerts2": {
+      "title": "ధర అలెర్ట్‌లు",
+      "description": "ఇటీవలి ముఖ్య ధర మార్పులు"
+    },
+    "trends": {
+      "title": "ధర ధోరణులు (గత 20 రోజులు)",
+      "description": "ముఖ్య పంటల చారిత్రక ధర మార్పులు"
+    },
+    "comparison": {
+      "title": "మార్కెట్-వారీ ధర పోలిక",
+      "description": "వివిధ మార్కెట్లలో ధరలను పోల్చండి"
+    },
+    "previous": "మునుపటి"
+  },
+  "alertsPage": {
+    "header": {
+      "title": "అలెర్ట్‌లు & నోటిఫికేషన్‌లు",
+      "subtitle": "రైతులకు నోటిఫికేషన్‌లను నిర్వహించి పంపండి",
+      "composeAlert": "కొత్త అలెర్ట్ తయారు చేయండి"
+    },
+    "compose": {
+      "title": "కొత్త అలెర్ట్ తయారు చేయండి",
+      "description": "ఎంచుకున్న ప్రాంతాల్లో రైతులకు నోటిఫికేషన్‌లను సృష్టించి పంపండి",
+      "alertType": "అలెర్ట్ రకం",
+      "selectAlertType": "అలెర్ట్ రకాన్ని ఎంచుకోండి",
+      "priority": "ప్రాధాన్యత",
+      "alertTitle": "అలెర్ట్ శీర్షిక",
+      "enterAlertTitle": "అలెర్ట్ శీర్షికను నమోదు చేయండి",
+      "message": "సందేశం",
+      "enterAlertMessage": "అలెర్ట్ సందేశాన్ని నమోదు చేయండి",
+      "targetDistricts": "లక్ష్య జిల్లాలు",
+      "districtsSelected": "జిల్లాలు ఎంపికయ్యాయి",
+      "cancel": "రద్దు",
+      "sendAlert": "అలెర్ట్ పంపండి"
+    },
+    "metrics": {
+      "totalAlerts": "మొత్తం పంపిన అలెర్ట్‌లు",
+      "thisWeek": "ఈ వారం +{{count}}",
+      "activeRecipients": "సక్రియ గ్రహీతలు",
+      "newRecipients": "+{{count}} కొత్త",
+      "deliveryRate": "డెలివరీ రేటు",
+      "improvement": "+{{percent}}% మెరుగుదల",
+      "responseRate": "ప్రతిస్పందన రేటు",
+      "increase": "+{{percent}}% పెరుగుదల"
+    },
+    "tabs": {
+      "sent": "పంపినవి",
+      "templates": "టెంప్లేట్‌లు",
+      "analytics": "విశ్లేషణ"
+    },
+    "filters": {
+      "title": "అలెర్ట్‌లను ఫిల్టర్ చేయండి",
+      "filterByType": "రకం ద్వారా ఫిల్టర్ చేయండి",
+      "filterByStatus": "స్థితి ద్వారా ఫిల్టర్ చేయండి",
+      "allTypes": "అన్ని రకాలు",
+      "allStatus": "అన్ని స్థితి",
+      "reset": "ఫిల్టర్‌లను రీసెట్ చేయండి"
+    },
+    "priority": {
+      "critical": "సంక్లిష్ట",
+      "high": "అధిక",
+      "medium": "మధ్యస్థ",
+      "low": "తక్కువ"
+    },
+    "status": {
+      "delivered": "డెలివర్ అయింది",
+      "pending": "వేచి ఉంది",
+      "failed": "విఫలమైంది"
+    },
+    "sentAlerts": {
+      "weather": {
+        "title": "భారీ వర్షం హెచ్చరిక",
+        "message": "తీర జిల్లాలలో భారీ నుండి అతిభారీ వర్షం అవకాశం ఉంది. నిల్వ ఉన్న పంటలకు జాగ్రత్త చర్యలు తీసుకోండి."
+      },
+      "pest": {
+        "title": "బ్రౌన్ ప్లాంట్ హాపర్ అలెర్ట్",
+        "message": "వరి పొలాల్లో బ్రౌన్ ప్లాంట్ హాపర్ వ్యాప్తి గుర్తించబడింది. సిఫార్సు చేసిన పురుగుమందులు తక్షణం స్ప్రే చేయండి."
+      },
+      "scheme": {
+        "title": "పీఎం-కిసాన్ నమోదు రిమైండర్",
+        "message": "పీఎం-కిసాన్ పథకం నమోదు చివరి తేదీ సమీపిస్తోంది. గడువు ముగిసేలోపు దరఖాస్తు పూర్తి చేయండి."
+      },
+      "market": {
+        "title": "వరి ధర నవీకరణ",
+        "message": "ప్రధాన మార్కెట్లలో వరి ధరలు 8% పెరిగాయి. ప్రస్తుత రేటు: భువనేశ్వర్ మార్కెట్‌లో ₹2,850/క్వింటాల్."
+      }
+    },
+    "templates": {
+      "weather": {
+        "name": "వాతావరణ అలెర్ట్ టెంప్లేట్",
+        "subject": "వాతావరణ అలెర్ట్: {weather_type} అవకాశం",
+        "message": "ప్రియమైన రైతు గారికి,\n\nమీ ప్రాంతంలో {start_date} నుండి {end_date} వరకు {weather_type} అవకాశం ఉంది. దయచేసి అవసరమైన జాగ్రత్తలు తీసుకోండి:\n\n• {precaution_1}\n• {precaution_2}\n• {precaution_3}\n\nఇంకా సమాచారం కోసం మీ స్థానిక వ్యవసాయ అధికారిని సంప్రదించండి.\n\nధన్యవాదాలు,\nఎలక్ట్రానిక్స్ & ఐటి విభాగం, ఒడిశా"
+      },
+      "pest": {
+        "name": "కీటక అలెర్ట్ టెంప్లేట్",
+        "subject": "తక్షణం: {pest_name} అలెర్ట్",
+        "message": "ప్రియమైన రైతు గారికి,\n\nమీ ప్రాంతంలోని {crop_name} పొలాల్లో {pest_name} గుర్తించబడింది. తక్షణ చర్య అవసరం:\n\n• {chemical_name} ను {dosage} వద్ద స్ప్రే చేయండి\n• {application_time} సమయంలో వర్తించండి\n• అవసరమైతే {repeat_interval} తరువాత పునరావృతం చేయండి\n\nసహాయం కోసం హెల్ప్‌లైన్: 1800-XXX-XXXX.\n\nధన్యవాదాలు,\nఎలక్ట్రానిక్స్ & ఐటి విభాగం, ఒడిశా"
+      },
+      "subject": "విషయం",
+      "messageTemplate": "సందేశ టెంప్లేట్",
+      "edit": "టెంప్లేట్ సవరించండి",
+      "use": "టెంప్లేట్ ఉపయోగించండి"
+    },
+    "analytics": {
+      "distributionByType": "రకం వారీగా అలెర్ట్ పంపిణీ",
+      "deliveryPerformance": "డెలివరీ పనితీరు",
+      "smsDelivery": "SMS డెలివరీ",
+      "appNotifications": "యాప్ నోటిఫికేషన్‌లు",
+      "voiceCalls": "వాయిస్ కాల్స్",
+      "emailDelivery": "ఇమెయిల్ డెలివరీ"
+    },
+    "recipients": "గ్రహీతలు",
+    "delivered": "డెలివర్ అయింది",
+    "districts": {
+      "puri": "పురి",
+      "balasore": "బాలసోర్",
+      "bhadrak": "భద్రక్",
+      "cuttack": "కటక్",
+      "khordha": "ఖోర్ధా",
+      "bhubaneswar": "భువనేశ్వర్",
+      "allDistricts": "అన్ని జిల్లాలు"
+    },
+    "notifications": {
+      "weather": "వాతావరణ అలెర్ట్",
+      "pest": "కీటక అలెర్ట్",
+      "market": "మార్కెట్ నవీకరణ",
+      "scheme": "పథకం సమాచారం",
+      "advisory": "సలహా"
+    }
+  },
+  "schemes": {
+    "dialog": {
+    "addTitle": "కొత్త పథకాన్ని జోడించండి",
+    "addDescription": "ప్రభుత్వ పథకాలు మరియు సబ్సిడీ"
+  },
+  "form": {
+    "beneficiaries": "లబ్ధిదారులు",
+    "targetBeneficiaries": "లక్ష్య లబ్ధిదారులు",
+    "totalBudget": "మొత్తం బడ్జెట్",
+    "name": "పేరు",
+    "description": "వివరణ",
+    "category": "వర్గం",
+    "status": "స్థితి"
+  },
+    "header": {
+      "title": "స్కీములు & సబ్సిడీలు",
+      "subtitle": "ప్రభుత్వ స్కీమ్‌లు మరియు సబ్సిడీ నిర్వహణ"
+    },
+    "metrics": {
+      "totalSchemes": "మొత్తం స్కీమ్‌లు",
+      "totalBeneficiaries": "మొత్తం లబ్ధిదారులు",
+      "budgetUtilized": "ఖర్చైన బడ్జెట్",
+      "avgEnrollment": "సగటు నమోదు రేటు",
+      "changes": {
+        "totalSchemes": "ఈ సంవత్సరం +1 కొత్త",
+        "totalBeneficiaries": "ఈ నెల +2,340",
+        "budgetUtilized": "మొత్తం బడ్జెట్‌లో {{percentage}}%",
+        "avgEnrollment": "+5.3% మెరుగుదల"
+      },
+      "values": {
+        "budgetUtilized": "₹{{amount}} కోట్లు",
+        "budget": "₹{{amount}} కోట్లు"
+      }
+    },
+    "filters": {
+      "title": "స్కీమ్‌లను ఫిల్టర్ చేయండి",
+      "selectCategory": "వర్గం ఎంచుకోండి",
+      "selectStatus": "స్థితి ఎంచుకోండి",
+      "allCategories": "అన్ని వర్గాలు",
+      "allStatus": "అన్ని స్థితి"
+    },
+    "tabs": {
+      "activeSchemes": "సక్రియ స్కీమ్‌లు",
+      "analytics": "విశ్లేషణ",
+      "performance": "పనితీరు"
+    },
+    "buttons": {
+      "export": "రిపోర్ట్ ఎగుమతి",
+      "addScheme": "స్కీమ్ జోడించండి",
+      "reset": "ఫిల్టర్‌లను రీసెట్ చేయండి",
+      "viewDetails": "వివరాలు చూడండి"
+    },
+    "labels": {
+      "budgetUtilization": "బడ్జెట్ వినియోగం",
+      "beneficiaries": "లబ్ధిదారులు",
+      "launchDate": "ప్రారంభ తేదీ",
+      "totalBudget": "మొత్తం బడ్జెట్",
+      "eligibility": "అర్హత",
+      "benefits": "లాభాలు"
+    },
+    "status": {
+      "active": "సక్రియ",
+      "new": "కొత్త",
+      "completed": "పూర్తి"
+    },
+    "charts": {
+      "schemeDistribution": "వర్గం వారీగా స్కీమ్ పంపిణీ",
+      "monthlyEnrollment": "నెలవారీ నమోదు ధోరణులు",
+      "enrolled": "నమోదైంది",
+      "target": "లక్ష్యం"
+    },
+    "performance": {
+      "title": "జిల్లా-వారీ పనితీరు",
+      "description": "జిల్లాల వారీగా లబ్ధిదారులు మరియు వినియోగ రేట్లు",
+      "beneficiaries": "{{count}} లబ్ధిదారులు",
+      "utilization": "{{percentage}}% వినియోగం"
+    },
+    "data": {
+      "categories": {
+        "incomeSupport": "ఆదాయ మద్దతు",
+        "insurance": "భీమా",
+        "credit": "ఋణం",
+        "soilHealth": "నేల ఆరోగ్యం",
+        "sustainableAgriculture": "సుస్థిర వ్యవసాయం"
+      },
+      "schemes": {
+        "pmKisan": {
+          "name": "పీఎం-కిసాన్",
+          "description": "రైతులకు ప్రత్యక్ష ఆదాయ మద్దతు",
+          "eligibility": "వ్యవసాయ భూమి ఉన్న చిన్న/సరిహద్దు రైతులు",
+          "benefits": "ఏడాదికి ₹6,000 మూడు విడతల్లో"
+        },
+        "pmfby": {
+          "name": "ప్రధాన్ మంత్రి ఫసల్ బీమా యోజన",
+          "description": "రైతుల కోసం పంట భీమా",
+          "eligibility": "ప్రకటిత పంటలు పండించే అన్ని రైతులు",
+          "benefits": "పంటలకు సమగ్ర ప్రమాద కవర్"
+        },
+        "soilHealth": {
+          "name": "నేల ఆరోగ్య కార్డ్ పథకం",
+          "description": "నేల పరీక్ష మరియు ఆరోగ్య మానిటరింగ్",
+          "eligibility": "వ్యవసాయ భూమి ఉన్న ఎవరైనా",
+          "benefits": "ఉచిత నేల పరీక్ష మరియు పోషక సిఫార్సులు"
+        },
+        "kisanCredit": {
+          "name": "కిసాన్ క్రెడిట్ కార్డ్",
+          "description": "వ్యవసాయ కార్యకలాపాల కోసం ఋణ మద్దతు",
+          "eligibility": "చెల్లుబాటు అయ్యే భూ రికార్డులు ఉన్న రైతులు",
+          "benefits": "వ్యవసాయ అవసరాలకు సులభ ఋణం"
+        },
+        "organicFarming": {
+          "name": "సేంద్రీయ వ్యవసాయం ప్రోత్సాహం",
+          "description": "సేంద్రీయ వ్యవసాయ పద్ధతులకు మద్దతు",
+          "eligibility": "సేంద్రీయ పద్ధతులు స్వీకరించడానికి సిద్ధంగా ఉన్న రైతులు",
+          "benefits": "సేంద్రీయ ఇన్‌పుట్‌లు మరియు ధృవీకరణపై సబ్సిడీ"
+        }
+      },
+      "months": {
+        "jan": "జన్",
+        "feb": "ఫిబ్",
+        "mar": "మార్",
+        "apr": "ఏప్",
+        "may": "మే",
+        "jun": "జూన్",
+        "jul": "జూలై",
+        "aug": "ఆగ",
+        "sep": "సెప్",
+        "oct": "అక్",
+        "nov": "నవ",
+        "dec": "డిస"
+      },
+      "districts": {
+        "cuttack": "కటక్",
+        "bhubaneswar": "భువనేశ్వర్",
+        "puri": "పురి",
+        "khordha": "ఖోర్ధా",
+        "ganjam": "గంజామ్"
+      }
+    }
+  },
+  "common": {
+    "cancel": "రద్దు"
+  },
+  "reports": {
+    "pageTitle": "రిపోర్టులు & అంతర్దృష్టులు",
+    "pageDescription": "విశ్లేషణాత్మక రిపోర్టులను రూపొందించి నిర్వహించండి",
+    "generateReport": "రిపోర్ట్ రూపొందించండి",
+    "generateNewReport": "కొత్త రిపోర్ట్ రూపొందించండి",
+    "generateReportDescription": "నిర్దిష్ట పరామితులతో కస్టమ్ రిపోర్ట్",
+    "reportTitle": "రిపోర్ట్ శీర్షిక",
+    "enterReportTitle": "రిపోర్ట్ శీర్షికను నమోదు చేయండి",
+    "reportType": "రిపోర్ట్ రకం",
+    "selectReportType": "రిపోర్ట్ రకాన్ని ఎంచుకోండి",
+    "dateRange": "తేదీ పరిధి",
+    "selectDate": "తేదీ ఎంచుకోండి",
+    "fromDate": "ప్రారంభ తేదీ",
+    "toDate": "ముగింపు తేదీ",
+    "generating": "రూపొందిస్తోంది...",
+    "filterReports": "రిపోర్టులను ఫిల్టర్ చేయండి",
+    "filterByType": "రకం ద్వారా ఫిల్టర్ చేయండి",
+    "filterByStatus": "స్థితి ద్వారా ఫిల్టర్ చేయండి",
+    "resetFilters": "ఫిల్టర్‌లను రీసెట్ చేయండి",
+    "generated": "రూపొందించబడింది",
+    "by": "ద్వారా",
+    "size": "పరిమాణం",
+    "downloads": "డౌన్‌లోడ్లు",
+    "format": "ఫార్మాట్",
+    "preview": "ప్రివ్యూ",
+    "download": "డౌన్‌లోడ్",
+    "viewDetails": "వివరాలు",
+    "recommendation": "సిఫారసు",
+    "impact2": "ప్రభావం",
+    "tabs": {
+      "generatedReports": "రూపొందించిన రిపోర్టులు",
+      "keyInsights": "ముఖ్య అంతర్దృష్టులు",
+      "reportAnalytics": "రిపోర్ట్ విశ్లేషణ"
+    },
+    "filters": {
+      "allTypes": "అన్ని రకాలు",
+      "allStatus": "అన్ని స్థితి"
+    },
+    "types": {
+      "registration": "నమోదు",
+      "analytics": "విశ్లేషణ",
+      "pestControl": "కీటక నియంత్రణ",
+      "market": "మార్కెట్",
+      "schemes": "స్కీములు",
+      "registrationReport": "నమోదు రిపోర్ట్",
+      "analyticsReport": "విశ్లేషణ రిపోర్ట్",
+      "pestControlReport": "కీటక నియంత్రణ రిపోర్ట్",
+      "marketAnalysis": "మార్కెట్ విశ్లేషణ",
+      "schemesReport": "స్కీమ్ రిపోర్ట్"
+    },
+    "status": {
+      "completed": "పూర్తి",
+      "processing": "ప్రాసెసింగ్",
+      "failed": "విఫలమైంది"
+    },
+    "impact": {
+      "high": "అధిక",
+      "medium": "మధ్యస్థ",
+      "low": "తక్కువ"
+    },
+    "categories": {
+      "registration": "నమోదు",
+      "yield": "ఉత్పాదకత",
+      "pestControl": "కీటక నియంత్రణ",
+      "market": "మార్కెట్"
+    },
+    "generatedBy": {
+      "systemAdmin": "సిస్టమ్ అడ్మిన్",
+      "dataAnalyst": "డేటా అనలిస్ట్",
+      "fieldOfficer": "ఫీల్డ్ అధికారి",
+      "marketAnalyst": "మార్కెట్ అనలిస్ట్",
+      "programManager": "పროგ్రామ్ మేనేజర్"
+    },
+    "metrics": {
+      "totalReports": "మొత్తం రిపోర్టులు",
+      "thisMonth": "ఈ నెల +{{count}}",
+      "downloads": "డౌన్‌లోడ్లు",
+      "thisWeek": "ఈ వారం +{{count}}",
+      "activeUsers": "సక్రియ వినియోగదారులు",
+      "newUsers": "+{{count}} కొత్త వినియోగదారులు",
+      "insightsGenerated": "ఉత్పత్తి చేసిన అంతర్దృష్టులు",
+      "newInsights": "+{{count}} కొత్త అంతర్దృష్టులు"
+    },
+    "months": {
+      "jan": "జన్",
+      "feb": "ఫిబ్",
+      "mar": "మార్",
+      "apr": "ఏప్",
+      "may": "మే",
+      "jun": "జూన్",
+      "jul": "జూలై",
+      "aug": "ఆగ",
+      "sep": "సెప్",
+      "oct": "అక్",
+      "nov": "నవ",
+      "dec": "డిస"
+    },
+    "chart": {
+      "title": "రిపోర్ట్ తయారీ & డౌన్‌లోడ్ ధోరణులు",
+      "description": "నెలవారీ రిపోర్ట్ తయారీ మరియు డౌన్‌లోడ్ గణాంకాలు",
+      "reportsGenerated": "రూపొందించిన రిపోర్టులు",
+      "downloads": "డౌన్‌లోడ్లు"
+    },
+    "list": {
+      "monthlyFarmerRegistration": {
+        "title": "నెలవారీ రైతు నమోదు రిపోర్ట్",
+        "description": "అన్ని జిల్లాలలో కొత్త రైతు నమోదుల సమగ్ర విశ్లేషణ"
+      },
+      "cropYieldPerformance": {
+        "title": "పంట ఉత్పాదకత పనితీరు",
+        "description": "ప్రస్తుత సీజన్‌ను చరిత్రాత్మక డేటాతో పోల్చిన విశ్లేషణ"
+      },
+      "pestOutbreakSummary": {
+        "title": "కీటక ప్రబలాల సమగ్ర నివేదిక",
+        "description": "ప్రబలాలు మరియు నియంత్రణ చర్యల సారాంశం"
+      },
+      "marketPriceTrends": {
+        "title": "మార్కెట్ ధర ధోరణుల విశ్లేషణ",
+        "description": "పంట ధరల మార్పులు మరియు మార్కెట్ ధోరణులు"
+      },
+      "schemeImplementation": {
+        "title": "స్కీమ్ అమలులో పురోగతి",
+        "description": "అమలు స్థితి మరియు లబ్ధిదారుల కవరేజ్ పై నివేదిక"
+      }
+    },
+    "insights": {
+      "farmerRegistrationSurge": {
+        "title": "రైతు నమోదు పెరుగుదల",
+        "description": "గత నెలతో పోల్చితే 25% పెరుగుదల",
+        "recommendation": "విస్తరణ కార్యక్రమాలను పెంచండి"
+      },
+      "cropYieldImprovement": {
+        "title": "ఉత్పాదకత మెరుగుదల",
+        "description": "ప్రధాన పంటలలో సగటు ఉత్పాదకత 12% పెరిగింది",
+        "recommendation": "తక్కువ పనితీరు జిల్లాలతో ఉత్తమ పద్ధతులను పంచండి"
+      },
+      "pestControlEffectiveness": {
+        "title": "కీటక నియంత్రణ ప్రభావం",
+        "description": "చర్యలు పంట నష్టాన్ని 18% తగ్గించాయి",
+        "recommendation": "ప్రస్తుత వ్యూహాలను కొనసాగించండి"
+      },
+      "marketPriceVolatility": {
+        "title": "మార్కెట్ ధర అస్థిరత్వం",
+        "description": "సాధారణం కంటే అధిక మార్పులు గమనించబడ్డాయి",
+        "recommendation": "ధర స్థిరీకరణ చర్యలు అమలు చేయండి"
+      }
+    }
+  },
+  "month2": {
+    "Jan": "ജനുവരി",
+    "Feb": "ഫെബ്രുവരി",
+    "Mar": "മാർച്ച്",
+    "Apr": "ഏപ്രിൽ",
+    "May": "മേയ്",
+    "Jun": "ജൂൺ"
+  },
+  "common.save": "సేవ్ చేయి"
+}

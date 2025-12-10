@@ -1,0 +1,1027 @@
+{
+  "app.name": "AgriMitra",
+  "gov.name": "Government of India",
+  "dept.agri": "Department of Agriculture & Farmers",
+  "dept.agri.short": "Agriculture Department",
+
+  "nav.dashboard": "Dashboard",
+  "nav.farmers": "Farmers Directory",
+  "nav.yield": "Yield & Crop Analysis",
+  "nav.pest": "Pest & Disease Tracking",
+  "nav.market": "Market Prices",
+  "nav.alerts": "Alerts & Notifications",
+  "nav.schemes": "Schemes & Subsidies",
+  "nav.reports": "Reports & Insights",
+  "nav.settings": "Settings",
+
+  "footer.copyright": "© 2025 Govt of India",
+  "footer.dept": "Electronics & IT Dept",
+
+  "login.title": "Government of India",
+  "login.subtitle": "Agriculture Department",
+  "login.signin": "Sign In to Portal",
+  "login.signin.description": "Enter your credentials to access the system",
+  "login.username": "Username",
+  "login.password": "Password",
+  "login.securityCode": "Security Code",
+  "login.enterUsername": "Enter your username",
+  "login.enterPassword": "Enter your password",
+  "login.enterCaptcha": "Enter captcha",
+  "login.signingIn": "Signing In...",
+  "login.signIn": "Sign In",
+  "login.copyright": "© 2025 Government of India. All rights reserved.",
+
+  "header.notifications": "Notifications",
+  "header.viewAll": "View All Notifications",
+  "header.adminUser": "Admin User",
+  "header.deptOfficer": "Department Officer",
+  "header.settings": "Settings",
+  "header.signOut": "Sign Out",
+  "header.signingOut": "Signing out...",
+
+  "dashboard.stats.totalFarmers": "Total Farmers Registered",
+  "dashboard.stats.activeMonitoring": "Active Crop Monitoring",
+  "dashboard.stats.pestAlerts": "Pest Alerts (Active)",
+  "dashboard.stats.marketUpdates": "Market Price Updates",
+  "dashboard.fromLastMonth": "from last month",
+  "dashboard.recentActivities": "Recent Activities",
+  "dashboard.latestUpdates": "Latest updates from the system",
+  "dashboard.schemeImplementation": "Scheme Implementation",
+  "dashboard.dataCollection": "Data Collection",
+  "dashboard.systemHealth": "System Health",
+  "dashboard.pmKisan": "PM-KISAN",
+  "dashboard.cropSurvey": "Crop Survey",
+  "dashboard.serverStatus": "Server Status",
+
+  "settings.title": "Settings",
+  "settings.subtitle": "Manage your account and system preferences",
+  "settings.profileInformation": "Profile Information",
+  "settings.updateDetails": "Update your personal details and contact information",
+  "settings.firstName": "First Name",
+  "settings.lastName": "Last Name",
+  "settings.email": "Email",
+  "settings.phone": "Phone",
+  "settings.saveChanges": "Save Changes",
+  "settings.languagePreferences": "Language Preferences",
+  "settings.selectPreferredLanguage": "Select your preferred language for the interface",
+  "settings.language": "Language",
+  "settings.notificationSettings": "Notification Settings",
+  "settings.manageNotifications": "Manage how you receive notifications and alerts",
+  "settings.emailNotifications": "Email Notifications",
+  "settings.receiveEmailUpdates": "Receive updates and alerts via email",
+  "settings.smsNotifications": "SMS Notifications",
+  "settings.receiveSMSAlerts": "Receive important alerts via SMS",
+  "settings.pushNotifications": "Push Notifications",
+  "settings.receivePushNotifications": "Receive browser push notifications",
+  "settings.enabled": "Enabled",
+  "settings.disabled": "Disabled",
+  "settings.securitySettings": "Security Settings",
+  "settings.manageSecurity": "Manage your account security and authentication",
+  "settings.currentPassword": "Current Password",
+  "settings.enterCurrentPassword": "Enter your current password",
+  "settings.newPassword": "New Password",
+  "settings.enterNewPassword": "Enter your new password",
+  "settings.confirmPassword": "Confirm Password",
+  "settings.confirmNewPassword": "Confirm your new password",
+  "settings.updatePassword": "Update Password",
+  "common.clearFilters": "Clear Filters",
+  "common.pageOf": "Page {{page}} of {{total}}",
+  "common.previous": "Previous",
+  "common.next": "Next",
+  "common.allDistricts": "All Districts",
+  "common.allStatus": "All Status",
+  "status.active": "Active",
+  "status.inactive": "Inactive",
+  "status.pending": "Pending",
+  "status.completed": "Completed",
+  "status.inProgress": "In Progress",
+  "district.Angul": "Angul",
+  "district.Balangir": "Balangir",
+  "district.Balasore": "Balasore",
+  "district.Bargarh": "Bargarh",
+  "district.Bhadrak": "Bhadrak",
+  "district.Bhubaneswar": "Bhubaneswar",
+  "district.Boudh": "Boudh",
+  "district.Cuttack": "Cuttack",
+  "district.Deogarh": "Deogarh",
+  "district.Dhenkanal": "Dhenkanal",
+  "district.Gajapati": "Gajapati",
+  "district.Ganjam": "Ganjam",
+  "district.Jagatsinghpur": "Jagatsinghpur",
+  "district.Jajpur": "Jajpur",
+  "district.Jharsuguda": "Jharsuguda",
+  "district.Kalahandi": "Kalahandi",
+  "district.Kandhamal": "Kandhamal",
+  "district.Kendrapara": "Kendrapara",
+  "district.Kendujhar": "Kendujhar",
+  "district.Khordha": "Khordha",
+  "district.Koraput": "Koraput",
+  "district.Malkangiri": "Malkangiri",
+  "district.Mayurbhanj": "Mayurbhanj",
+  "district.Nabarangpur": "Nabarangpur",
+  "district.Nayagarh": "Nayagarh",
+  "district.Nuapada": "Nuapada",
+  "district.Puri": "Puri",
+  "district.Rayagada": "Rayagada",
+  "district.Sambalpur": "Sambalpur",
+  "district.Subarnapur": "Subarnapur",
+  "district.Sundargarh": "Sundargarh",
+  "farmers.title": "Farmers Directory",
+  "farmers.subtitle": "Manage and view farmer registrations",
+  "farmers.count": "{{count}} farmers",
+  "farmers.searchFilter": "Search & Filter",
+  "farmers.searchHint": "Find farmers by name, ID, location, or status",
+  "farmers.searchPlaceholder": "Search farmers...",
+  "farmers.selectDistrict": "Select District",
+  "farmers.selectStatus": "Select Status",
+  "farmers.registeredFarmers": "Registered Farmers",
+  "farmers.showing": "Showing {{shown}} of {{total}} farmers",
+  "farmers.columns.id": "Farmer ID",
+  "farmers.columns.name": "Name",
+  "farmers.columns.location": "Location",
+  "farmers.columns.contact": "Contact",
+  "farmers.columns.landSize": "Land Size",
+  "farmers.columns.crops": "Crops",
+  "farmers.columns.status": "Status",
+  "farmers.columns.actions": "Actions",
+  "farmers.kcc": "KCC",
+  "farmers.viewProfile": "View farmer profile",
+  "farmer.backToList": "Back to Farmers",
+  "farmer.title": "Farmer Details",
+  "farmer.id": "Farmer ID",
+  "farmer.kcc": "KCC Number",
+  "farmer.location": "Location",
+  "farmer.address": "Banki Cuttack",
+  "farmer.contact": "Contact",
+  "farmer.registrationDate": "Registration Date",
+  "farmer.landSize": "Land Size",
+  "farmer.crops": "Crops",
+  "farmer.aadhar": "Aadhar Number",
+  "farmer.bankAccount": "Bank Account",
+  "farmer.cropHistory": "Crop History",
+  "farmer.cropHistoryDesc": "Recent crop cultivation records",
+  "farmer.govtSchemes": "Government Schemes",
+  "farmer.govtSchemesDesc": "Enrolled schemes and benefits",
+  "farmer.sample.riceKharif": "Rice (Kharif 2024)",
+  "farmer.sample.wheatRabi": "Wheat (Rabi 2024)",
+  "farmer.sample.acres1_2": "1.2 acres",
+  "farmer.sample.acres1_3": "1.3 acres",
+  "farmer.sample.pmKisanAmount": "₹6,000/year",
+  "farmer.sample.soilHealthCard": "Soil Health Card",
+  "farmer.sample.validUntil2025": "Valid until 2025",
+  "common.months": {
+    "Jan": "Jan",
+    "Feb": "Feb",
+    "Mar": "Mar",
+    "Apr": "Apr",
+    "May": "May",
+    "Jun": "Jun",
+    "Jul": "Jul",
+    "Aug": "Aug",
+    "Sep": "Sep",
+    "Oct": "Oct",
+    "Nov": "Nov",
+    "Dec": "Dec"
+  },
+  "dashboard.monthlyRegistrationTrends": "Monthly Registration Trends",
+  "dashboard.monthlyRegistrationDesc": "Farmer registrations and crop monitoring over time",
+  "dashboard.yieldPerformance": "Yield Performance",
+  "dashboard.yieldPerformanceDesc": "Average crop yield percentage over months",
+  "dashboard.datasets.farmers": "Farmers",
+  "dashboard.datasets.crops": "Crops",
+  "dashboard.datasets.yieldPct": "Yield %",
+  "dashboard.heatmap.title": "Farmer Registration Heatmap",
+  "dashboard.heatmap.subtitle": "District-wise farmer registration density",
+  "dashboard.heatmap.density": "Density",
+  "dashboard.heatmap.capacity": "capacity",
+  "dashboard.heatmap.legend": "Density Legend:",
+  "dashboard.heatmap.intensity": {
+    "veryHigh": "Very High",
+    "high": "High",
+    "medium": "Medium",
+    "low": "Low",
+    "veryLow": "Very Low"
+  },
+  "dashboard.heatmap.legendItems": {
+    "veryHigh": "Very High (80%+)",
+    "high": "High (60-79%)",
+    "medium": "Medium (40-59%)",
+    "low": "Low (20-39%)",
+    "veryLow": "Very Low (<20%)"
+  },
+  "dashboard.heatmap.districts": {
+    "bhubaneswar": "Bhubaneswar",
+    "cuttack": "Cuttack",
+    "puri": "Puri",
+    "khordha": "Khordha",
+    "ganjam": "Ganjam",
+    "balasore": "Balasore",
+    "mayurbhanj": "Mayurbhanj",
+    "kendrapara": "Kendrapara"
+  },
+  "dashboard.notifications.title": "Recent Notifications",
+  "dashboard.notifications.subtitle": "Latest alerts and updates from the system",
+  "dashboard.notifications.count": "{{count}} new",
+  "dashboard.notifications.viewAll": "View All Notifications",
+  "dashboard.notifications.priority": {
+    "high": "High",
+    "medium": "Medium",
+    "low": "Low"
+  },
+  "dashboard.notifications.weather": {
+    "title": "Weather Alert: Heavy Rainfall Expected",
+    "message": "Monsoon alert issued for coastal districts. Farmers advised to take precautionary measures.",
+    "time": "5 minutes ago"
+  },
+  "dashboard.notifications.scheme": {
+    "title": "New Subsidy Scheme Launched",
+    "message": "PM-KISAN beneficiary registration now open. Apply before the deadline.",
+    "time": "2 hours ago"
+  },
+  "dashboard.notifications.pest": {
+    "title": "Pest Control Advisory Sent",
+    "message": "Brown plant hopper control measures sent to 15,000+ farmers in affected areas.",
+    "time": "1 day ago"
+  },
+  "dashboard.notifications.market": {
+    "title": "Market Price Update",
+    "message": "Rice prices increased by 8% in Bhubaneswar market. Updated rates available.",
+    "time": "2 days ago"
+  },
+  "dashboard.activities": {
+    "registration": {
+      "title": "New farmer registration in Cuttack district",
+      "time": "2 minutes ago"
+    },
+    "alert": {
+      "title": "Pest alert issued for Bhubaneswar region",
+      "time": "15 minutes ago"
+    },
+    "market": {
+      "title": "Market price updated for Rice (Basmati)",
+      "time": "1 hour ago"
+    },
+    "advisory": {
+      "title": "Weather advisory sent to 5,000+ farmers",
+      "time": "2 hours ago"
+    }
+  },
+  "pie.title": "Crop Distribution",
+  "pie.subtitle": "Distribution of crops across the state",
+  "crops.rice": "Rice",
+  "crops.wheat": "Wheat",
+  "crops.sugarcane": "Sugarcane",
+  "crops.others": "Others",
+
+  "farmers": {
+    "names": {
+      "1758864587530": "Divyanshu Karmakar",
+      "1758865038656": "Sagar Awasthi",
+      "1758865093378": "Uday Trivedi",
+      "1758865188981": "Atharva Shukla",
+      "1758865135352": "Eshaan Kumar"
+    },
+    "cities": {
+      "mahasamund": "Mahasamund",
+      "jhansi": "Jhansi",
+      "chennai": "Chennai",
+      "vellore": "Vellore",
+      "bangalore": "Bangalore"
+    },
+    "states": {
+      "chhattisgarh": "Chhattisgarh",
+      "up": "Uttar Pradesh",
+      "tamil_nadu": "Tamil Nadu",
+      "karnataka": "Karnataka"
+    },
+    "districts": {},
+    "villages": {},
+    "crops": {
+      "rice": "Rice",
+      "wheat": "Wheat",
+      "vegetables": "Vegetables",
+      "coconut": "Coconut",
+      "flowers": "Flowers",
+      "sugarcane": "Sugarcane",
+      "pulses": "Pulses"
+    },
+    "status": {
+      "active": "Active",
+      "inactive": "Inactive",
+      "pending": "Pending"
+    }
+  },
+  "yieldPage": {
+    "header": {
+      "title": "Yield & Crop Analysis",
+      "subtitle": "Comprehensive crop performance analytics",
+      "export": "Export Report"
+    },
+    "filters": {
+      "title": "Analysis Filters",
+      "year": "Select Year",
+      "crop": "Select Crop",
+      "district": "Select District",
+      "reset": "Reset Filters"
+    },
+    "metrics": {
+      "totalProduction": "Total Production",
+      "averageYield": "Average Yield",
+      "cultivatedArea": "Cultivated Area",
+      "efficiencyRate": "Efficiency Rate",
+      "fromLastYear": "from last year"
+    },
+    "tabs": {
+      "trends": "Yield Trends",
+      "seasonal": "Seasonal Analysis",
+      "comparison": "Crop Comparison",
+      "districts": "District Performance"
+    },
+    "charts": {
+      "yieldTrends": {
+        "title": "5-Year Yield Trends",
+        "description": "Historical yield performance by crop type"
+      },
+      "seasonal": {
+        "title": "Seasonal Production Analysis",
+        "description": "Production vs targets across seasons"
+      },
+      "comparison": {
+        "area": "Crop Area Distribution",
+        "yield": "Yield Efficiency by Crop"
+      },
+      "district": {
+        "title": "District-wise Performance",
+        "description": "Yield comparison across major districts"
+      },
+      "monthly": {
+        "title": "Monthly Crop Progress",
+        "description": "Sowing, growth, and harvest progress throughout the year"
+      }
+    },
+    "crops": {
+      "all": "All Crops",
+      "rice": "Rice",
+      "wheat": "Wheat",
+      "sugarcane": "Sugarcane",
+      "vegetables": "Vegetables",
+      "pulses": "Pulses"
+    },
+    "districts": {
+      "all": "All Districts",
+      "cuttack": "Cuttack",
+      "bhubaneswar": "Bhubaneswar",
+      "puri": "Puri",
+      "khordha": "Khordha",
+      "ganjam": "Ganjam"
+    },
+    "months": {
+      "jan": "Jan",
+      "feb": "Feb",
+      "mar": "Mar",
+      "apr": "Apr",
+      "may": "May",
+      "jun": "Jun"
+    }
+  },
+
+  "pestTracking": {
+    "header": {
+      "title": "Pest & Disease Tracking",
+      "subtitle": "Monitor and manage crop health threats",
+      "activeOutbreaks": "{{count}} Active Outbreaks"
+    },
+    "alerts": {
+      "critical": "Critical Alert",
+      "description": "Brown Plant Hopper outbreak detected in Cuttack district affecting 2,500 Ha. Immediate action required."
+    },
+    "metrics": {
+      "activeOutbreaks": "Active Outbreaks",
+      "affectedArea": "Affected Area",
+      "farmersImpacted": "Farmers Impacted",
+      "controlRate": "Control Rate",
+      "change": {
+        "activeOutbreaks": "+2 this week",
+        "affectedArea": "+15% from last month",
+        "farmersImpacted": "+8% this week",
+        "controlRate": "+12% improvement"
+      }
+    },
+    "filters": {
+      "title": "Filter Outbreaks",
+      "district": "Select District",
+      "severity": "Select Severity",
+      "allDistricts": "All Districts",
+      "allSeverity": "All Severity",
+      "reset": "Reset Filters"
+    },
+    "tabs": {
+      "heatmap": "Pest HeatMap",
+      "outbreaks": "Active Outbreaks",
+      "diseases": "Disease Alerts",
+      "treatment": "Treatment Guide"
+    },
+    "outbreaks": {
+      "crop": "Crop",
+      "district": "District",
+      "area": "Affected Area",
+      "farmers": "Farmers",
+      "view": "View Details",
+      "alert": "Send Alert"
+    },
+    "disease": {
+      "risk": "{{severity}} Risk",
+      "affecting": "Affecting {{crop}} crops",
+      "symptoms": "Symptoms",
+      "prevention": "Prevention",
+      "treatment": "Treatment"
+    },
+    "heatmap": {
+      "title": "Crop Health Heatmap"
+    },
+    "treatment": {
+      "header": "{{pest}} Treatment",
+      "chemical": "Recommended Chemical",
+      "dosage": "Dosage",
+      "application": "Application Method",
+      "frequency": "Frequency"
+    },
+    "severity": {
+      "high": "High",
+      "medium": "Medium",
+      "low": "Low"
+    },
+    "status": {
+      "active": "Active",
+      "controlled": "Controlled",
+      "monitoring": "Monitoring",
+      "treatment": "Treatment"
+    },
+    "data": {
+      "pests": {
+        "brownPlantHopper": "Brown Plant Hopper",
+        "stemBorer": "Stem Borer",
+        "aphids": "Aphids",
+        "leafCurlVirus": "Leaf Curl Virus"
+      },
+      "crops": {
+        "rice": "Rice",
+        "wheat": "Wheat",
+        "tomato": "Tomato"
+      },
+      "districts": {
+        "cuttack": "Cuttack",
+        "puri": "Puri",
+        "bhubaneswar": "Bhubaneswar",
+        "khordha": "Khordha",
+        "balasore": "Balasore",
+        "bhadrak": "Bhadrak",
+        "nayagarh": "Nayagarh"
+      },
+      "diseases": {
+        "blastDisease": "Blast Disease",
+        "powderyMildew": "Powdery Mildew",
+        "bacterialWilt": "Bacterial Wilt"
+      },
+      "symptoms": {
+        "blastDisease": "Brown spots on leaves, neck rot",
+        "powderyMildew": "White powdery growth on leaves",
+        "bacterialWilt": "Wilting, yellowing of leaves"
+      },
+      "prevention": {
+        "blastDisease": "Use resistant varieties, proper drainage",
+        "powderyMildew": "Avoid overcrowding, proper ventilation",
+        "bacterialWilt": "Crop rotation, soil sterilization"
+      },
+      "treatment": {
+        "blastDisease": "Fungicide spray (Tricyclazole)",
+        "powderyMildew": "Sulfur-based fungicides",
+        "bacterialWilt": "Copper-based bactericides"
+      },
+      "weatherAdvisories": {
+        "heavyRainfall": {
+          "title": "Heavy Rainfall Alert",
+          "description": "Expected heavy rainfall in coastal districts may increase fungal disease risk"
+        },
+        "temperatureRise": {
+          "title": "Temperature Rise Warning",
+          "description": "Rising temperatures favorable for pest multiplication"
+        }
+      },
+      "treatments": {
+        "brownPlantHopper": {
+          "chemical": "Imidacloprid 17.8% SL",
+          "dosage": "0.3 ml/L water",
+          "application": "Foliar spray during evening hours",
+          "frequency": "2-3 applications at 10-day intervals"
+        },
+        "stemBorer": {
+          "chemical": "Chlorantraniliprole 18.5% SC",
+          "dosage": "0.4 ml/L water",
+          "application": "Spray on whorl and stem",
+          "frequency": "Apply at early infestation stage"
+        }
+      }
+    }
+  },
+
+  "marketPage": {
+    "header": {
+      "title": "Market Prices",
+      "subtitle": "Real-time crop price monitoring and analysis",
+      "refresh": "Refresh Prices"
+    },
+    "crops": {
+      "riceCommon": "Rice (Common)",
+      "riceBasmati": "Rice (Basmati)",
+      "wheat": "Wheat",
+      "sugarcane": "Sugarcane",
+      "onion": "Onion",
+      "potato": "Potato"
+    },
+    "units": {
+      "perQuintal": "per quintal"
+    },
+    "districts": {
+      "bhubaneswar": "Bhubaneswar",
+      "cuttack": "Cuttack",
+      "puri": "Puri",
+      "khordha": "Khordha",
+      "balasore": "Balasore",
+      "ganjam": "Ganjam"
+    },
+    "updated": {
+      "1h": "1 hour ago",
+      "2h": "2 hours ago",
+      "3h": "3 hours ago",
+      "4h": "4 hours ago"
+    },
+    "alerts": {
+      "onion": "Price increased by 8.5% in last 24 hours",
+      "riceCommon": "Price reached monthly high of ₹2,850/quintal",
+      "potato": "Price dropped below support level"
+    },
+    "charts": {
+      "rice": "Rice (₹/quintal)",
+      "wheat": "Wheat (₹/quintal)",
+      "onion": "Onion (₹/quintal)",
+      "potato": "Potato (₹/quintal)"
+    },
+    "metrics": {
+      "averagePriceIndex": "Average Price Index",
+      "priceVolatility": "Price Volatility",
+      "activeMarkets": "Active Markets",
+      "dailyUpdates": "Daily Updates",
+      "newMarkets": "+{{count}} new",
+      "todayUpdates": "+{{count}} today"
+    },
+    "tabs": {
+      "current": "Current Prices",
+      "trends": "Price Trends",
+      "comparison": "Market Comparison"
+    },
+    "filters": {
+      "title": "Filter Prices",
+      "selectMarket": "Select Market",
+      "selectCrop": "Select Crop",
+      "allMarkets": "All Markets",
+      "allCrops": "All Crops",
+      "rice": "Rice",
+      "wheat": "Wheat",
+      "vegetables": "Vegetables",
+      "reset": "Reset Filters"
+    },
+    "alerts2": {
+      "title": "Price Alerts",
+      "description": "Recent significant price movements"
+    },
+    "trends": {
+      "title": "Price Trends (Last 20 Days)",
+      "description": "Historical price movements for major crops"
+    },
+    "comparison": {
+      "title": "Market-wise Price Comparison",
+      "description": "Compare prices across different markets"
+    },
+    "previous": "Previous"
+  },
+
+  "alertsPage": {
+    "header": {
+      "title": "Alerts & Notifications",
+      "subtitle": "Manage and send notifications to farmers",
+      "composeAlert": "Compose Alert"
+    },
+    "compose": {
+      "title": "Compose New Alert",
+      "description": "Create and send notifications to farmers in selected regions",
+      "alertType": "Alert Type",
+      "selectAlertType": "Select alert type",
+      "priority": "Priority",
+      "alertTitle": "Alert Title",
+      "enterAlertTitle": "Enter alert title",
+      "message": "Message",
+      "enterAlertMessage": "Enter alert message",
+      "targetDistricts": "Target Districts",
+      "districtsSelected": "districts selected",
+      "cancel": "Cancel",
+      "sendAlert": "Send Alert"
+    },
+    "metrics": {
+      "totalAlerts": "Total Alerts Sent",
+      "thisWeek": "+{{count}} this week",
+      "activeRecipients": "Active Recipients",
+      "newRecipients": "+{{count}} new",
+      "deliveryRate": "Delivery Rate",
+      "improvement": "+{{percent}}% improvement",
+      "responseRate": "Response Rate",
+      "increase": "+{{percent}}% increase"
+    },
+    "tabs": {
+      "sent": "Sent Alerts",
+      "templates": "Templates",
+      "analytics": "Analytics"
+    },
+    "filters": {
+      "title": "Filter Alerts",
+      "filterByType": "Filter by type",
+      "filterByStatus": "Filter by status",
+      "allTypes": "All Types",
+      "allStatus": "All Status",
+      "reset": "Reset Filters"
+    },
+    "priority": {
+      "critical": "Critical",
+      "high": "High",
+      "medium": "Medium",
+      "low": "Low"
+    },
+    "status": {
+      "delivered": "Delivered",
+      "pending": "Pending",
+      "failed": "Failed"
+    },
+    "sentAlerts": {
+      "weather": {
+        "title": "Heavy Rainfall Warning",
+        "message": "Heavy to very heavy rainfall expected in coastal districts. Farmers advised to take precautionary measures for standing crops."
+      },
+      "pest": {
+        "title": "Brown Plant Hopper Alert",
+        "message": "Brown plant hopper infestation detected in rice fields. Immediate spraying of recommended insecticides advised."
+      },
+      "scheme": {
+        "title": "PM-KISAN Registration Reminder",
+        "message": "Last date for PM-KISAN scheme registration is approaching. Complete your application before the deadline."
+      },
+      "market": {
+        "title": "Rice Price Update",
+        "message": "Rice prices have increased by 8% in major markets. Current rate: ₹2,850 per quintal in Bhubaneswar market."
+      }
+    },
+    "templates": {
+      "weather": {
+        "name": "Weather Alert Template",
+        "subject": "Weather Alert: {weather_type} Expected",
+        "message": "Dear Farmer,\n\n{weather_type} is expected in your area from {start_date} to {end_date}. Please take necessary precautions:\n\n• {precaution_1}\n• {precaution_2}\n• {precaution_3}\n\nFor more information, contact your local agriculture officer.\n\nRegards,\nElectronics & IT Department, Odisha"
+      },
+      "pest": {
+        "name": "Pest Alert Template",
+        "subject": "Urgent: {pest_name} Alert",
+        "message": "Dear Farmer,\n\n{pest_name} has been detected in {crop_name} fields in your area. Immediate action required:\n\n• Spray {chemical_name} at {dosage}\n• Apply during {application_time}\n• Repeat after {repeat_interval} if necessary\n\nContact helpline: 1800-XXX-XXXX for assistance.\n\nRegards,\nElectronics & IT Department, Odisha"
+      },
+      "subject": "Subject",
+      "messageTemplate": "Message Template",
+      "edit": "Edit Template",
+      "use": "Use Template"
+    },
+    "analytics": {
+      "distributionByType": "Alert Distribution by Type",
+      "deliveryPerformance": "Delivery Performance",
+      "smsDelivery": "SMS Delivery",
+      "appNotifications": "App Notifications",
+      "voiceCalls": "Voice Calls",
+      "emailDelivery": "Email Delivery"
+    },
+    "recipients": "recipients",
+    "delivered": "delivered",
+    "districts": {
+      "puri": "Puri",
+      "balasore": "Balasore",
+      "bhadrak": "Bhadrak",
+      "cuttack": "Cuttack",
+      "khordha": "Khordha",
+      "bhubaneswar": "Bhubaneswar",
+      "allDistricts": "All Districts"
+    },
+    "notifications": {
+      "weather": "Weather Alert",
+      "pest": "Pest Alert",
+      "market": "Market Update",
+      "scheme": "Scheme Notification",
+      "advisory": "Advisory"
+    }
+  },
+
+  "schemes": {
+    "dialog": {
+      "addTitle": "Add New Scheme",
+      "addDescription": "Government schemes and subsidy"
+    },
+    "form": {
+      "beneficiaries": "Beneficiaries",
+      "targetBeneficiaries": "Target Beneficiaries",
+      "totalBudget": "Total Budget",
+      "name": "Name",
+      "description": "Description",
+      "category": "Category",
+      "status": "Status"
+    },
+    "header": {
+      "title": "Schemes & Subsidies",
+      "subtitle": "Government schemes and subsidy management"
+    },
+    "metrics": {
+      "totalSchemes": "Total Schemes",
+      "totalBeneficiaries": "Total Beneficiaries",
+      "budgetUtilized": "Budget Utilized",
+      "avgEnrollment": "Avg. Enrollment Rate",
+      "changes": {
+        "totalSchemes": "+1 new this year",
+        "totalBeneficiaries": "+2,340 this month",
+        "budgetUtilized": "{{percentage}}% of total budget",
+        "avgEnrollment": "+5.3% improvement"
+      },
+      "values": {
+        "budgetUtilized": "₹{{amount}} Cr",
+        "budget": "₹{{amount}} Crores"
+      }
+    },
+    "filters": {
+      "title": "Filter Schemes",
+      "selectCategory": "Select Category",
+      "selectStatus": "Select Status",
+      "allCategories": "All Categories",
+      "allStatus": "All Status"
+    },
+    "tabs": {
+      "activeSchemes": "Active Schemes",
+      "analytics": "Analytics",
+      "performance": "Performance"
+    },
+    "buttons": {
+      "export": "Export Report",
+      "addScheme": "Add Scheme",
+      "reset": "Reset Filters",
+      "viewDetails": "View Details"
+    },
+    "labels": {
+      "budgetUtilization": "Budget Utilization",
+      "beneficiaries": "Beneficiaries",
+      "launchDate": "Launch Date",
+      "totalBudget": "Total Budget",
+      "eligibility": "Eligibility",
+      "benefits": "Benefits"
+    },
+    "status": {
+      "active": "Active",
+      "new": "New",
+      "completed": "Completed"
+    },
+    "charts": {
+      "schemeDistribution": "Scheme Distribution by Category",
+      "monthlyEnrollment": "Monthly Enrollment Trends",
+      "enrolled": "Enrolled",
+      "target": "Target"
+    },
+    "performance": {
+      "title": "District-wise Performance",
+      "description": "Beneficiaries and utilization rates by district",
+      "beneficiaries": "{{count}} beneficiaries",
+      "utilization": "{{percentage}}% utilization"
+    },
+    "data": {
+      "categories": {
+        "incomeSupport": "Income Support",
+        "insurance": "Insurance",
+        "credit": "Credit",
+        "soilHealth": "Soil Health",
+        "sustainableAgriculture": "Sustainable Agriculture"
+      },
+      "schemes": {
+        "pmKisan": {
+          "name": "PM-KISAN",
+          "description": "Direct income support to farmers",
+          "eligibility": "Small and marginal farmers with cultivable land",
+          "benefits": "₹6,000 per year in three installments"
+        },
+        "pmfby": {
+          "name": "Pradhan Mantri Fasal Bima Yojana",
+          "description": "Crop insurance scheme for farmers",
+          "eligibility": "All farmers growing notified crops",
+          "benefits": "Comprehensive risk cover for crops"
+        },
+        "soilHealth": {
+          "name": "Soil Health Card Scheme",
+          "description": "Soil testing and health monitoring",
+          "eligibility": "All farmers with agricultural land",
+          "benefits": "Free soil testing and nutrient recommendations"
+        },
+        "kisanCredit": {
+          "name": "Kisan Credit Card",
+          "description": "Credit support for agricultural activities",
+          "eligibility": "Farmers with valid land records",
+          "benefits": "Easy access to credit for farming needs"
+        },
+        "organicFarming": {
+          "name": "Organic Farming Promotion",
+          "description": "Support for organic farming practices",
+          "eligibility": "Farmers willing to adopt organic practices",
+          "benefits": "Subsidies on organic inputs and certification"
+        }
+      },
+      "months": {
+        "jan": "Jan",
+        "feb": "Feb",
+        "mar": "Mar",
+        "apr": "Apr",
+        "may": "May",
+        "jun": "Jun",
+        "jul": "Jul",
+        "aug": "Aug",
+        "sep": "Sep",
+        "oct": "Oct",
+        "nov": "Nov",
+        "dec": "Dec"
+      },
+      "districts": {
+        "cuttack": "Cuttack",
+        "bhubaneswar": "Bhubaneswar",
+        "puri": "Puri",
+        "khordha": "Khordha",
+        "ganjam": "Ganjam"
+      }
+    }
+  },
+
+  "common": {
+    "cancel": "Cancel"
+  },
+  "reports": {
+    "pageTitle": "Reports & Insights",
+    "pageDescription": "Generate and manage analytical reports",
+    "generateReport": "Generate Report",
+    "generateNewReport": "Generate New Report",
+    "generateReportDescription": "Create a custom report with specific parameters",
+    "reportTitle": "Report Title",
+    "enterReportTitle": "Enter report title",
+    "reportType": "Report Type",
+    "selectReportType": "Select report type",
+    "dateRange": "Date Range",
+    "selectDate": "Select date",
+    "fromDate": "From date",
+    "toDate": "To date",
+    "generating": "Generating...",
+    "filterReports": "Filter Reports",
+    "filterByType": "Filter by type",
+    "filterByStatus": "Filter by status",
+    "resetFilters": "Reset Filters",
+    "generated": "Generated",
+    "by": "By",
+    "size": "Size",
+    "downloads": "Downloads",
+    "format": "Format",
+    "preview": "Preview",
+    "download": "Download",
+    "viewDetails": "View Details",
+    "recommendation": "Recommendation",
+    "impact2": "Impact",
+    "tabs": {
+      "generatedReports": "Generated Reports",
+      "keyInsights": "Key Insights",
+      "reportAnalytics": "Report Analytics"
+    },
+    "filters": {
+      "allTypes": "All Types",
+      "allStatus": "All Status"
+    },
+    "types": {
+      "registration": "Registration",
+      "analytics": "Analytics",
+      "pestControl": "Pest Control",
+      "market": "Market",
+      "schemes": "Schemes",
+      "registrationReport": "Registration Report",
+      "analyticsReport": "Analytics Report",
+      "pestControlReport": "Pest Control Report",
+      "marketAnalysis": "Market Analysis",
+      "schemesReport": "Schemes Report"
+    },
+    "status": {
+      "completed": "Completed",
+      "processing": "Processing",
+      "failed": "Failed"
+    },
+    "impact": {
+      "high": "High",
+      "medium": "Medium",
+      "low": "Low"
+    },
+    "categories": {
+      "registration": "Registration",
+      "yield": "Yield",
+      "pestControl": "Pest Control",
+      "market": "Market"
+    },
+    "generatedBy": {
+      "systemAdmin": "System Admin",
+      "dataAnalyst": "Data Analyst",
+      "fieldOfficer": "Field Officer",
+      "marketAnalyst": "Market Analyst",
+      "programManager": "Program Manager"
+    },
+    "metrics": {
+      "totalReports": "Total Reports",
+      "thisMonth": "+{{count}} this month",
+      "downloads": "Downloads",
+      "thisWeek": "+{{count}} this week",
+      "activeUsers": "Active Users",
+      "newUsers": "+{{count}} new users",
+      "insightsGenerated": "Insights Generated",
+      "newInsights": "+{{count}} new insights"
+    },
+    "months": {
+      "jan": "Jan",
+      "feb": "Feb",
+      "mar": "Mar",
+      "apr": "Apr",
+      "may": "May",
+      "jun": "Jun",
+      "jul": "Jul",
+      "aug": "Aug",
+      "sep": "Sep",
+      "oct": "Oct",
+      "nov": "Nov",
+      "dec": "Dec"
+    },
+    "chart": {
+      "title": "Report Generation & Download Trends",
+      "description": "Monthly statistics for report generation and downloads",
+      "reportsGenerated": "Reports Generated",
+      "downloads": "Downloads"
+    },
+    "list": {
+      "monthlyFarmerRegistration": {
+        "title": "Monthly Farmer Registration Report",
+        "description": "Comprehensive analysis of new farmer registrations across all districts"
+      },
+      "cropYieldPerformance": {
+        "title": "Crop Yield Performance Analysis",
+        "description": "Detailed yield analysis comparing current season with historical data"
+      },
+      "pestOutbreakSummary": {
+        "title": "Pest Outbreak Summary Report",
+        "description": "Summary of pest outbreaks and control measures implemented"
+      },
+      "marketPriceTrends": {
+        "title": "Market Price Trends Analysis",
+        "description": "Analysis of crop price fluctuations and market trends"
+      },
+      "schemeImplementation": {
+        "title": "Scheme Implementation Progress",
+        "description": "Progress report on government scheme implementation and beneficiary coverage"
+      }
+    },
+    "insights": {
+      "farmerRegistrationSurge": {
+        "title": "Farmer Registration Surge",
+        "description": "25% increase in farmer registrations compared to last month",
+        "recommendation": "Expand outreach programs to maintain momentum"
+      },
+      "cropYieldImprovement": {
+        "title": "Crop Yield Improvement",
+        "description": "Average yield increased by 12% across major crops",
+        "recommendation": "Share best practices with underperforming districts"
+      },
+      "pestControlEffectiveness": {
+        "title": "Pest Control Effectiveness",
+        "description": "Pest control measures reduced crop damage by 18%",
+        "recommendation": "Continue current pest management strategies"
+      },
+      "marketPriceVolatility": {
+        "title": "Market Price Volatility",
+        "description": "Higher than normal price fluctuations observed",
+        "recommendation": "Implement price stabilization measures"
+      }
+    }
+  },
+  "month2": {
+    "Jan": "Jan",
+    "Feb": "Feb",
+    "Mar": "Mar",
+    "Apr": "Apr",
+    "May": "May",
+    "Jun": "Jun"
+  },
+  "common.save": "Save"
+}
