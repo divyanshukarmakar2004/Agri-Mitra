@@ -1,0 +1,124 @@
+{
+  "features": [
+    {
+      "page_name": "yield_prediction",
+      "keywords": ["yield","prediction","optimization","amount","income"],
+      "description": "lets open yield prediction page",
+      "action_message": "open yield prediction page"
+    },
+    {
+      "page_name": "satellite_analysis",
+      "keywords": ["satellite","ndvi","cropnutrients","ndre","farmimage"],
+      "description": "lets open satellite analysis page",
+      "action_message": "open satellite analysis page"
+    },
+    {
+      "page_name": "crop_disease",
+      "keywords": ["cropdisease","disease","yellowleaves","yellow","yellowleaf"],
+      "description": "lets open crop disease page",
+      "action_message": "open crop disease page"
+    },
+    {
+      "page_name": "irrigation_plan",
+      "keywords": ["irrigation","watering","plan","schedule","watermanagement"],
+      "description": "lets open irrigation plan page",
+      "action_message": "open irrigation plan page"
+    },
+    {
+      "page_name": "crop_recommendation",
+      "keywords": ["croprecommendation","bestcrop","suggestion","suitablecrop"],
+      "description": "lets open crop recommendation page",
+      "action_message": "open crop recommendation page"
+    },
+    {
+      "page_name": "fertilizer_pesticide_pedia",
+      "keywords": ["fertilizer","pesticide","pedia","information","chemical"],
+      "description": "lets open fertilizer and pesticide pedia page",
+      "action_message": "open fertilizer and pesticide pedia page"
+    },
+    {
+      "page_name": "simulation_game",
+      "keywords": ["simulation","game","practice","farmsimulation"],
+      "description": "lets open simulation game page",
+      "action_message": "open simulation game page"
+    },
+    {
+      "page_name": "farming_guide",
+      "keywords": ["farmingguide","tutorial","howtofarm","agricultureguide","riceguide","weatguide","cottonguide"],
+      "description": "lets open farming guide page",
+      "action_message": "open farming guide page"
+    },
+    {
+      "page_name": "fertilizer_check",
+      "keywords": ["fertilizercheck","verifyfertilizer","authenticity","quality"],
+      "description": "lets open fertilizer check page",
+      "action_message": "open fertilizer check page"
+    },
+    {
+      "page_name": "community",
+      "keywords": ["community","farmerscommunity","forum","discussion"],
+      "description": "lets open community page",
+      "action_message": "open community page"
+    },
+    {
+      "page_name": "government_schemes",
+      "keywords": ["governmentschemes","subsidies","farmerschemes","benefits"],
+      "description": "lets open government schemes and subsidies page",
+      "action_message": "open government schemes page"
+    },
+    {
+      "page_name": "agri_expert_chatbot",
+      "keywords": ["chatbot","expert","askexpert","agriculturehelp"],
+      "description": "lets open agriculture expert chatbot page",
+      "action_message": "open agri expert chatbot page"
+    },
+    {
+      "page_name": "pest_detection",
+      "keywords": ["pestdetection","insect","pestclassification","croppest"],
+      "description": "lets open pest detection page",
+      "action_message": "open pest detection page"
+    },
+    {
+      "page_name": "pest_report",
+      "keywords": ["pestreport","pestdata","pestsummary","croppestreport"],
+      "description": "lets open pest report page",
+      "action_message": "open pest report page"
+    },
+    {
+      "page_name": "pest_map",
+      "keywords": ["pestmap","infestationmap","pestdistribution","croppestmap"],
+      "description": "lets open pest map page",
+      "action_message": "open pest map page"
+    },
+    {
+      "page_name": "live_market_price",
+      "keywords": ["livemarketprice","mandirate","croprice","marketupdates"],
+      "description": "lets open live market price page",
+      "action_message": "open live market price page"
+    },
+    {
+      "page_name": "agriculture_news",
+      "keywords": ["agriculturenews","farmnews","cropnews","news"],
+      "description": "lets open agriculture news page",
+      "action_message": "open agriculture news page"
+    },
+    {
+      "page_name": "farms_and_tools",
+      "keywords": ["tools","equipment","farmingtools","machinery"],
+      "description": "lets open farms and tools page",
+      "action_message": "open farms and tools page"
+    },
+    {
+      "page_name": "farmer_to_farmer_trade",
+      "keywords": ["farmertrade","sellcrop","buycrop","peertrade","farmermarketplace","sell","buy"],
+      "description": "lets open farmer to farmer trade page",
+      "action_message": "open farmer to farmer trade page"
+    },
+    {
+      "page_name": "farmer_dashboard",
+      "keywords": ["farmerdashboard","profile","farmstats","farmsummary","overview","dashboard"],
+      "description": "lets open farmer dashboard page",
+      "action_message": "open farmer dashboard page"
+    }
+  ]
+}
