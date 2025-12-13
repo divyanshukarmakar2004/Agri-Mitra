@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: rice-disease-classifier
+    env: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app_fixed:app --bind 0.0.0.0:$PORT
+    healthCheckPath: /health
+    envVars:
+      - key: FLASK_ENV
+        value: production
+      - key: PYTHONUNBUFFERED
+        value: 1

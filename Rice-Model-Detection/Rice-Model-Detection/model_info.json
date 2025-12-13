@@ -1,0 +1,69 @@
+{
+  "model_architecture": "CNN for Rice Disease Classification",
+  "input_shape": [
+    224,
+    224,
+    3
+  ],
+  "num_classes": 7,
+  "class_names": [
+    "Rice_Bacterial_Leaf_Blight",
+    "Rice_Blast",
+    "Rice_Brown_Spot",
+    "Rice_Healthy",
+    "Rice_Leaf_Scald",
+    "Rice_Sheath_Blight",
+    "Rice_Tungro"
+  ],
+  "training_date": "2025-09-16T02:51:21.856105",
+  "final_metrics": {
+    "accuracy": 0.9578571428571429,
+    "macro_avg_precision": 0.9583759784449982,
+    "macro_avg_recall": 0.9578571428571429,
+    "macro_avg_f1_score": 0.9577326575134408
+  },
+  "per_class_metrics": {
+    "Rice_Bacterial_Leaf_Blight": {
+      "precision": 0.9502487562189055,
+      "recall": 0.955,
+      "f1-score": 0.9526184538653366,
+      "support": 200.0
+    },
+    "Rice_Blast": {
+      "precision": 0.9116279069767442,
+      "recall": 0.98,
+      "f1-score": 0.944578313253012,
+      "support": 200.0
+    },
+    "Rice_Brown_Spot": {
+      "precision": 0.9487179487179487,
+      "recall": 0.925,
+      "f1-score": 0.9367088607594937,
+      "support": 200.0
+    },
+    "Rice_Healthy": {
+      "precision": 0.9651741293532339,
+      "recall": 0.97,
+      "f1-score": 0.9675810473815462,
+      "support": 200.0
+    },
+    "Rice_Leaf_Scald": {
+      "precision": 0.967741935483871,
+      "recall": 0.9,
+      "f1-score": 0.9326424870466321,
+      "support": 200.0
+    },
+    "Rice_Sheath_Blight": {
+      "precision": 0.9798994974874372,
+      "recall": 0.975,
+      "f1-score": 0.9774436090225563,
+      "support": 200.0
+    },
+    "Rice_Tungro": {
+      "precision": 0.9852216748768473,
+      "recall": 1.0,
+      "f1-score": 0.9925558312655087,
+      "support": 200.0
+    }
+  }
+}

@@ -1,0 +1,515 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Rice Disease Classification - AgriMitra</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 20px;
+      }
+
+      .container {
+        background: white;
+        border-radius: 20px;
+        box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+        padding: 40px;
+        max-width: 800px;
+        width: 100%;
+        text-align: center;
+      }
+
+      .header {
+        margin-bottom: 30px;
+      }
+
+      .header h1 {
+        color: #2c3e50;
+        font-size: 2.5em;
+        margin-bottom: 10px;
+        font-weight: 700;
+      }
+
+      .header p {
+        color: #7f8c8d;
+        font-size: 1.1em;
+        margin-bottom: 20px;
+      }
+
+      .status {
+        padding: 10px 20px;
+        border-radius: 25px;
+        font-weight: 600;
+        margin-bottom: 30px;
+        display: inline-block;
+      }
+
+      .status.success {
+        background: #d4edda;
+        color: #155724;
+        border: 1px solid #c3e6cb;
+      }
+
+      .status.error {
+        background: #f8d7da;
+        color: #721c24;
+        border: 1px solid #f5c6cb;
+      }
+
+      .upload-area {
+        border: 3px dashed #3498db;
+        border-radius: 15px;
+        padding: 40px;
+        margin: 30px 0;
+        background: #f8f9fa;
+        transition: all 0.3s ease;
+        cursor: pointer;
+      }
+
+      .upload-area:hover {
+        border-color: #2980b9;
+        background: #e3f2fd;
+      }
+
+      .upload-area.dragover {
+        border-color: #27ae60;
+        background: #d5f4e6;
+      }
+
+      .upload-icon {
+        font-size: 3em;
+        color: #3498db;
+        margin-bottom: 20px;
+      }
+
+      .upload-text {
+        font-size: 1.2em;
+        color: #2c3e50;
+        margin-bottom: 10px;
+      }
+
+      .upload-subtext {
+        color: #7f8c8d;
+        font-size: 0.9em;
+      }
+
+      #fileInput {
+        display: none;
+      }
+
+      .btn {
+        background: linear-gradient(45deg, #3498db, #2980b9);
+        color: white;
+        border: none;
+        padding: 15px 30px;
+        border-radius: 25px;
+        font-size: 1.1em;
+        font-weight: 600;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        margin: 10px;
+      }
+
+      .btn:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 5px 15px rgba(52, 152, 219, 0.4);
+      }
+
+      .btn:disabled {
+        background: #bdc3c7;
+        cursor: not-allowed;
+        transform: none;
+        box-shadow: none;
+      }
+
+      .image-preview {
+        margin: 20px 0;
+        text-align: center;
+      }
+
+      .image-preview img {
+        max-width: 100%;
+        max-height: 300px;
+        border-radius: 10px;
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+      }
+
+      .results {
+        margin-top: 30px;
+        text-align: left;
+      }
+
+      .result-item {
+        background: #f8f9fa;
+        border-radius: 10px;
+        padding: 15px;
+        margin: 10px 0;
+        border-left: 4px solid #3498db;
+      }
+
+      .result-item.rank-1 {
+        border-left-color: #27ae60;
+        background: #d5f4e6;
+      }
+
+      .result-item.rank-2 {
+        border-left-color: #f39c12;
+        background: #fef9e7;
+      }
+
+      .result-item.rank-3 {
+        border-left-color: #e74c3c;
+        background: #fadbd8;
+      }
+
+      .result-class {
+        font-weight: 600;
+        color: #2c3e50;
+        margin-bottom: 5px;
+      }
+
+      .result-confidence {
+        color: #7f8c8d;
+        font-size: 0.9em;
+      }
+
+      .confidence-bar {
+        background: #ecf0f1;
+        height: 8px;
+        border-radius: 4px;
+        margin: 5px 0;
+        overflow: hidden;
+      }
+
+      .confidence-fill {
+        height: 100%;
+        background: linear-gradient(90deg, #3498db, #2980b9);
+        transition: width 0.5s ease;
+      }
+
+      .confidence-fill.rank-1 {
+        background: linear-gradient(90deg, #27ae60, #2ecc71);
+      }
+
+      .confidence-fill.rank-2 {
+        background: linear-gradient(90deg, #f39c12, #e67e22);
+      }
+
+      .confidence-fill.rank-3 {
+        background: linear-gradient(90deg, #e74c3c, #c0392b);
+      }
+
+      .loading {
+        display: none;
+        text-align: center;
+        margin: 20px 0;
+      }
+
+      .spinner {
+        border: 4px solid #f3f3f3;
+        border-top: 4px solid #3498db;
+        border-radius: 50%;
+        width: 40px;
+        height: 40px;
+        animation: spin 1s linear infinite;
+        margin: 0 auto 10px;
+      }
+
+      @keyframes spin {
+        0% {
+          transform: rotate(0deg);
+        }
+        100% {
+          transform: rotate(360deg);
+        }
+      }
+
+      .error-message {
+        background: #f8d7da;
+        color: #721c24;
+        padding: 15px;
+        border-radius: 10px;
+        margin: 20px 0;
+        border: 1px solid #f5c6cb;
+      }
+
+      .success-message {
+        background: #d4edda;
+        color: #155724;
+        padding: 15px;
+        border-radius: 10px;
+        margin: 20px 0;
+        border: 1px solid #c3e6cb;
+      }
+
+      .disease-info {
+        background: #e8f4fd;
+        border-radius: 10px;
+        padding: 20px;
+        margin: 20px 0;
+        border-left: 4px solid #3498db;
+      }
+
+      .disease-info h3 {
+        color: #2c3e50;
+        margin-bottom: 10px;
+      }
+
+      .disease-info p {
+        color: #7f8c8d;
+        line-height: 1.6;
+      }
+
+      @media (max-width: 600px) {
+        .container {
+          padding: 20px;
+          margin: 10px;
+        }
+
+        .header h1 {
+          font-size: 2em;
+        }
+
+        .upload-area {
+          padding: 20px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="header">
+        <h1>🌾 Rice Disease Classification</h1>
+        <p>Upload an image of a rice leaf to identify potential diseases</p>
+      </div>
+
+      <div class="status success">✅ Model Loaded Successfully</div>
+
+      <div class="upload-area" id="uploadArea">
+        <div class="upload-icon">📁</div>
+        <div class="upload-text">Click to upload or drag and drop</div>
+        <div class="upload-subtext">PNG, JPG, JPEG files only</div>
+        <input type="file" id="fileInput" accept="image/*" />
+      </div>
+
+      <div class="image-preview" id="imagePreview"></div>
+
+      <button class="btn" id="predictBtn" onclick="predictImage()" disabled>
+        🔍 Analyze Image
+      </button>
+
+      <div class="loading" id="loading">
+        <div class="spinner"></div>
+        <p>Analyzing image...</p>
+      </div>
+
+      <div id="results"></div>
+    </div>
+
+    <script>
+      const uploadArea = document.getElementById("uploadArea");
+      const fileInput = document.getElementById("fileInput");
+      const imagePreview = document.getElementById("imagePreview");
+      const predictBtn = document.getElementById("predictBtn");
+      const loading = document.getElementById("loading");
+      const results = document.getElementById("results");
+
+      let selectedFile = null;
+
+      // Upload area click handler
+      uploadArea.addEventListener("click", () => {
+        fileInput.click();
+      });
+
+      // File input change handler
+      fileInput.addEventListener("change", (e) => {
+        if (e.target.files.length > 0) {
+          handleFile(e.target.files[0]);
+        }
+      });
+
+      // Drag and drop handlers
+      uploadArea.addEventListener("dragover", (e) => {
+        e.preventDefault();
+        uploadArea.classList.add("dragover");
+      });
+
+      uploadArea.addEventListener("dragleave", () => {
+        uploadArea.classList.remove("dragover");
+      });
+
+      uploadArea.addEventListener("drop", (e) => {
+        e.preventDefault();
+        uploadArea.classList.remove("dragover");
+
+        if (e.dataTransfer.files.length > 0) {
+          handleFile(e.dataTransfer.files[0]);
+        }
+      });
+
+      function handleFile(file) {
+        // Validate file type
+        const allowedTypes = ["image/png", "image/jpeg", "image/jpg"];
+        if (!allowedTypes.includes(file.type)) {
+          showError("Please upload a PNG or JPG image file.");
+          return;
+        }
+
+        selectedFile = file;
+
+        // Show image preview
+        const reader = new FileReader();
+        reader.onload = (e) => {
+          imagePreview.innerHTML = `<img src="${e.target.result}" alt="Preview">`;
+        };
+        reader.readAsDataURL(file);
+
+        // Enable predict button
+        predictBtn.disabled = false;
+
+        // Clear previous results
+        results.innerHTML = "";
+      }
+
+      async function predictImage() {
+        if (!selectedFile) {
+          showError("Please select an image first.");
+          return;
+        }
+
+        // Show loading
+        loading.style.display = "block";
+        predictBtn.disabled = true;
+        results.innerHTML = "";
+
+        // Create form data
+        const formData = new FormData();
+        formData.append("image", selectedFile);
+
+        try {
+          const response = await fetch("/predict", {
+            method: "POST",
+            body: formData,
+          });
+
+          const data = await response.json();
+
+          if (data.success) {
+            displayResults(data.predictions);
+          } else {
+            showError(data.error || "Prediction failed. Please try again.");
+          }
+        } catch (error) {
+          showError(
+            "Network error. Please check your connection and try again."
+          );
+          console.error("Error:", error);
+        } finally {
+          loading.style.display = "none";
+          predictBtn.disabled = false;
+        }
+      }
+
+      function displayResults(predictions) {
+        let html = '<div class="success-message">✅ Analysis Complete!</div>';
+        html += '<div class="results">';
+
+        predictions.forEach((pred, index) => {
+          const rankClass = `rank-${pred.rank}`;
+          const confidencePercent = pred.percentage.toFixed(2);
+
+          html += `
+                    <div class="result-item ${rankClass}">
+                        <div class="result-class">
+                            ${pred.rank}. ${pred.class.replace(/_/g, " ")}
+                        </div>
+                        <div class="confidence-bar">
+                            <div class="confidence-fill ${rankClass}" style="width: ${confidencePercent}%"></div>
+                        </div>
+                        <div class="result-confidence">
+                            Confidence: ${confidencePercent}%
+                        </div>
+                    </div>
+                `;
+        });
+
+        html += "</div>";
+
+        // Add disease information for the top prediction
+        if (predictions.length > 0) {
+          const topPrediction = predictions[0];
+          html += getDiseaseInfo(topPrediction.class);
+        }
+
+        results.innerHTML = html;
+      }
+
+      function getDiseaseInfo(diseaseClass) {
+        const diseaseInfo = {
+          Rice_Bacterial_Leaf_Blight: {
+            name: "Bacterial Leaf Blight",
+            description:
+              "A bacterial disease caused by Xanthomonas oryzae. Symptoms include yellowing and wilting of leaves, often starting from the leaf tips.",
+          },
+          Rice_Blast: {
+            name: "Rice Blast",
+            description:
+              "A fungal disease caused by Magnaporthe oryzae. Characterized by diamond-shaped lesions on leaves, stems, and panicles.",
+          },
+          Rice_Brown_Spot: {
+            name: "Brown Spot",
+            description:
+              "A fungal disease caused by Bipolaris oryzae. Symptoms include small, round to oval brown spots on leaves and grains.",
+          },
+          Rice_Healthy: {
+            name: "Healthy Rice",
+            description:
+              "The rice plant appears to be healthy with no visible signs of disease. Continue good agricultural practices.",
+          },
+          Rice_Leaf_Scald: {
+            name: "Leaf Scald",
+            description:
+              "A fungal disease caused by Monographella albescens. Symptoms include scalded appearance of leaves with irregular margins.",
+          },
+          Rice_Sheath_Blight: {
+            name: "Sheath Blight",
+            description:
+              "A fungal disease caused by Rhizoctonia solani. Symptoms include oval or irregular lesions on leaf sheaths and leaves.",
+          },
+          Rice_Tungro: {
+            name: "Tungro",
+            description:
+              "A viral disease transmitted by leafhoppers. Symptoms include stunting, yellowing, and reduced tillering.",
+          },
+        };
+
+        const info = diseaseInfo[diseaseClass];
+        if (info) {
+          return `
+                    <div class="disease-info">
+                        <h3>ℹ️ About ${info.name}</h3>
+                        <p>${info.description}</p>
+                    </div>
+                `;
+        }
+        return "";
+      }
+
+      function showError(message) {
+        results.innerHTML = `<div class="error-message">❌ ${message}</div>`;
+      }
+    </script>
+  </body>
+</html>
