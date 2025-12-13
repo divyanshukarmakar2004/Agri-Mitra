@@ -1,0 +1,30 @@
+{
+  "val_loss": 0.666035532951355,
+  "val_accuracy": 0.8917428255081177,
+  "class_names": [
+    "Cotton_Bacterial_Blight",
+    "Cotton_Curl_Virus",
+    "Cotton_Fusarium_Wilt",
+    "Cotton_Healthy",
+    "Groundnut_Early_Leaf_Spot",
+    "Groundnut_Healthy",
+    "Groundnut_Late_Leaf_Spot",
+    "Groundnut_Nutrient_Deficiency",
+    "Groundnut_Rust",
+    "Rice_Bacterial_Leaf_Blight",
+    "Rice_Blast",
+    "Rice_Brown_Spot",
+    "Rice_Healthy",
+    "Rice_Leaf_Scald",
+    "Rice_Sheath_Blight",
+    "Rice_Tungro",
+    "Sugarcane_Bacterial_Blight",
+    "Sugarcane_Healthy",
+    "Sugarcane_Mosaic",
+    "Sugarcane_Red_Rot",
+    "Sugarcane_Rust",
+    "Sugarcane_Yellow"
+  ],
+  "training_time": "Fast (optimized for speed)",
+  "model_size": 3058006
+}

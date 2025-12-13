@@ -1,0 +1,195 @@
+{
+  "Powdery": {
+    "Rice": {
+      "General": {
+        "disease_info": "Powdery mildew on rice is caused by the fungus Erysiphe graminis. It appears as white to greyish powdery patches, typically on the upper surface of leaves. Severe infections can reduce photosynthetic activity, leading to yield loss.",
+        "preventative_cultural": [
+          "Use resistant rice varieties whenever available.",
+          "Ensure proper plant spacing to improve air circulation and reduce humidity within the canopy.",
+          "Avoid excessive application of nitrogen fertilizers, which promotes susceptible lush growth.",
+          "Practice crop rotation with non-cereal crops to break the disease cycle."
+        ],
+        "organic_low_cost": [
+          "Spray baking soda solution (1 tsp per liter of water) weekly as preventive measure.",
+          "Apply neem oil spray (5ml per liter) during early morning or evening.",
+          "Use milk spray (1:10 ratio with water) which creates alkaline environment unfavorable to fungus.",
+          "Maintain proper field sanitation by removing infected plant debris."
+        ]
+      },
+      "Tamil Nadu": {
+        "chemical_control": [
+          {
+            "active_ingredient": "Carbendazim 50% WP",
+            "brand_name": "Bavistin",
+            "dosage": "0.2% solution (2g per liter)",
+            "safe_period": "15 days before harvest",
+            "application": "Spray during early infection stage"
+          },
+          {
+            "active_ingredient": "Propiconazole 25% EC",
+            "brand_name": "Tilt",
+            "dosage": "1ml per liter",
+            "safe_period": "20 days before harvest",
+            "application": "Two sprays at 15-day intervals"
+          }
+        ]
+      },
+      "Odisha": {
+        "chemical_control": [
+          {
+            "active_ingredient": "Carbendazim 50% WP",
+            "brand_name": "Bavistin",
+            "dosage": "0.2% solution (2g per liter)",
+            "safe_period": "15 days before harvest",
+            "application": "Spray during early infection stage"
+          },
+          {
+            "active_ingredient": "Dinocap 30% EC",
+            "brand_name": "Karathane",
+            "dosage": "0.2% solution (2ml per liter)",
+            "safe_period": "5 days before harvest",
+            "application": "Apply at first sign of disease"
+          }
+        ]
+      }
+    },
+    "Cotton": {
+      "General": {
+        "disease_info": "Also known as Areolate Mildew, this disease is caused by Ramularia areola. It creates angular, pale lesions on the lower leaf surface, which can lead to premature defoliation and affect boll development.",
+        "preventative_cultural": [
+          "Plant resistant cotton varieties recommended for your region.",
+          "Maintain proper plant spacing for good air circulation.",
+          "Avoid overhead irrigation; use drip irrigation when possible.",
+          "Remove and destroy infected plant debris after harvest."
+        ],
+        "organic_low_cost": [
+          "Apply neem cake to soil as organic amendment (200kg per hectare).",
+          "Use garlic-chili spray (blend 100g garlic + 100g chili in 1L water).",
+          "Spray buttermilk solution (1:3 ratio with water) weekly.",
+          "Encourage beneficial insects by maintaining field borders with flowering plants."
+        ]
+      },
+      "Tamil Nadu": {
+        "chemical_control": [
+          {
+            "active_ingredient": "Mancozeb 75% WP",
+            "brand_name": "Dithane M-45",
+            "dosage": "2.5g per liter",
+            "safe_period": "15 days before harvest",
+            "application": "Preventive spray at 15-day intervals"
+          }
+        ]
+      },
+      "Odisha": {
+        "chemical_control": [
+          {
+            "active_ingredient": "Copper oxychloride 50% WP",
+            "brand_name": "Blitox",
+            "dosage": "3g per liter",
+            "safe_period": "7 days before harvest",
+            "application": "Spray at first appearance of symptoms"
+          }
+        ]
+      }
+    }
+  },
+  "Rust": {
+    "Rice": {
+      "General": {
+        "disease_info": "Leaf rust in rice, caused by Puccinia spp., appears as small, circular, reddish-brown pustules on leaves. It is less common than blast but can cause significant damage under favorable conditions.",
+        "preventative_cultural": [
+          "Grow resistant varieties as recommended by local agricultural universities.",
+          "Avoid delayed harvesting, which can increase disease severity.",
+          "Maintain balanced nutrition, particularly avoiding excess nitrogen.",
+          "Ensure proper water management to avoid water stress."
+        ],
+        "organic_low_cost": [
+          "Apply wood ash around plants to increase potassium availability.",
+          "Use turmeric powder spray (10g per liter) for its antifungal properties.",
+          "Spray cow urine solution (1:10 ratio) as organic fungicide.",
+          "Maintain field hygiene by removing alternate host weeds."
+        ]
+      },
+      "Tamil Nadu": {
+        "chemical_control": [
+          {
+            "active_ingredient": "Mancozeb 75% WP",
+            "brand_name": "Dithane M-45",
+            "dosage": "2.5g per liter",
+            "safe_period": "15 days before harvest",
+            "application": "Two sprays at 15-day intervals"
+          }
+        ]
+      },
+      "Odisha": {
+        "chemical_control": [
+          {
+            "active_ingredient": "Chlorothalonil 75% WP",
+            "brand_name": "Kavach",
+            "dosage": "0.2% solution (2g per liter)",
+            "safe_period": "5 days before harvest",
+            "application": "Spray at early infection stage"
+          }
+        ]
+      }
+    },
+    "Groundnut": {
+      "General": {
+        "disease_info": "Groundnut rust, caused by Puccinia arachidis, is a serious disease characterized by orange-colored pustules on the lower leaf surface. Severe infection leads to defoliation and significant yield loss.",
+        "preventative_cultural": [
+          "Use certified disease-free seeds from reliable sources.",
+          "Practice crop rotation with non-leguminous crops.",
+          "Maintain optimal plant population and avoid overcrowding.",
+          "Ensure adequate potassium nutrition for disease resistance."
+        ],
+        "organic_low_cost": [
+          "Apply compost enriched with Trichoderma (2 tons per hectare).",
+          "Use ginger-garlic extract spray (50g each per liter water).",
+          "Apply mustard cake as soil amendment (500kg per hectare).",
+          "Spray fish amino acid solution (3ml per liter) fortnightly."
+        ]
+      },
+      "Tamil Nadu": {
+        "chemical_control": [
+          {
+            "active_ingredient": "Tebuconazole 10% + Sulphur 65% WG",
+            "brand_name": "Tebusul",
+            "dosage": "400g per acre",
+            "safe_period": "30 days before harvest",
+            "application": "Apply at first sign of rust pustules"
+          }
+        ]
+      },
+      "Odisha": {
+        "chemical_control": [
+          {
+            "active_ingredient": "Propiconazole 25% EC",
+            "brand_name": "Tilt",
+            "dosage": "200-300ml per acre",
+            "safe_period": "21 days before harvest",
+            "application": "Two sprays at 15-day intervals"
+          }
+        ]
+      }
+    }
+  },
+  "Healthy": {
+    "General": {
+      "General": {
+        "disease_info": "Your plant appears healthy! This is great news. Continue with good agricultural practices to maintain plant health.",
+        "preventative_cultural": [
+          "Continue regular monitoring for early detection of any issues.",
+          "Maintain proper irrigation and drainage systems.",
+          "Follow recommended fertilization schedules.",
+          "Practice integrated pest management (IPM) approaches."
+        ],
+        "organic_low_cost": [
+          "Apply organic compost regularly to maintain soil health.",
+          "Use neem cake as organic fertilizer and pest deterrent.",
+          "Maintain beneficial insect populations through diverse cropping.",
+          "Regular application of bio-fertilizers like Azotobacter and PSB."
+        ]
+      }
+    }
+  }
+}
